@@ -1,0 +1,112 @@
+{
+  "2025": {
+    "going_concern": {
+      "count": 2,
+      "samples": [
+        {
+          "phrase": "going concern",
+          "context": "idence, and if the condition were to persist for any appreciable period of time, our viability as a going concern could be threatened. A disruption in our access to the mortgage secondary market and GSEs for liquidity could negatively affect us. Truist sells a portion of the mortgage loans that it originates to"
+        },
+        {
+          "phrase": "going concern",
+          "context": "idence, and if the condition were to persist for any appreciable period of time, our viability as a going concern could be threatened. A disruption in our access to the mortgage secondary market and GSEs for liquidity could negatively affect us. Truist sells a portion of the mortgage loans that it originates to"
+        }
+      ]
+    },
+    "litigation_serious": {
+      "count": 3,
+      "samples": [
+        {
+          "phrase": "class action",
+          "context": "ectly against the owners of the other entity, including Truist. Claims and legal actions, including class action lawsuits and enforcement proceedings, could involve large monetary amounts and significant defense costs and could result in settlements, judgments, or orders that include penalties, fines, injunctio"
+        },
+        {
+          "phrase": "class action",
+          "context": "ectly against the owners of the other entity, including Truist. Claims and legal actions, including class action lawsuits and enforcement proceedings, could involve large monetary amounts and significant defense costs and could result in settlements, judgments, or orders that include penalties, fines, injunctio"
+        },
+        {
+          "phrase": "criminal charges",
+          "context": "eive regular reporting from the program. Financial Crimes Risk Financial crimes risk is the risk of criminal charges, prosecutions, and penalties, as well as supervisory fines or supervisory actions due to noncompliance with applicable AML, sanctions, and anti-bribery/corruption laws and regulations. This includes"
+        }
+      ]
+    }
+  },
+  "2024": {
+    "going_concern": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "going concern",
+          "context": "idence, and if the condition were to persist for any appreciable period of time, our viability as a going concern could be threatened. A disruption in our access to the mortgage secondary market and GSEs for liquidity could negatively affect us. Truist sells a portion of the mortgage loans that it originates to"
+        }
+      ]
+    },
+    "litigation_serious": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "class action",
+          "context": "other entity, including Truist. 34 Truist Financial Corporation Claims and legal actions, including class action lawsuits and enforcement proceedings, could involve large monetary amounts, significant defense costs, and result in settlements, judgments, or orders that include penalties, fines, injunctions, or o"
+        }
+      ]
+    },
+    "covenant_breach": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "event of default",
+          "context": "ruist or by other institutions. Many of these transactions expose the Company to credit risk in the event of default of the Company\u2019s counterparty or client. In addition, the Company\u2019s credit risk may be exacerbated when the collateral held by Truist cannot be liquidated or is liquidated at prices not sufficient to"
+        }
+      ]
+    }
+  },
+  "2023": {
+    "going_concern": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "going concern",
+          "context": "idence, and if the condition were to persist for any appreciable period of time, our viability as a going concern could be threatened. A disruption in our access to the mortgage secondary market and GSEs for liquidity could negatively affect us. Truist sells a portion of the mortgage loans that it originates to"
+        }
+      ]
+    },
+    "litigation_serious": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "class action",
+          "context": "l institutions may be used as the basis for future settlements. Claims and legal actions, including class action lawsuits and enforcement proceedings, could involve large monetary amounts, significant defense costs, and result in settlements, judgments, penalties, fines, injunctions, or other forms of relief th"
+        }
+      ]
+    },
+    "covenant_breach": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "event of default",
+          "context": "ruist or by other institutions. Many of these transactions expose the Company to credit risk in the event of default of the Company\u2019s counterparty or client. In addition, the Company\u2019s credit risk may be exacerbated when the collateral held by Truist cannot be liquidated or is liquidated at prices not sufficient to"
+        }
+      ]
+    }
+  },
+  "2022": {
+    "litigation_serious": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "class action",
+          "context": "l institutions may be used as the basis for future settlements. Claims and legal actions, including class action lawsuits and enforcement proceedings, could involve large monetary amounts, significant defense costs, and result in settlements, judgments, penalties, fines, injunctions, or other forms of relief th"
+        }
+      ]
+    },
+    "covenant_breach": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "event of default",
+          "context": "ruist or by other institutions. Many of these transactions expose the Company to credit risk in the event of default of the Company\u2019s counterparty or client. In addition, the Company\u2019s credit risk may be exacerbated when the collateral held by Truist cannot be liquidated or is liquidated at prices not sufficient to"
+        }
+      ]
+    }
+  }
+}

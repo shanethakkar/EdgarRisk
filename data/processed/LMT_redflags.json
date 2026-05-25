@@ -1,0 +1,110 @@
+{
+  "2025": {
+    "litigation_serious": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "criminal investigation",
+          "context": "or being awarded contracts, loss of our ability to export products or perform services and civil or criminal investigations or proceedings. From time to time, the U.S. Government has proposed contract terms, imposed internal policies, or taken positions that represent fundamental changes from historical practices or that"
+        }
+      ]
+    }
+  },
+  "2024": {
+    "litigation_serious": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "criminal investigation",
+          "context": "or being awarded contracts, loss of our ability to export products or perform services and civil or criminal investigations or proceedings. From time to time, the U.S. Government has proposed contract terms, imposed internal policies, or taken positions that represent fundamental changes from historical practices or that"
+        }
+      ]
+    }
+  },
+  "2023": {
+    "litigation_serious": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "criminal investigation",
+          "context": "or being awarded contracts, loss of our ability to export products or perform services and civil or criminal investigations or proceedings. From time to time, the U.S. Government has proposed contract terms, imposed internal policies, or taken positions that represent fundamental changes from historical practices or that"
+        }
+      ]
+    },
+    "operational_crisis": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "production halt",
+          "context": "an extended period, we could be at risk of reduced orders, program cancellations, schedule delays, production halts and other disruptions and nonpayment, which could adversely affect our results of operations. Further, if any one of the 12 appropriations bills is under a continuing resolution as of April 30, 2024"
+        }
+      ]
+    }
+  },
+  "2022": {
+    "litigation_serious": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "criminal investigation",
+          "context": "or being awarded contracts, loss of our ability to export products or perform services and civil or criminal investigations or proceedings. In addition, costs to comply with new government regulations can increase our costs, reduce our margins and adversely affect our competitiveness.  Government contract laws and regula"
+        }
+      ]
+    }
+  },
+  "2021": {
+    "litigation_serious": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "criminal investigation",
+          "context": "or being awarded contracts, loss of our ability to export products or perform services and civil or criminal investigations or proceedings. In addition, costs to comply with new government regulations can increase our costs, reduce our margins and affect our competitiveness.  Government contract laws and regulations can"
+        }
+      ]
+    }
+  },
+  "2020": {
+    "litigation_serious": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "criminal investigation",
+          "context": "or being awarded contracts, loss of our ability to export products or perform services and civil or criminal investigations or proceedings. In addition, costs to comply with new government regulations can increase our costs, reduce our margins and affect our competitiveness.  In some instances, these laws and regulations"
+        }
+      ]
+    }
+  },
+  "2019": {
+    "litigation_serious": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "criminal investigation",
+          "context": "or being awarded contracts, loss of our ability to export products or perform services and civil or criminal investigations or proceedings. In some instances, these laws and regulations impose terms or obligations that are different than those typically found in commercial transactions. For example, the U.S. Government m"
+        }
+      ]
+    }
+  },
+  "2018": {
+    "litigation_serious": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "criminal investigation",
+          "context": "ding on or being awarded contracts, loss of our ability to export products or services and civil or criminal investigations or proceedings. In some instances, these laws and regulations impose terms or rights that are different from those typically found in commercial transactions. For example, the U.S. Government may te"
+        }
+      ]
+    }
+  },
+  "2017": {
+    "litigation_serious": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "criminal investigation",
+          "context": "ding on or being awarded contracts, loss of our ability to export products or services and civil or criminal investigations or proceedings.  In some instances, these laws and regulations impose terms or rights that are different from those typically found in commercial transactions. For example, the U.S. Government may t"
+        }
+      ]
+    }
+  }
+}

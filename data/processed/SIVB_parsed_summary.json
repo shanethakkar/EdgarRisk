@@ -1,0 +1,23 @@
+[
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 36,
+    "risk_factors_chars": 123938,
+    "mdna_chars": 165681,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SIVB_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 16,
+    "risk_factors_chars": 120087,
+    "mdna_chars": 184526,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SIVB_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 32,
+    "risk_factors_chars": 112476,
+    "mdna_chars": 206446,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SIVB_FY2020_parsed.json"
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "2021": {
+    "internal_controls": {
+      "count": 4,
+      "samples": [
+        {
+          "phrase": "material weakness",
+          "context": "irm, may reveal deficiencies in its internal control over financial reporting that are deemed to be material weaknesses. Preparing such attestation report and the cost of compliance with reporting requirements that the Company has not previously implemented will increase the Company\u2019s expenses and require significan"
+        },
+        {
+          "phrase": "material weakness",
+          "context": "lemented will increase the Company\u2019s expenses and require significant management time. In addition, material weaknesses in internal controls could also cause investors to lose confidence in the Company\u2019s reported financial information, which could have a negative effect on the trading price of the Company\u2019s common s"
+        },
+        {
+          "phrase": "material weakness",
+          "context": "irm, may reveal deficiencies in its internal control over financial reporting that are deemed to be material weaknesses. Preparing such attestation report and the cost of compliance with reporting requirements that the Company has not previously implemented will increase the Company\u2019s expenses and require significan"
+        },
+        {
+          "phrase": "material weakness",
+          "context": "lemented will increase the Company\u2019s expenses and require significant management time. In addition, material weaknesses in internal controls could also cause investors to lose confidence in the Company\u2019s reported financial information, which could have a negative effect on the trading price of the Company\u2019s common s"
+        }
+      ]
+    }
+  },
+  "2020": {
+    "going_concern": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "unable to continue",
+          "context": "s to conduct business and to process, record, and monitor transactions. If any of these vendors are unable to continue to provide us with these services or experience interruptions in their ability to provide us with these services, it could negatively impact our ability to serve our customers. Furthermore, the coron"
+        }
+      ]
+    },
+    "covenant_breach": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "event of default",
+          "context": "to moderate  52 Table of Content s loan-to-value ratios provide a lower probability of loss in the event of defaults in our loan portfolio. We will continue to monitor trends in our loan portfolio segments for any known or probable adverse conditions with an emphasis on our retail and hospitality loans within our"
+        }
+      ]
+    }
+  },
+  "2019": {
+    "litigation_serious": {
+      "count": 2,
+      "samples": [
+        {
+          "phrase": "class action",
+          "context": "Private parties may also challenge an institution\u2019s performance under fair lending laws in private class action litigation. Such actions could have a material adverse effect on our business, financial condition and results of operations. Increases in FDIC insurance premiums could adversely affect our earnings"
+        },
+        {
+          "phrase": "class action",
+          "context": "Private parties may also challenge an institution\u2019s performance under fair lending laws in private class action litigation. Such actions could have a material adverse effect on our business, financial condition and results of operations. Increases in FDIC insurance premiums could adversely affect our earnings"
+        }
+      ]
+    }
+  }
+}

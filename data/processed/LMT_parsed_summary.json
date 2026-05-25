@@ -1,0 +1,65 @@
+[
+  {
+    "fiscal_year": "2025",
+    "risk_factors_count": 18,
+    "risk_factors_chars": 78715,
+    "mdna_chars": 94114,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\LMT_FY2025_parsed.json"
+  },
+  {
+    "fiscal_year": "2024",
+    "risk_factors_count": 17,
+    "risk_factors_chars": 75407,
+    "mdna_chars": 107763,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\LMT_FY2024_parsed.json"
+  },
+  {
+    "fiscal_year": "2023",
+    "risk_factors_count": 17,
+    "risk_factors_chars": 74615,
+    "mdna_chars": 107260,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\LMT_FY2023_parsed.json"
+  },
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 5,
+    "risk_factors_chars": 82373,
+    "mdna_chars": 134163,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\LMT_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 19,
+    "risk_factors_chars": 88595,
+    "mdna_chars": 135677,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\LMT_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 33,
+    "risk_factors_chars": 100613,
+    "mdna_chars": 150067,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\LMT_FY2020_parsed.json"
+  },
+  {
+    "fiscal_year": "2019",
+    "risk_factors_count": 23,
+    "risk_factors_chars": 68307,
+    "mdna_chars": 142323,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\LMT_FY2019_parsed.json"
+  },
+  {
+    "fiscal_year": "2018",
+    "risk_factors_count": 19,
+    "risk_factors_chars": 56933,
+    "mdna_chars": 157053,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\LMT_FY2018_parsed.json"
+  },
+  {
+    "fiscal_year": "2017",
+    "risk_factors_count": 16,
+    "risk_factors_chars": 51900,
+    "mdna_chars": 172439,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\LMT_FY2017_parsed.json"
+  }
+]

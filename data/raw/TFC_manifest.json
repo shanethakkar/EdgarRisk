@@ -1,0 +1,34 @@
+[
+  {
+    "ticker": "TFC",
+    "fiscal_year": "2025",
+    "filing_date": "2026-02-24",
+    "report_date": "2025-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\TFC_10K_2025.html",
+    "accession": "0000092230-26-000030"
+  },
+  {
+    "ticker": "TFC",
+    "fiscal_year": "2024",
+    "filing_date": "2025-02-25",
+    "report_date": "2024-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\TFC_10K_2024.html",
+    "accession": "0000092230-25-000020"
+  },
+  {
+    "ticker": "TFC",
+    "fiscal_year": "2023",
+    "filing_date": "2024-02-27",
+    "report_date": "2023-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\TFC_10K_2023.html",
+    "accession": "0000092230-24-000010"
+  },
+  {
+    "ticker": "TFC",
+    "fiscal_year": "2022",
+    "filing_date": "2023-02-28",
+    "report_date": "2022-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\TFC_10K_2022.html",
+    "accession": "0000092230-23-000034"
+  }
+]

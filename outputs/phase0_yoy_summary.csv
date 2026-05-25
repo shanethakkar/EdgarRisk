@@ -1,0 +1,11 @@
+pair,role,ticker,fy_start,fy_end,risk_chars_start,risk_chars_end,risk_chars_pct_growth,redflag_start,redflag_end,redflag_delta
+BA vs LMT,failure,BA,2017,2018,36175,37478,3.6,0,0,0
+BA vs LMT,survivor,LMT,2017,2018,51900,56933,9.7,1,1,0
+SIVB vs JPM,failure,SIVB,2020,2022,112476,123938,10.2,2,2,0
+SIVB vs JPM,survivor,JPM,2020,2022,130395,123984,-4.9,4,4,0
+BBBY vs BBY,failure,BBBY,2019,2022,39523,88108,122.9,0,7,7
+BBBY vs BBY,survivor,BBY,2019,2022,45739,64671,41.4,4,3,-1
+PTON vs GRMN,failure,PTON,2022,2024,225235,196620,-12.7,20,19,-1
+PTON vs GRMN,survivor,GRMN,2022,2024,104723,103113,-1.5,2,2,0
+SI vs JPM,failure,SI,2019,2021,230729,168382,-27.0,2,4,2
+SI vs JPM,survivor,JPM,2019,2021,113548,127974,12.7,4,4,0

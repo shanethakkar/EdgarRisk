@@ -1,0 +1,66 @@
+[
+  {
+    "ticker": "BBY",
+    "fiscal_year": "2026",
+    "filing_date": "2026-03-18",
+    "report_date": "2026-01-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\BBY_10K_2026.html",
+    "accession": "0000764478-26-000009"
+  },
+  {
+    "ticker": "BBY",
+    "fiscal_year": "2025",
+    "filing_date": "2025-03-19",
+    "report_date": "2025-02-01",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\BBY_10K_2025.html",
+    "accession": "0000764478-25-000007"
+  },
+  {
+    "ticker": "BBY",
+    "fiscal_year": "2024",
+    "filing_date": "2024-03-15",
+    "report_date": "2024-02-03",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\BBY_10K_2024.html",
+    "accession": "0000764478-24-000010"
+  },
+  {
+    "ticker": "BBY",
+    "fiscal_year": "2023",
+    "filing_date": "2023-03-17",
+    "report_date": "2023-01-28",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\BBY_10K_2023.html",
+    "accession": "0000764478-23-000006"
+  },
+  {
+    "ticker": "BBY",
+    "fiscal_year": "2022",
+    "filing_date": "2022-03-18",
+    "report_date": "2022-01-29",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\BBY_10K_2022.html",
+    "accession": "0000764478-22-000008"
+  },
+  {
+    "ticker": "BBY",
+    "fiscal_year": "2021",
+    "filing_date": "2021-03-19",
+    "report_date": "2021-01-30",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\BBY_10K_2021.html",
+    "accession": "0000764478-21-000024"
+  },
+  {
+    "ticker": "BBY",
+    "fiscal_year": "2020",
+    "filing_date": "2020-03-23",
+    "report_date": "2020-02-01",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\BBY_10K_2020.html",
+    "accession": "0000764478-20-000017"
+  },
+  {
+    "ticker": "BBY",
+    "fiscal_year": "2019",
+    "filing_date": "2019-03-28",
+    "report_date": "2019-02-02",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\BBY_10K_2019.html",
+    "accession": "0000764478-19-000009"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "ticker": "SI",
+    "fiscal_year": "2021",
+    "filing_date": "2022-02-28",
+    "report_date": "2021-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\SI_10K_2021.html",
+    "accession": "0001312109-22-000051"
+  },
+  {
+    "ticker": "SI",
+    "fiscal_year": "2020",
+    "filing_date": "2021-03-08",
+    "report_date": "2020-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\SI_10K_2020.html",
+    "accession": "0001312109-21-000057"
+  },
+  {
+    "ticker": "SI",
+    "fiscal_year": "2019",
+    "filing_date": "2020-03-10",
+    "report_date": "2019-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\SI_10K_2019.html",
+    "accession": "0001312109-20-000020"
+  }
+]

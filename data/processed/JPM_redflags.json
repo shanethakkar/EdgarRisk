@@ -1,0 +1,224 @@
+{
+  "2025": {
+    "internal_controls": {
+      "count": 2,
+      "samples": [
+        {
+          "phrase": "material weakness",
+          "context": "rts. JPMorganChase\u2019s disclosure and financial reporting controls may not always be effective, and a material weakness or significant deficiency in internal control over financial reporting could occur. Any such significant lapse, weakness or deficiency could result in inaccurate financial reporting which, in turn, c"
+        },
+        {
+          "phrase": "significant deficiency",
+          "context": "disclosure and financial reporting controls may not always be effective, and a material weakness or significant deficiency in internal control over financial reporting could occur. Any such significant lapse, weakness or deficiency could result in inaccurate financial reporting which, in turn, could: \u2022 materially and adv"
+        }
+      ]
+    },
+    "regulatory_investigation": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "subject to investigation",
+          "context": "in disputes and litigation with CCPs, the client\u2019s bankruptcy estate and other creditors, or  \u2022 be subject to investigations by governmental authorities. In addition, JPMorganChase has in the past, and could in the future, experience instances in which borrowers or other counterparties engage in fraudulent activity relate"
+        }
+      ]
+    },
+    "litigation_serious": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "class action",
+          "context": "as a defendant or is otherwise involved in many civil and governmental legal proceedings, including class actions, derivative actions and other litigation or disputes with third parties, as well as investigations and enforcement actions by U.S. and non-U.S. governmental authorities, including criminal proceedin"
+        }
+      ]
+    }
+  },
+  "2024": {
+    "internal_controls": {
+      "count": 2,
+      "samples": [
+        {
+          "phrase": "material weakness",
+          "context": "MorganChase\u2019s disclosure controls and procedures will be effective in every circumstance, or that a material weakness or significant deficiency in internal control over financial reporting will not occur. Any such lapse, weakness or  deficiency could result in inaccurate financial reporting which, in turn, could: \u2022"
+        },
+        {
+          "phrase": "significant deficiency",
+          "context": "ure controls and procedures will be effective in every circumstance, or that a material weakness or significant deficiency in internal control over financial reporting will not occur. Any such lapse, weakness or  deficiency could result in inaccurate financial reporting which, in turn, could: \u2022 materially and adversely a"
+        }
+      ]
+    },
+    "litigation_serious": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "class action",
+          "context": "JPMorganChase is named as a defendant or is otherwise involved in many legal proceedings, including class actions, derivative actions and other litigation or disputes with third parties, as well as criminal proceedings. Actions currently pending against JPMorganChase may result in judgments, settlements, fines,"
+        }
+      ]
+    }
+  },
+  "2023": {
+    "going_concern": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "unable to continue",
+          "context": "ogy, and \u2022 targeted recruitment of JPMorgan Chase employees by competitors.  If JPMorgan Chase were unable to continue to attract or retain qualified and diverse employees, including successors to the Chief Executive Officer, members of the Operating Committee and other senior leaders, JPMorgan Chase\u2019s performance, i"
+        }
+      ]
+    },
+    "internal_controls": {
+      "count": 2,
+      "samples": [
+        {
+          "phrase": "material weakness",
+          "context": "organ Chase\u2019s disclosure controls and procedures will be effective in every circumstance, or that a material weakness or significant deficiency in internal control over financial reporting will not occur. Any such lapses or deficiencies could result in inaccurate financial reporting which, in turn, could: 27 Part I"
+        },
+        {
+          "phrase": "significant deficiency",
+          "context": "ure controls and procedures will be effective in every circumstance, or that a material weakness or significant deficiency in internal control over financial reporting will not occur. Any such lapses or deficiencies could result in inaccurate financial reporting which, in turn, could: 27 Part I \u2022 materially and adversely"
+        }
+      ]
+    },
+    "litigation_serious": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "class action",
+          "context": "PMorgan Chase is named as a defendant or is otherwise involved in many legal proceedings, including class actions, derivative actions and other litigation or disputes with third parties, as well as criminal proceedings. Actions currently pending against JPMorgan Chase may result in judgments, settlements, fines"
+        }
+      ]
+    }
+  },
+  "2022": {
+    "going_concern": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "unable to continue",
+          "context": "g when members of its workforce are targeted for recruitment by competitors. If JPMorgan Chase were unable to continue to attract or retain qualified and diverse employees, including successors to the Chief Executive Officer, members of the Operating Committee and other senior leaders, JPMorgan Chase\u2019s performance, i"
+        }
+      ]
+    },
+    "internal_controls": {
+      "count": 2,
+      "samples": [
+        {
+          "phrase": "material weakness",
+          "context": "organ Chase\u2019s disclosure controls and procedures will be effective in every circumstance, or that a material weakness or significant deficiency in internal control over financial reporting will not occur. Any such lapses or deficiencies could result in inaccurate financial reporting which, in turn, could: \u2022 material"
+        },
+        {
+          "phrase": "significant deficiency",
+          "context": "ure controls and procedures will be effective in every circumstance, or that a material weakness or significant deficiency in internal control over financial reporting will not occur. Any such lapses or deficiencies could result in inaccurate financial reporting which, in turn, could: \u2022 materially and adversely affect JP"
+        }
+      ]
+    },
+    "litigation_serious": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "class action",
+          "context": "PMorgan Chase is named as a defendant or is otherwise involved in many legal proceedings, including class actions and other litigation or disputes with third parties. Actions currently pending against JPMorgan Chase may result in judgments, settlements, fines, penalties or other sanctions adverse to JPMorgan Ch"
+        }
+      ]
+    }
+  },
+  "2021": {
+    "going_concern": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "unable to continue",
+          "context": "g when members of its workforce are targeted for recruitment by competitors. If JPMorgan Chase were unable to continue to attract or retain qualified and diverse employees, including successors to the Chief Executive Officer, members of the Operating Committee and other senior leaders, JPMorgan Chase\u2019s performance, i"
+        }
+      ]
+    },
+    "internal_controls": {
+      "count": 2,
+      "samples": [
+        {
+          "phrase": "material weakness",
+          "context": "organ Chase\u2019s disclosure controls and procedures will be effective in every circumstance, or that a material weakness or significant deficiency in internal control over financial reporting will not occur. Any such lapses or deficiencies could result in inaccurate financial reporting which, in turn, could: \u2022 material"
+        },
+        {
+          "phrase": "significant deficiency",
+          "context": "ure controls and procedures will be effective in every circumstance, or that a material weakness or significant deficiency in internal control over financial reporting will not occur. Any such lapses or deficiencies could result in inaccurate financial reporting which, in turn, could: \u2022 materially and adversely affect JP"
+        }
+      ]
+    },
+    "litigation_serious": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "class action",
+          "context": "PMorgan Chase is named as a defendant or is otherwise involved in many legal proceedings, including class actions and other litigation or disputes with third parties. Actions currently pending against JPMorgan Chase may result in judgments, settlements, fines, penalties or other sanctions adverse to JPMorgan Ch"
+        }
+      ]
+    }
+  },
+  "2020": {
+    "going_concern": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "unable to continue",
+          "context": "verse new employees and retain, develop and motivate its existing employees. If JPMorgan Chase were unable to continue to attract or retain qualified and diverse employees, including successors to the Chief Executive Officer or members of the Operating Committee, JPMorgan Chase\u2019s performance, including its competitiv"
+        }
+      ]
+    },
+    "internal_controls": {
+      "count": 2,
+      "samples": [
+        {
+          "phrase": "material weakness",
+          "context": "organ Chase\u2019s disclosure controls and procedures will be effective in every circumstance, or that a material weakness or significant deficiency in internal control over financial reporting will not occur. Any such lapses or deficiencies could: \u2022 materially and adversely affect JPMorgan Chase\u2019s business and results o"
+        },
+        {
+          "phrase": "significant deficiency",
+          "context": "ure controls and procedures will be effective in every circumstance, or that a material weakness or significant deficiency in internal control over financial reporting will not occur. Any such lapses or deficiencies could: \u2022 materially and adversely affect JPMorgan Chase\u2019s business and results of operations or financial"
+        }
+      ]
+    },
+    "litigation_serious": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "class action",
+          "context": "PMorgan Chase is named as a defendant or is otherwise involved in many legal proceedings, including class actions and other litigation or disputes with third parties. Actions currently pending against JPMorgan Chase may result in judgments, settlements, fines, penalties or other sanctions adverse to JPMorgan Ch"
+        }
+      ]
+    }
+  },
+  "2019": {
+    "going_concern": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "unable to continue",
+          "context": "ed and diverse new employees and retain and motivate its existing employees. If JPMorgan Chase were unable to continue to attract or retain qualified employees, including successors to the Chief Executive Officer or members of the Operating Committee, JPMorgan Chase\u2019s performance, including its competitive position,"
+        }
+      ]
+    },
+    "internal_controls": {
+      "count": 2,
+      "samples": [
+        {
+          "phrase": "material weakness",
+          "context": "organ Chase\u2019s disclosure controls and procedures will be effective in every circumstance, or that a material weakness or significant deficiency in internal control over financial reporting will not occur. Any such lapses or deficiencies could: \u2022 materially and adversely affect JPMorgan Chase\u2019s business and results o"
+        },
+        {
+          "phrase": "significant deficiency",
+          "context": "ure controls and procedures will be effective in every circumstance, or that a material weakness or significant deficiency in internal control over financial reporting will not occur. Any such lapses or deficiencies could: \u2022 materially and adversely affect JPMorgan Chase\u2019s business and results of operations or financial"
+        }
+      ]
+    },
+    "litigation_serious": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "class action",
+          "context": "PMorgan Chase is named as a defendant or is otherwise involved in many legal proceedings, including class actions and other litigation or disputes with third parties. Actions currently pending against JPMorgan Chase may result in judgments, settlements, fines, penalties or other sanctions adverse to JPMorgan Ch"
+        }
+      ]
+    }
+  }
+}

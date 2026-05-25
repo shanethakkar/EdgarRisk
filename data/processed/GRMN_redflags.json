@@ -1,0 +1,62 @@
+{
+  "2025": {
+    "going_concern": {
+      "count": 2,
+      "samples": [
+        {
+          "phrase": "unable to continue",
+          "context": "erations.     Our products are also dependent on certain licensed technology and content. If we are unable to continue sourcing such technology and content from our licensors and are unable to obtain an alternative source, or if our relationships with our licensors change detrimentally, our ability to provide certain"
+        },
+        {
+          "phrase": "unable to continue",
+          "context": "erations.     Our products are also dependent on certain licensed technology and content. If we are unable to continue sourcing such technology and content from our licensors and are unable to obtain an alternative source, or if our relationships with our licensors change detrimentally, our ability to provide certain"
+        }
+      ]
+    }
+  },
+  "2024": {
+    "going_concern": {
+      "count": 2,
+      "samples": [
+        {
+          "phrase": "unable to continue",
+          "context": "harmed.       Our products are also dependent on certain licensed technology and content. If we are unable to continue sourcing such technology and content from our licensors and are unable to obtain an alternative source, or if our relationships with our licensors change detrimentally, our ability to provide certain"
+        },
+        {
+          "phrase": "unable to continue",
+          "context": "harmed.       Our products are also dependent on certain licensed technology and content. If we are unable to continue sourcing such technology and content from our licensors and are unable to obtain an alternative source, or if our relationships with our licensors change detrimentally, our ability to provide certain"
+        }
+      ]
+    }
+  },
+  "2023": {
+    "going_concern": {
+      "count": 2,
+      "samples": [
+        {
+          "phrase": "unable to continue",
+          "context": "harmed.    \u00a0  Our products are also dependent on certain licensed technology and content. If we are unable to continue sourcing such technology and content from our licensors and are unable to obtain an alternative source, or if our relationships with our licensors change detrimentally, our ability to provide certain"
+        },
+        {
+          "phrase": "unable to continue",
+          "context": "harmed.    \u00a0  Our products are also dependent on certain licensed technology and content. If we are unable to continue sourcing such technology and content from our licensors and are unable to obtain an alternative source, or if our relationships with our licensors change detrimentally, our ability to provide certain"
+        }
+      ]
+    }
+  },
+  "2022": {
+    "going_concern": {
+      "count": 2,
+      "samples": [
+        {
+          "phrase": "unable to continue",
+          "context": "harmed.    \u00a0  Our products are also dependent on certain licensed technology and content. If we are unable to continue sourcing such technology and content from our licensors and are unable to obtain an alternative source, or if our relationships with our licensors change detrimentally, our ability to provide certain"
+        },
+        {
+          "phrase": "unable to continue",
+          "context": "harmed.    \u00a0  Our products are also dependent on certain licensed technology and content. If we are unable to continue sourcing such technology and content from our licensors and are unable to obtain an alternative source, or if our relationships with our licensors change detrimentally, our ability to provide certain"
+        }
+      ]
+    }
+  }
+}

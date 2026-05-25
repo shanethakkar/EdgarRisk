@@ -1,0 +1,182 @@
+{
+  "2026": {
+    "covenant_breach": {
+      "count": 2,
+      "samples": [
+        {
+          "phrase": "event of default",
+          "context": "e to comply with covenants. As of January\u00a031, 2026, we were in compliance with all covenants. If an event of default were to occur with respect to any of our other debt, it would likely constitute an event of default under the Five-Year Facility Agreement as well. Our credit ratings and outlook as of March 16, 2026"
+        },
+        {
+          "phrase": "event of default",
+          "context": "event of default were to occur with respect to any of our other debt, it would likely constitute an event of default under the Five-Year Facility Agreement as well. Our credit ratings and outlook as of March 16, 2026, remained unchanged from those disclosed in our Annual Report on Form 10-K for the fiscal year ende"
+        }
+      ]
+    }
+  },
+  "2025": {
+    "litigation_serious": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "class action",
+          "context": "of consequences, including, but not limited to, customer complaints, individual consumer claims or class actions, product recalls, temporary bans on products, stoppages at production facilities, orders to stop providing services, remediation costs, corrective action plans, fines, penalties, regulatory enforcem"
+        }
+      ]
+    },
+    "covenant_breach": {
+      "count": 2,
+      "samples": [
+        {
+          "phrase": "event of default",
+          "context": "to comply with covenants.  As of\u00a0February 1, 2025, we were in compliance with all covenants. If an event of default were to occur with respect to any of our other debt, it would likely constitute an event of default under the Five-Year Facility Agreement as well.    29    Our credit ratings and outlook as of March"
+        },
+        {
+          "phrase": "event of default",
+          "context": "event of default were to occur with respect to any of our other debt, it would likely constitute an event of default under the Five-Year Facility Agreement as well.    29    Our credit ratings and outlook as of March\u00a017, 2025,  remained unchanged from those disclosed in our Annual Report on Form 10-K for the fiscal"
+        }
+      ]
+    }
+  },
+  "2024": {
+    "litigation_serious": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "class action",
+          "context": "of consequences, including, but not limited to, customer complaints, individual consumer claims or class actions, product recalls, temporary bans on products, stoppages at production facilities, orders to stop providing services, remediation costs, corrective action plans, fines, penalties, regulatory enforcem"
+        }
+      ]
+    },
+    "covenant_breach": {
+      "count": 3,
+      "samples": [
+        {
+          "phrase": "event of default",
+          "context": "ain our obligations as the master lessee. This leaves us at risk for any remaining liability in the event of default by the sub-lease tenant.   Operational Risks   Interruptions and other factors affecting our stores and supply chain, including in-bound deliveries from our vendors, may adversely affect our business"
+        },
+        {
+          "phrase": "event of default",
+          "context": "financial ratios. As of\u00a0February 3, 2024, we were in compliance with all financial covenants. If an event of default were to occur with respect to any of our other debt, it would likely constitute an event of default under the Five-Year Facility Agreement as well.   Our credit ratings and outlook as of March\u00a013, 20"
+        },
+        {
+          "phrase": "event of default",
+          "context": "event of default were to occur with respect to any of our other debt, it would likely constitute an event of default under the Five-Year Facility Agreement as well.   Our credit ratings and outlook as of March\u00a013, 2024,  remained unchanged from those disclosed in our Annual Report on Form 10-K for the fiscal year e"
+        }
+      ]
+    }
+  },
+  "2023": {
+    "covenant_breach": {
+      "count": 3,
+      "samples": [
+        {
+          "phrase": "event of default",
+          "context": "ain our obligations as the master lessee. This leaves us at risk for any remaining liability in the event of default by the sub-lease tenant.   Operational Risks   Interruptions and other factors affecting our stores and supply chain, including in-bound deliveries from our vendors, may adversely affect our business"
+        },
+        {
+          "phrase": "event of default",
+          "context": "financial ratios. As of\u00a0January 28, 2023, we were in compliance with all financial covenants. If an event of default were to occur with respect to any of our other debt, it would likely constitute an event of default under the Five-Year Facility Agreement as well.    29    Our credit ratings and outlook as of March"
+        },
+        {
+          "phrase": "event of default",
+          "context": "event of default were to occur with respect to any of our other debt, it would likely constitute an event of default under the Five-Year Facility Agreement as well.    29    Our credit ratings and outlook as of March\u00a015, 2023,  remained unchanged from those disclosed in our Annual Report on Form 10-K for the fiscal"
+        }
+      ]
+    }
+  },
+  "2022": {
+    "covenant_breach": {
+      "count": 3,
+      "samples": [
+        {
+          "phrase": "event of default",
+          "context": "ain our obligations as the master lessee. This leaves us at risk for any remaining liability in the event of default by the sub-lease tenant.    13    Operational Risks   Interruptions and other factors affecting our stores and supply chain, including in-bound deliveries from our vendors, may adversely affect our b"
+        },
+        {
+          "phrase": "event of default",
+          "context": "financial ratios. As of\u00a0January 29, 2022, we were in compliance with all financial covenants. If an event of default were to occur with respect to any of our other debt, it would likely constitute an event of default under the Five-Year Facility Agreement as well.   Our credit ratings and outlook as of March\u00a016, 20"
+        },
+        {
+          "phrase": "event of default",
+          "context": "event of default were to occur with respect to any of our other debt, it would likely constitute an event of default under the Five-Year Facility Agreement as well.   Our credit ratings and outlook as of March\u00a016, 2022, are summarized below.  On May 20, 2021, Standard & Poor\u2019s upgraded its rating to BBB+ and confir"
+        }
+      ]
+    }
+  },
+  "2021": {
+    "covenant_breach": {
+      "count": 3,
+      "samples": [
+        {
+          "phrase": "event of default",
+          "context": "ain our obligations as the master lessee. This leaves us at risk for any remaining liability in the event of default by the sub-lease tenant.    12    Operational Risks   Interruptions and other factors affecting our supply chain, including in-bound deliveries from our vendors, may adversely affect our business."
+        },
+        {
+          "phrase": "event of default",
+          "context": "financial ratios. As of\u00a0January 30, 2021, we were in compliance with all financial covenants. If an event of default were to occur with respect to any of our other debt, it would likely constitute an event of default under the Facility as well.    31    Our credit ratings and outlook as of March\u00a018, 2021, are summa"
+        },
+        {
+          "phrase": "event of default",
+          "context": "event of default were to occur with respect to any of our other debt, it would likely constitute an event of default under the Facility as well.    31    Our credit ratings and outlook as of March\u00a018, 2021, are summarized below.  On February 26, 2021, Moody\u2019s upgraded its rating to A3 and confirmed its outlook of S"
+        }
+      ]
+    }
+  },
+  "2020": {
+    "litigation_serious": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "class action",
+          "context": "ur strategies as well as alter our expense structure; \u2022  the impact of litigation trends, including class action lawsuits involving consumers and shareholders, and labor and employment matters; and \u2022  the impact of the general election on the development, or changes in, laws, regulations and policies.   With re"
+        }
+      ]
+    },
+    "covenant_breach": {
+      "count": 3,
+      "samples": [
+        {
+          "phrase": "event of default",
+          "context": "ain our obligations as the master lessee. This leaves us at risk for any remaining liability in the event of default by the sub-lease tenant.   Constraints in the capital markets or our vendor credit terms may have a material adverse impact on our liquidity.   We need sufficient sources of liquidity to fund our wor"
+        },
+        {
+          "phrase": "event of default",
+          "context": "in financial ratios. At\u00a0February\u00a01, 2020, we were in compliance with all financial covenants. If an event of default were to occur with respect to any of our other debt, it would likely constitute an event of default under our Facility as well.   Our credit ratings and outlook at\u00a0March\u00a018, 2020, are summarized belo"
+        },
+        {
+          "phrase": "event of default",
+          "context": "event of default were to occur with respect to any of our other debt, it would likely constitute an event of default under our Facility as well.   Our credit ratings and outlook at\u00a0March\u00a018, 2020, are summarized below. On October 30, 2019, Fitch affirmed its BBB rating and withdrew all future ratings for commercial"
+        }
+      ]
+    }
+  },
+  "2019": {
+    "litigation_serious": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "class action",
+          "context": "legislation related to the Tax Cuts and Jobs Act;\u00a0and \u2022 the impact of litigation trends, including class action lawsuits involving consumers and shareholders, and labor and employment matters. Regulatory activity focused on the retail sector has grown in recent years, increasing the risk of fines and additiona"
+        }
+      ]
+    },
+    "covenant_breach": {
+      "count": 3,
+      "samples": [
+        {
+          "phrase": "event of default",
+          "context": "ain our obligations as the master lessee. This leaves us at risk for any remaining liability in the event of default by the sub-lease tenant. Constraints in the capital markets or our vendor credit terms may have a material adverse impact on our liquidity. We need sufficient sources of liquidity to fund our working"
+        },
+        {
+          "phrase": "event of default",
+          "context": "financial ratios. At  February\u00a02, 2019 , we were compliant with all such financial covenants. If an event of default were to occur with respect to any of our other debt, it would likely constitute an event of default under our facilities as well. Our credit ratings and outlook at  March\u00a026, 2019 , are summarized be"
+        },
+        {
+          "phrase": "event of default",
+          "context": "event of default were to occur with respect to any of our other debt, it would likely constitute an event of default under our facilities as well. Our credit ratings and outlook at  March\u00a026, 2019 , are summarized below. In fiscal 2019, Moody's upgraded its outlook from stable to positive and Fitch upgraded its rat"
+        }
+      ]
+    }
+  }
+}

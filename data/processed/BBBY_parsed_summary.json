@@ -1,0 +1,37 @@
+[
+  {
+    "fiscal_year": "2023",
+    "risk_factors_count": 49,
+    "risk_factors_chars": 68278,
+    "mdna_chars": 157771,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BBBY_FY2023_parsed.json"
+  },
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 57,
+    "risk_factors_chars": 88108,
+    "mdna_chars": 170430,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BBBY_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 32,
+    "risk_factors_chars": 67078,
+    "mdna_chars": 160016,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BBBY_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 19,
+    "risk_factors_chars": 53039,
+    "mdna_chars": 137837,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BBBY_FY2020_parsed.json"
+  },
+  {
+    "fiscal_year": "2019",
+    "risk_factors_count": 21,
+    "risk_factors_chars": 39523,
+    "mdna_chars": 108573,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BBBY_FY2019_parsed.json"
+  }
+]

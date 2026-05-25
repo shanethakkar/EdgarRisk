@@ -1,0 +1,62 @@
+{
+  "2022": {
+    "internal_controls": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "material weakness",
+          "context": "ail to meet our reporting obligations. If we or our independent registered accounting firm identify material weaknesses in our internal controls over financial reporting or if we are otherwise required to restate our financial statements, we could be required to implement costly and time-consuming remedial measures"
+        }
+      ]
+    },
+    "restatement": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "restate our financial",
+          "context": "ial weaknesses in our internal controls over financial reporting or if we are otherwise required to restate our financial statements, we could be required to implement costly and time-consuming remedial measures and could lose investor confidence in the accuracy and completeness of our financial reports. We may also fac"
+        }
+      ]
+    }
+  },
+  "2021": {
+    "internal_controls": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "material weakness",
+          "context": "ail to meet our reporting obligations. If we or our independent registered accounting firm identify material weaknesses in our internal controls over financial reporting or if we are otherwise required to restate our financial statements, we could be required to implement costly and time-consuming remedial measures"
+        }
+      ]
+    },
+    "restatement": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "restate our financial",
+          "context": "ial weaknesses in our internal controls over financial reporting or if we are otherwise required to restate our financial statements, we could be required to implement costly and time-consuming remedial measures and could lose investor confidence in the accuracy and completeness of our financial reports. We may also fac"
+        }
+      ]
+    }
+  },
+  "2020": {
+    "internal_controls": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "material weakness",
+          "context": "ail to meet our reporting obligations. If we or our independent registered accounting firm identify material weaknesses in our internal controls over financial reporting or if we are otherwise required to restate our financial statements, we could be required to implement costly and time-consuming remedial measures"
+        }
+      ]
+    },
+    "restatement": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "restate our financial",
+          "context": "ial weaknesses in our internal controls over financial reporting or if we are otherwise required to restate our financial statements, we could be required to implement costly and time-consuming remedial measures and could lose investor confidence in the accuracy and completeness of our financial reports. We may also fac"
+        }
+      ]
+    }
+  }
+}

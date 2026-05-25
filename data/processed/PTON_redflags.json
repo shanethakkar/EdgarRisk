@@ -1,0 +1,430 @@
+{
+  "2025": {
+    "going_concern": {
+      "count": 2,
+      "samples": [
+        {
+          "phrase": "unable to continue",
+          "context": "ty payment processors to bill Subscribers on our behalf. If these third parties become unwilling or unable to continue processing payments on our behalf, we would have to find alternative methods of collecting payments, which could adversely impact Subscriber acquisition and retention. In addition, from time to time,"
+        },
+        {
+          "phrase": "unable to continue",
+          "context": "ely have a negative effect on the trading price of our Class A common stock. In addition, if we are unable to continue to meet these requirements, we may not be able to remain listed on The Nasdaq Global Select Market. Failure to maintain effective internal control over our financial and management systems may strain"
+        }
+      ]
+    },
+    "internal_controls": {
+      "count": 5,
+      "samples": [
+        {
+          "phrase": "material weakness",
+          "context": "result in a complete loss of your investment in our Class A common stock. We previously identified material weaknesses in our internal control over financial reporting, and if our remediation of such material weaknesses does not remain effective, or if we fail to develop and maintain an effective system of disclosu"
+        },
+        {
+          "phrase": "material weakness",
+          "context": "aterial weaknesses in our internal control over financial reporting, and if our remediation of such material weaknesses does not remain effective, or if we fail to develop and maintain an effective system of disclosure controls and internal control over financial reporting, our ability to produce timely and accurate"
+        },
+        {
+          "phrase": "material weakness",
+          "context": "accurate financial statements or comply with applicable laws and regulations could be impaired.  A material weakness is a deficiency, or combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the annual or interim financ"
+        },
+        {
+          "phrase": "material weakness",
+          "context": "statements for fiscal 2021, fiscal 2022, fiscal 2023, and fiscal 2024, we identified the following material weaknesses in our internal control over financial reporting. \u2022 A material weakness related to controls around the existence, completeness, and valuation of inventory. This material weakness existed during fis"
+        },
+        {
+          "phrase": "material weakness",
+          "context": "identified the following material weaknesses in our internal control over financial reporting. \u2022 A material weakness related to controls around the existence, completeness, and valuation of inventory. This material weakness existed during fiscal 2021 through fiscal 2024 and was remediated in fiscal 2025. \u2022 A materi"
+        }
+      ]
+    },
+    "litigation_serious": {
+      "count": 5,
+      "samples": [
+        {
+          "phrase": "class action",
+          "context": "ect our brand, impact demand for our products and services, and subject us to litigation (including class actions), regulatory investigations and/or penalties and fines, any or all of which could have an adverse effect on our business, financial condition, and operating results. 21 While we maintain cyber insur"
+        },
+        {
+          "phrase": "class action",
+          "context": "he U.S. from January 2018 to May 2023. As a result, we are now and may in the future be involved in class action litigation and enforcement by regulatory authorities. We may also in the future be involved in product recalls for which insurance is not available, and may be involved in other litigation or events"
+        },
+        {
+          "phrase": "class action",
+          "context": "insurance only provides limited coverage.  We have been and in some cases continue to be subject to class action litigation, private personal injury claims and other regulatory proceedings, government inquiries and investigations related to the Tread+ and Bike recalls and other matters that, regardless of their"
+        },
+        {
+          "phrase": "class action",
+          "context": "y investigations with corresponding fines, civil claims including representative actions, and other class action type litigation (where individuals have suffered harm), potentially amounting to significant compensation or damages liabilities (including under laws such as in California that provide statutory dam"
+        },
+        {
+          "phrase": "class action",
+          "context": "the operating performance of those companies. In the past, stockholders have instituted securities class action litigation following periods of market volatility. The Company has been named in three putative securities class action lawsuits, and ten putative stockholder derivative actions. These lawsuits and a"
+        }
+      ]
+    },
+    "covenant_breach": {
+      "count": 2,
+      "samples": [
+        {
+          "phrase": "event of default",
+          "context": "ur credit agreement provides that our breach or failure to satisfy certain covenants constitutes an event of default. Upon the occurrence of an event of default, our lenders could elect to declare all amounts outstanding under its debt agreements to be immediately due and payable. In addition, our lenders would hav"
+        },
+        {
+          "phrase": "event of default",
+          "context": "or failure to satisfy certain covenants constitutes an event of default. Upon the occurrence of an event of default, our lenders could elect to declare all amounts outstanding under its debt agreements to be immediately due and payable. In addition, our lenders would have the right to proceed against the assets we"
+        }
+      ]
+    },
+    "auditor_concerns": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "qualified opinion",
+          "context": "ing is effective, or if our independent registered public accounting firm is unable to express an unqualified opinion as to the effectiveness of our internal control over financial reporting, investors may lose confidence in the accuracy and completeness of our financial reports, the market price of our Class A comm"
+        }
+      ]
+    },
+    "operational_crisis": {
+      "count": 2,
+      "samples": [
+        {
+          "phrase": "recall of our",
+          "context": "r other corrective actions and enforcement risks. For example, in May 2021 we initiated a voluntary recall of our Tread+ product in coordination with the U.S. Consumer Product Safety Commission (\u201cCPSC\u201d) in response to reports of injuries associated with our Tread+ and in May 2023, in collaboration with the CPSC,"
+        },
+        {
+          "phrase": "recall of the",
+          "context": "ssociated with our Tread+ and in May 2023, in collaboration with the CPSC, we announced a voluntary recall of the original Peloton model Bike seat posts sold in the U.S. from January 2018 to May 2023. As a result, we are now and may in the future be involved in class action litigation and enforcement by regulato"
+        }
+      ]
+    }
+  },
+  "2024": {
+    "going_concern": {
+      "count": 2,
+      "samples": [
+        {
+          "phrase": "unable to continue",
+          "context": "ty payment processors to bill Subscribers on our behalf. If these third parties become unwilling or unable to continue processing payments on our behalf, we would have to find alternative methods of collecting payments, which could adversely impact Subscriber acquisition and retention. In addition, from time to time,"
+        },
+        {
+          "phrase": "unable to continue",
+          "context": "ely have a negative effect on the trading price of our Class A common stock. In addition, if we are unable to continue to meet these requirements, we may not be able to remain listed on The Nasdaq Global Select Market. Failure to maintain effective internal control over our financial and management systems may strain"
+        }
+      ]
+    },
+    "internal_controls": {
+      "count": 5,
+      "samples": [
+        {
+          "phrase": "material weakness",
+          "context": "ns and result in a complete loss of your investment in our Class A common stock. We have identified material weaknesses in our internal control over financial reporting, and if our remediation of such material weaknesses is not effective, or if we fail to develop and maintain an effective system of disclosure contro"
+        },
+        {
+          "phrase": "material weakness",
+          "context": "aterial weaknesses in our internal control over financial reporting, and if our remediation of such material weaknesses is not effective, or if we fail to develop and maintain an effective system of disclosure controls and internal control over financial reporting, our ability to produce timely and accurate financia"
+        },
+        {
+          "phrase": "material weakness",
+          "context": "accurate financial statements or comply with applicable laws and regulations could be impaired.  A material weakness is a deficiency, or combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the annual or interim financ"
+        },
+        {
+          "phrase": "material weakness",
+          "context": "statements for fiscal 2021, fiscal 2022, fiscal 2023, and fiscal 2024, we identified the following material weaknesses in our internal control over financial reporting. \u2022 A material weakness related to controls around the existence, completeness, and valuation of inventory. This material weakness existed during fis"
+        },
+        {
+          "phrase": "material weakness",
+          "context": "identified the following material weaknesses in our internal control over financial reporting. \u2022 A material weakness related to controls around the existence, completeness, and valuation of inventory. This material weakness existed during fiscal 2021, fiscal 2022, fiscal 2023, and fiscal 2024. \u2022 A material weakness"
+        }
+      ]
+    },
+    "litigation_serious": {
+      "count": 5,
+      "samples": [
+        {
+          "phrase": "class action",
+          "context": "ect our brand, impact demand for our products and services, and subject us to litigation (including class actions), regulatory investigations and/or penalties and fines, any or all of which could have an adverse effect on our business, financial condition, and operating results. While we maintain cyber insuranc"
+        },
+        {
+          "phrase": "class action",
+          "context": "he U.S. from January 2018 to May 2023. As a result, we are now and may in the future be involved in class action litigation. We may also in the future be involved in product recalls for which we generally have not purchased insurance, and may be involved in other litigation or events for which insurance product"
+        },
+        {
+          "phrase": "class action",
+          "context": "itigation or events for which insurance products may have limitations.  We are presently subject to class action litigation, private personal injury claims and other regulatory proceedings, government inquiries and investigations related to the Tread+ and Bike recalls and other matters that, regardless of their"
+        },
+        {
+          "phrase": "class action",
+          "context": "tion, government inquiries or investigations, regulatory proceedings, as well as personal injury or class action claims and lawsuits, and securities, commercial, consumer and intellectual property infringement matters that we are currently facing or could face, can be protracted and expensive, and have results"
+        },
+        {
+          "phrase": "class action",
+          "context": "y investigations with corresponding fines, civil claims including representative actions, and other class action type litigation (where individuals have suffered harm), potentially amounting to significant compensation or damages liabilities (including under laws such as in California that provide statutory dam"
+        }
+      ]
+    },
+    "covenant_breach": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "event of default",
+          "context": "ur credit agreement provides that our breach or failure to satisfy certain covenants constitutes an event of default. Upon the occurrence of an event of  22 default, our lenders could elect to declare all amounts outstanding under its debt agreements to be immediately due and payable. In addition, our lenders would"
+        }
+      ]
+    },
+    "auditor_concerns": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "qualified opinion",
+          "context": "ing is effective, or if our independent registered public accounting firm is unable to express an unqualified opinion as to the effectiveness of our internal control over financial reporting, investors may lose confidence in the accuracy and completeness of our financial reports, the market price of our Class A comm"
+        }
+      ]
+    },
+    "operational_crisis": {
+      "count": 5,
+      "samples": [
+        {
+          "phrase": "recall of our",
+          "context": "gns, product recalls, or other corrective action. For example, in May 2021 we initiated a voluntary recall of our Tread+ product in coordination with the U.S. Consumer Product Safety Commission (\u201cCPSC\u201d) in response to reports of injuries associated with our Tread+ and in May 2023, in collaboration with the CPSC,"
+        },
+        {
+          "phrase": "recall of the",
+          "context": "ssociated with our Tread+ and in May 2023, in collaboration with the CPSC, we announced a voluntary recall of the original Peloton model Bikes (not Bike+) seat posts sold in the U.S. from January 2018 to May 2023. As a result, we are now and may in the future be involved in class action litigation. We may also i"
+        },
+        {
+          "phrase": "recall of our",
+          "context": "s .\u201d Tread+ Product Recall Return Reserves and Cost Estimates In May 2021, we announced a voluntary recall of our Tread+ product in collaboration with the  CPSC   and halted sales of this product to work on product enhancements. Members were notified that they could return their Tread+ for a full refund, or wait"
+        },
+        {
+          "phrase": "recall of the",
+          "context": "lts .\u201d Bike Seat Post Recall In May 2023,  in collaboration with the CPSC, we announced a voluntary recall of the original Peloton Bike (not Bike+) sold in the U.S. from January 2018 to May 2023 related to its seat post, and we are offering Members a free replacement seat post as the approved repair.  As a resul"
+        },
+        {
+          "phrase": "recall of the",
+          "context": "inancial Statements in Part II, Item 8 of this Annual Report on Form 10-K, we announced a voluntary recall of the Company's Tread+ product in collaboration with the U.S. Consumer Product Safety Commission (\u201cCPSC\u201d) which had permitted customers to return the product for a refund. The amount of a refund customers"
+        }
+      ]
+    }
+  },
+  "2023": {
+    "going_concern": {
+      "count": 2,
+      "samples": [
+        {
+          "phrase": "unable to continue",
+          "context": "ty payment processors to bill Subscribers on our behalf. If these third parties become unwilling or unable to continue processing payments on our behalf, we would have to find alternative methods of collecting payments, which could adversely impact Subscriber acquisition and retention. In addition, from time to time,"
+        },
+        {
+          "phrase": "unable to continue",
+          "context": "ely have a negative effect on the trading price of our Class A common stock. In addition, if we are unable to continue to meet these requirements, we may not be able to remain listed on The Nasdaq Global Select Market. Failure to maintain effective internal control over our financial and management systems may strain"
+        }
+      ]
+    },
+    "internal_controls": {
+      "count": 5,
+      "samples": [
+        {
+          "phrase": "material weakness",
+          "context": "ns and result in a complete loss of your investment in our Class A common stock. We have identified material weaknesses in our internal control over financial reporting, and if our remediation of such material weaknesses is not effective, or if we fail to develop and maintain an effective system of disclosure contro"
+        },
+        {
+          "phrase": "material weakness",
+          "context": "aterial weaknesses in our internal control over financial reporting, and if our remediation of such material weaknesses is not effective, or if we fail to develop and maintain an effective system of disclosure controls and internal control over financial reporting, our ability to produce timely and accurate financia"
+        },
+        {
+          "phrase": "material weakness",
+          "context": "e of preparing our financial statements for fiscal 2021, fiscal 2022 and fiscal 2023, we identified material weaknesses in our internal control over financial reporting. A material weakness is a deficiency, or combination of deficiencies, in internal control over financial reporting, such that there is a reasonable"
+        },
+        {
+          "phrase": "material weakness",
+          "context": "fiscal 2023, we identified material weaknesses in our internal control over financial reporting. A material weakness is a deficiency, or combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the annual or interim financ"
+        },
+        {
+          "phrase": "material weakness",
+          "context": "timely basis. In the course of preparing our financial statements for fiscal 2023, we identified a material weakness related to information technology general controls (\u201cITGCs\u201d) in the area of user access over a certain information technology system specific to Precor. We have concluded that this material weakness"
+        }
+      ]
+    },
+    "litigation_serious": {
+      "count": 5,
+      "samples": [
+        {
+          "phrase": "class action",
+          "context": "ss A common stock could fall substantially, and we could face costly lawsuits, including securities class action suits. See \u201c Risks Related to the Ownership of our Class A Common Stock. \u201d Our passion and focus on delivering a high-quality and engaging Peloton experience may not maximize short-term financial res"
+        },
+        {
+          "phrase": "class action",
+          "context": "ect our brand, impact demand for our products and services, and subject us to litigation (including class actions), regulatory investigations and/or penalties and fines, any or all of which could have an adverse effect on our business, financial condition, and operating results. While we maintain cyber insuranc"
+        },
+        {
+          "phrase": "class action",
+          "context": "ecalls including the development of new or additional product features. We are presently subject to class action litigation, private personal injury claims and other regulatory proceedings, government inquiries and investigations related to the Tread+ and Bike recalls and other matters that, regardless of their"
+        },
+        {
+          "phrase": "class action",
+          "context": "xample, the Company and certain of its former officers have been named in a consolidated securities class action on behalf of a class consisting of individuals who purchased or otherwise acquired our Class A common stock between September 11, 2020 and May 5, 2021, alleging that the defendants made false and/or"
+        },
+        {
+          "phrase": "class action",
+          "context": "urrent and former officers have also been named as defendants in a consolidated putative securities class action related to demand for our Connected Fitness Products. In particular, plaintiffs filed a putative securities class action lawsuit purportedly on behalf of a class consisting of individuals who purchas"
+        }
+      ]
+    },
+    "covenant_breach": {
+      "count": 2,
+      "samples": [
+        {
+          "phrase": "event of default",
+          "context": "ur credit agreement provides that our breach or failure to satisfy certain covenants constitutes an event of default. Upon the occurrence of an event of default, our lenders could elect to declare all amounts outstanding under its debt agreements to be immediately due and payable. In addition, our  23 lenders would"
+        },
+        {
+          "phrase": "event of default",
+          "context": "or failure to satisfy certain covenants constitutes an event of default. Upon the occurrence of an event of default, our lenders could elect to declare all amounts outstanding under its debt agreements to be immediately due and payable. In addition, our  23 lenders would have the right to proceed against the asset"
+        }
+      ]
+    },
+    "auditor_concerns": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "qualified opinion",
+          "context": "ing is effective, or if our independent registered public accounting firm is unable to express an unqualified opinion as to the effectiveness of our internal control over financial reporting, investors may lose confidence in the accuracy and completeness of our financial reports, the market price of our Class A comm"
+        }
+      ]
+    },
+    "operational_crisis": {
+      "count": 4,
+      "samples": [
+        {
+          "phrase": "recall of the",
+          "context": "erating results. In addition, in May 2023, in collaboration with the CPSC, we announced a voluntary recall of the original Peloton model Bikes (not Bike+) seat posts sold in the U.S. from January 2018 to May 2023 and we are offering Members a free replacement seat post as the approved repair. This recall may res"
+        },
+        {
+          "phrase": "recall of our",
+          "context": "related litigation, including consumer claims.  Additionally, in May 2021, we initiated a voluntary recall of our Tread+ product in coordination with the CPSC in response to reports of injuries associated with our Tread+, one of which led to the death of a child. In 2020, we conducted a voluntary recall in coord"
+        },
+        {
+          "phrase": "recall of the",
+          "context": "ausing injuries. In addition, in May 2023, in collaboration with the CPSC, we announced a voluntary recall of the original Peloton model Bikes (not Bike+) seat posts sold in the U.S. from January 2018 to May 2023, and we are offering Members a free replacement seat post as the approved repair. We have incurred,"
+        },
+        {
+          "phrase": "recall of the",
+          "context": "ults .\u201d Bike Seat Post Recall In May 2023, in collaboration with the CPSC, we announced a voluntary recall of the original Peloton model Bikes (not Bike+) seat posts sold in the U.S. from January 2018 to May 2023. We are offering Members a replacement seat post as the approved repair. As a result of this recall,"
+        }
+      ]
+    }
+  },
+  "2022": {
+    "going_concern": {
+      "count": 2,
+      "samples": [
+        {
+          "phrase": "unable to continue",
+          "context": "ty payment processors to bill Subscribers on our behalf. If these third parties become unwilling or unable to continue processing payments on our behalf, we would have to find alternative methods of collecting payments, which could adversely impact Subscriber acquisition and retention. In addition, from time to time,"
+        },
+        {
+          "phrase": "unable to continue",
+          "context": "ely have a negative effect on the trading price of our Class A common stock. In addition, if we are unable to continue to meet these requirements, we may not be able to remain listed on The Nasdaq Global Select Market. Failure to maintain effective internal control over our financial and management systems may strain"
+        }
+      ]
+    },
+    "internal_controls": {
+      "count": 5,
+      "samples": [
+        {
+          "phrase": "material weakness",
+          "context": "ns and result in a complete loss of your investment in our Class A common stock. We have identified material weaknesses in our internal control over financial reporting, and if our remediation of such material weaknesses is not effective, or if we fail to develop and maintain an effective system of disclosure contro"
+        },
+        {
+          "phrase": "material weakness",
+          "context": "aterial weaknesses in our internal control over financial reporting, and if our remediation of such material weaknesses is not effective, or if we fail to develop and maintain an effective system of disclosure controls and internal control over financial reporting, our ability to produce timely and accurate financia"
+        },
+        {
+          "phrase": "material weakness",
+          "context": "In the course of preparing our financial statements for fiscal 2021 and fiscal 2022, we identified material weaknesses in our internal control over financial reporting. A material weakness is a deficiency, or combination of deficiencies, in internal control over financial reporting, such that there is a reasonable"
+        },
+        {
+          "phrase": "material weakness",
+          "context": "fiscal 2022, we identified material weaknesses in our internal control over financial reporting. A material weakness is a deficiency, or combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the annual or interim financ"
+        },
+        {
+          "phrase": "material weakness",
+          "context": "the annual or interim financial statements will not be prevented or detected on a timely basis. The material weaknesses identified related to reporting involving inventory and the controls that validate the inputs and assumptions used in our impairment testing. We have concluded that these material weaknesses arose"
+        }
+      ]
+    },
+    "litigation_serious": {
+      "count": 5,
+      "samples": [
+        {
+          "phrase": "class action",
+          "context": "ss A common stock could fall substantially, and we could face costly lawsuits, including securities class action suits. See \u201c Risks Related to the Ownership of our Class A Common Stock. \u201d Our passion and focus on delivering a high-quality and engaging Peloton experience may not maximize short-term financial res"
+        },
+        {
+          "phrase": "class action",
+          "context": "nd implementation of the recall. In addition to the CPSC investigation, we are presently subject to class action litigation, private personal injury claims and other regulatory proceedings related to the Tread+ recall and other matters that, regardless of their merits, could harm our reputation, divert manageme"
+        },
+        {
+          "phrase": "class action",
+          "context": ". For example, the Company and certain of its officers have been named in a consolidated securities class action on behalf of a class consisting of individuals who purchased or otherwise acquired our Class A common stock between September 11, 2020 and May 5, 2021, alleging that the defendants made false and/or"
+        },
+        {
+          "phrase": "class action",
+          "context": "could lose all or part of your investment.\u201d  Separately, we have been named in putative securities class actions related to demand for our Connected Fitness Products. In particular, plaintiffs filed putative securities class action lawsuits purportedly on behalf of a class consisting of individuals who purchas"
+        },
+        {
+          "phrase": "class action",
+          "context": "d to demand for our Connected Fitness Products. In particular, plaintiffs filed putative securities class action lawsuits purportedly on behalf of a class consisting of individuals who purchased or otherwise acquired our common stock between February 5, 2021 and November 4, 2021, alleging that the Company and c"
+        }
+      ]
+    },
+    "covenant_breach": {
+      "count": 2,
+      "samples": [
+        {
+          "phrase": "event of default",
+          "context": "ur credit agreement provides that our breach or failure to satisfy certain covenants constitutes an event of default. Upon the occurrence of an event of default, our lenders could elect to declare all amounts outstanding under its debt agreements to be immediately due and payable. In addition, our lenders would hav"
+        },
+        {
+          "phrase": "event of default",
+          "context": "or failure to satisfy certain covenants constitutes an event of default. Upon the occurrence of an event of default, our lenders could elect to declare all amounts outstanding under its debt agreements to be immediately due and payable. In addition, our lenders would have the right to proceed against the assets we"
+        }
+      ]
+    },
+    "auditor_concerns": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "qualified opinion",
+          "context": "ing is effective, or if our independent registered public accounting firm is unable to express an unqualified opinion as to the effectiveness of our internal control over financial reporting, investors may lose confidence in the accuracy and completeness of our financial reports, the market price of our Class A comm"
+        }
+      ]
+    },
+    "operational_crisis": {
+      "count": 5,
+      "samples": [
+        {
+          "phrase": "recall of our",
+          "context": "d with our Tread+ product, and as a result, on May 5, 2021, we decided to issue a voluntary product recall of our Tread+, which we are conducting in collaboration with the CPSC. On the same day we also issued a voluntary product recall of our Tread. As discussed further in \u201c - Risks Related to Our Connected Fitn"
+        },
+        {
+          "phrase": "recall of our",
+          "context": "e are conducting in collaboration with the CPSC. On the same day we also issued a voluntary product recall of our Tread. As discussed further in \u201c - Risks Related to Our Connected Fitness Products and Members\u201d  and \u201c-  Risks Related to Laws, Regulation, and Legal Proceedings ,\u201d the legal proceedings in which we"
+        },
+        {
+          "phrase": "recall of our",
+          "context": "do not agree with all of the assertions in the CPSC\u2019s warning, in May 2021 we initiated a voluntary recall of our Tread+ product in collaboration with the CPSC. The CPSC is currently investigating the matter and in August 2022 we were notified by the CPSC that the agency staff believes we failed to meet our stat"
+        },
+        {
+          "phrase": "recall of the",
+          "context": "sely impact our operating results, brand reputation, and business. In connection with the voluntary recall of the Tread+, we deve loped and released additional safety features, such as a passcode to protect against unauthorized use, and we are working to develop additional physical hardware to further enhance th"
+        },
+        {
+          "phrase": "recall of our",
+          "context": "leveraging, the August 2021 Peloton Bike price reduction, and charges associated with the voluntary recall of our Tread+ product. Subscription cost of revenue for the fiscal year ended June 30, 2022 increased $119.5 million, or 36.1%, compared to the fiscal year ended June 30, 2021. This increase was primarily d"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "fiscal_year": "2025",
+    "risk_factors_count": 50,
+    "risk_factors_chars": 108702,
+    "mdna_chars": 160082,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\GRMN_FY2025_parsed.json"
+  },
+  {
+    "fiscal_year": "2024",
+    "risk_factors_count": 50,
+    "risk_factors_chars": 103113,
+    "mdna_chars": 153251,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\GRMN_FY2024_parsed.json"
+  },
+  {
+    "fiscal_year": "2023",
+    "risk_factors_count": 46,
+    "risk_factors_chars": 99919,
+    "mdna_chars": 154414,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\GRMN_FY2023_parsed.json"
+  },
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 48,
+    "risk_factors_chars": 104723,
+    "mdna_chars": 154912,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\GRMN_FY2022_parsed.json"
+  }
+]
