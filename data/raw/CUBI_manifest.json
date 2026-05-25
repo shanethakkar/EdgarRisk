@@ -1,0 +1,66 @@
+[
+  {
+    "ticker": "CUBI",
+    "fiscal_year": "2025",
+    "filing_date": "2026-02-27",
+    "report_date": "2025-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\CUBI_10K_2025.html",
+    "accession": "0001488813-26-000029"
+  },
+  {
+    "ticker": "CUBI",
+    "fiscal_year": "2024",
+    "filing_date": "2025-02-28",
+    "report_date": "2024-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\CUBI_10K_2024.html",
+    "accession": "0001488813-25-000013"
+  },
+  {
+    "ticker": "CUBI",
+    "fiscal_year": "2023",
+    "filing_date": "2024-02-29",
+    "report_date": "2023-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\CUBI_10K_2023.html",
+    "accession": "0001488813-24-000010"
+  },
+  {
+    "ticker": "CUBI",
+    "fiscal_year": "2022",
+    "filing_date": "2023-02-28",
+    "report_date": "2022-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\CUBI_10K_2022.html",
+    "accession": "0001488813-23-000012"
+  },
+  {
+    "ticker": "CUBI",
+    "fiscal_year": "2021",
+    "filing_date": "2022-02-28",
+    "report_date": "2021-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\CUBI_10K_2021.html",
+    "accession": "0001488813-22-000018"
+  },
+  {
+    "ticker": "CUBI",
+    "fiscal_year": "2020",
+    "filing_date": "2021-03-02",
+    "report_date": "2020-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\CUBI_10K_2020.html",
+    "accession": "0001488813-21-000069"
+  },
+  {
+    "ticker": "CUBI",
+    "fiscal_year": "2019",
+    "filing_date": "2020-03-02",
+    "report_date": "2019-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\CUBI_10K_2019.html",
+    "accession": "0001488813-20-000033"
+  },
+  {
+    "ticker": "CUBI",
+    "fiscal_year": "2018",
+    "filing_date": "2019-03-01",
+    "report_date": "2018-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\CUBI_10K_2018.html",
+    "accession": "0001488813-19-000009"
+  }
+]

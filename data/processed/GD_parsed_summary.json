@@ -1,0 +1,79 @@
+[
+  {
+    "fiscal_year": "2025",
+    "risk_factors_count": 6,
+    "risk_factors_chars": 23161,
+    "mdna_chars": 47041,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\GD_FY2025_parsed.json"
+  },
+  {
+    "fiscal_year": "2024",
+    "risk_factors_count": 6,
+    "risk_factors_chars": 23104,
+    "mdna_chars": 54633,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\GD_FY2024_parsed.json"
+  },
+  {
+    "fiscal_year": "2023",
+    "risk_factors_count": 6,
+    "risk_factors_chars": 23048,
+    "mdna_chars": 53658,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\GD_FY2023_parsed.json"
+  },
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 6,
+    "risk_factors_chars": 23932,
+    "mdna_chars": 55740,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\GD_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 6,
+    "risk_factors_chars": 21388,
+    "mdna_chars": 56547,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\GD_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 6,
+    "risk_factors_chars": 20022,
+    "mdna_chars": 66032,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\GD_FY2020_parsed.json"
+  },
+  {
+    "fiscal_year": "2019",
+    "risk_factors_count": 2,
+    "risk_factors_chars": 18134,
+    "mdna_chars": 63867,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\GD_FY2019_parsed.json"
+  },
+  {
+    "fiscal_year": "2018",
+    "risk_factors_count": 2,
+    "risk_factors_chars": 19159,
+    "mdna_chars": 78370,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\GD_FY2018_parsed.json"
+  },
+  {
+    "fiscal_year": "2017",
+    "risk_factors_count": 2,
+    "risk_factors_chars": 17368,
+    "mdna_chars": 69745,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\GD_FY2017_parsed.json"
+  },
+  {
+    "fiscal_year": "2016",
+    "risk_factors_count": 2,
+    "risk_factors_chars": 17606,
+    "mdna_chars": 73275,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\GD_FY2016_parsed.json"
+  },
+  {
+    "fiscal_year": "2015",
+    "risk_factors_count": 2,
+    "risk_factors_chars": 17214,
+    "mdna_chars": 69906,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\GD_FY2015_parsed.json"
+  }
+]

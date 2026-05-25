@@ -1,0 +1,66 @@
+[
+  {
+    "ticker": "M",
+    "fiscal_year": "2026",
+    "filing_date": "2026-03-27",
+    "report_date": "2026-01-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\M_10K_2026.html",
+    "accession": "0001628280-26-021721"
+  },
+  {
+    "ticker": "M",
+    "fiscal_year": "2025",
+    "filing_date": "2025-03-21",
+    "report_date": "2025-02-01",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\M_10K_2025.html",
+    "accession": "0001628280-25-014315"
+  },
+  {
+    "ticker": "M",
+    "fiscal_year": "2024",
+    "filing_date": "2024-03-22",
+    "report_date": "2024-02-03",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\M_10K_2024.html",
+    "accession": "0001628280-24-012734"
+  },
+  {
+    "ticker": "M",
+    "fiscal_year": "2023",
+    "filing_date": "2023-03-24",
+    "report_date": "2023-01-28",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\M_10K_2023.html",
+    "accession": "0001628280-23-009154"
+  },
+  {
+    "ticker": "M",
+    "fiscal_year": "2022",
+    "filing_date": "2022-03-25",
+    "report_date": "2022-01-29",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\M_10K_2022.html",
+    "accession": "0001564590-22-011726"
+  },
+  {
+    "ticker": "M",
+    "fiscal_year": "2021",
+    "filing_date": "2021-03-29",
+    "report_date": "2021-01-30",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\M_10K_2021.html",
+    "accession": "0001564590-21-016119"
+  },
+  {
+    "ticker": "M",
+    "fiscal_year": "2020",
+    "filing_date": "2020-03-30",
+    "report_date": "2020-02-01",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\M_10K_2020.html",
+    "accession": "0000794367-20-000040"
+  },
+  {
+    "ticker": "M",
+    "fiscal_year": "2019",
+    "filing_date": "2019-04-03",
+    "report_date": "2019-02-02",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\M_10K_2019.html",
+    "accession": "0000794367-19-000038"
+  }
+]

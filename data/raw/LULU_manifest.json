@@ -1,0 +1,66 @@
+[
+  {
+    "ticker": "LULU",
+    "fiscal_year": "2026",
+    "filing_date": "2026-03-17",
+    "report_date": "2026-02-01",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\LULU_10K_2026.html",
+    "accession": "0001397187-26-000020"
+  },
+  {
+    "ticker": "LULU",
+    "fiscal_year": "2025",
+    "filing_date": "2025-03-27",
+    "report_date": "2025-02-02",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\LULU_10K_2025.html",
+    "accession": "0001397187-25-000013"
+  },
+  {
+    "ticker": "LULU",
+    "fiscal_year": "2024",
+    "filing_date": "2024-03-21",
+    "report_date": "2024-01-28",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\LULU_10K_2024.html",
+    "accession": "0001397187-24-000010"
+  },
+  {
+    "ticker": "LULU",
+    "fiscal_year": "2023",
+    "filing_date": "2023-03-28",
+    "report_date": "2023-01-29",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\LULU_10K_2023.html",
+    "accession": "0001397187-23-000012"
+  },
+  {
+    "ticker": "LULU",
+    "fiscal_year": "2022",
+    "filing_date": "2022-03-29",
+    "report_date": "2022-01-30",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\LULU_10K_2022.html",
+    "accession": "0001397187-22-000014"
+  },
+  {
+    "ticker": "LULU",
+    "fiscal_year": "2021",
+    "filing_date": "2021-03-30",
+    "report_date": "2021-01-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\LULU_10K_2021.html",
+    "accession": "0001397187-21-000009"
+  },
+  {
+    "ticker": "LULU",
+    "fiscal_year": "2020",
+    "filing_date": "2020-03-26",
+    "report_date": "2020-02-02",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\LULU_10K_2020.html",
+    "accession": "0001397187-20-000012"
+  },
+  {
+    "ticker": "LULU",
+    "fiscal_year": "2019",
+    "filing_date": "2019-03-27",
+    "report_date": "2019-02-03",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\LULU_10K_2019.html",
+    "accession": "0001397187-19-000011"
+  }
+]

@@ -61,5 +61,19 @@
     "risk_factors_chars": 36175,
     "mdna_chars": 84779,
     "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BA_FY2017_parsed.json"
+  },
+  {
+    "fiscal_year": "2016",
+    "risk_factors_count": 21,
+    "risk_factors_chars": 36180,
+    "mdna_chars": 95210,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BA_FY2016_parsed.json"
+  },
+  {
+    "fiscal_year": "2015",
+    "risk_factors_count": 21,
+    "risk_factors_chars": 36375,
+    "mdna_chars": 93402,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BA_FY2015_parsed.json"
   }
 ]

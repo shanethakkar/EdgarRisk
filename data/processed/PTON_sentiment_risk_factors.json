@@ -74,5 +74,43 @@
     "Weak_Modal_ratio": 0.024219949590057074,
     "Constraining_ratio": 0.010110959816901816,
     "NetNegative_ratio": 0.033345887533679064
+  },
+  "2021": {
+    "token_count": 30885,
+    "unique_token_count": 2842,
+    "Negative_count": 1322,
+    "Positive_count": 277,
+    "Uncertainty_count": 971,
+    "Litigious_count": 469,
+    "Strong_Modal_count": 124,
+    "Weak_Modal_count": 727,
+    "Constraining_count": 303,
+    "Negative_ratio": 0.04280395013760725,
+    "Positive_ratio": 0.008968755059090174,
+    "Uncertainty_ratio": 0.03143920997247855,
+    "Litigious_ratio": 0.0151853650639469,
+    "Strong_Modal_ratio": 0.004014893961469969,
+    "Weak_Modal_ratio": 0.023538934757973126,
+    "Constraining_ratio": 0.009810587663914521,
+    "NetNegative_ratio": 0.03383519507851708
+  },
+  "2020": {
+    "token_count": 25455,
+    "unique_token_count": 2576,
+    "Negative_count": 1060,
+    "Positive_count": 240,
+    "Uncertainty_count": 803,
+    "Litigious_count": 375,
+    "Strong_Modal_count": 102,
+    "Weak_Modal_count": 613,
+    "Constraining_count": 264,
+    "Negative_ratio": 0.0416421135336869,
+    "Positive_ratio": 0.009428403064230996,
+    "Uncertainty_ratio": 0.031545865252406206,
+    "Litigious_ratio": 0.01473187978786093,
+    "Strong_Modal_ratio": 0.0040070713022981735,
+    "Weak_Modal_ratio": 0.02408171282655667,
+    "Constraining_ratio": 0.010371243370654095,
+    "NetNegative_ratio": 0.032213710469455904
   }
 }

@@ -55,5 +55,24 @@
     "Weak_Modal_ratio": 0.023240762532360557,
     "Constraining_ratio": 0.011708637326429749,
     "NetNegative_ratio": 0.037126382678277246
+  },
+  "2019": {
+    "token_count": 13485,
+    "unique_token_count": 1865,
+    "Negative_count": 568,
+    "Positive_count": 103,
+    "Uncertainty_count": 452,
+    "Litigious_count": 202,
+    "Strong_Modal_count": 31,
+    "Weak_Modal_count": 302,
+    "Constraining_count": 170,
+    "Negative_ratio": 0.042120875046347796,
+    "Positive_ratio": 0.007638116425658138,
+    "Uncertainty_ratio": 0.033518724508713384,
+    "Litigious_ratio": 0.014979606970708194,
+    "Strong_Modal_ratio": 0.0022988505747126436,
+    "Weak_Modal_ratio": 0.02239525398591027,
+    "Constraining_ratio": 0.01260659992584353,
+    "NetNegative_ratio": 0.034482758620689655
   }
 }

@@ -1,0 +1,66 @@
+[
+  {
+    "ticker": "HBAN",
+    "fiscal_year": "2025",
+    "filing_date": "2026-02-13",
+    "report_date": "2025-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\HBAN_10K_2025.html",
+    "accession": "0000049196-26-000015"
+  },
+  {
+    "ticker": "HBAN",
+    "fiscal_year": "2024",
+    "filing_date": "2025-02-14",
+    "report_date": "2024-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\HBAN_10K_2024.html",
+    "accession": "0000049196-25-000020"
+  },
+  {
+    "ticker": "HBAN",
+    "fiscal_year": "2023",
+    "filing_date": "2024-02-16",
+    "report_date": "2023-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\HBAN_10K_2023.html",
+    "accession": "0000049196-24-000020"
+  },
+  {
+    "ticker": "HBAN",
+    "fiscal_year": "2022",
+    "filing_date": "2023-02-17",
+    "report_date": "2022-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\HBAN_10K_2022.html",
+    "accession": "0000049196-23-000020"
+  },
+  {
+    "ticker": "HBAN",
+    "fiscal_year": "2021",
+    "filing_date": "2022-02-18",
+    "report_date": "2021-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\HBAN_10K_2021.html",
+    "accession": "0000049196-22-000023"
+  },
+  {
+    "ticker": "HBAN",
+    "fiscal_year": "2020",
+    "filing_date": "2021-02-26",
+    "report_date": "2020-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\HBAN_10K_2020.html",
+    "accession": "0000049196-21-000018"
+  },
+  {
+    "ticker": "HBAN",
+    "fiscal_year": "2019",
+    "filing_date": "2020-02-14",
+    "report_date": "2019-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\HBAN_10K_2019.html",
+    "accession": "0000049196-20-000010"
+  },
+  {
+    "ticker": "HBAN",
+    "fiscal_year": "2018",
+    "filing_date": "2019-02-15",
+    "report_date": "2018-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\HBAN_10K_2018.html",
+    "accession": "0000049196-19-000018"
+  }
+]

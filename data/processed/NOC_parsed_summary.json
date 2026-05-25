@@ -1,0 +1,79 @@
+[
+  {
+    "fiscal_year": "2025",
+    "risk_factors_count": 19,
+    "risk_factors_chars": 75823,
+    "mdna_chars": 72868,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\NOC_FY2025_parsed.json"
+  },
+  {
+    "fiscal_year": "2024",
+    "risk_factors_count": 16,
+    "risk_factors_chars": 71263,
+    "mdna_chars": 72927,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\NOC_FY2024_parsed.json"
+  },
+  {
+    "fiscal_year": "2023",
+    "risk_factors_count": 18,
+    "risk_factors_chars": 74922,
+    "mdna_chars": 72347,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\NOC_FY2023_parsed.json"
+  },
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 19,
+    "risk_factors_chars": 80680,
+    "mdna_chars": 77659,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\NOC_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 18,
+    "risk_factors_chars": 84164,
+    "mdna_chars": 73250,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\NOC_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 17,
+    "risk_factors_chars": 75410,
+    "mdna_chars": 71672,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\NOC_FY2020_parsed.json"
+  },
+  {
+    "fiscal_year": "2019",
+    "risk_factors_count": 44,
+    "risk_factors_chars": 99279,
+    "mdna_chars": 59450,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\NOC_FY2019_parsed.json"
+  },
+  {
+    "fiscal_year": "2018",
+    "risk_factors_count": 46,
+    "risk_factors_chars": 102108,
+    "mdna_chars": 339,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\NOC_FY2018_parsed.json"
+  },
+  {
+    "fiscal_year": "2017",
+    "risk_factors_count": 44,
+    "risk_factors_chars": 95710,
+    "mdna_chars": 339,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\NOC_FY2017_parsed.json"
+  },
+  {
+    "fiscal_year": "2016",
+    "risk_factors_count": 42,
+    "risk_factors_chars": 86189,
+    "mdna_chars": 339,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\NOC_FY2016_parsed.json"
+  },
+  {
+    "fiscal_year": "2015",
+    "risk_factors_count": 11,
+    "risk_factors_chars": 53567,
+    "mdna_chars": 339,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\NOC_FY2015_parsed.json"
+  }
+]

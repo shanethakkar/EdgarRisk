@@ -19,5 +19,12 @@
     "risk_factors_chars": 112476,
     "mdna_chars": 206446,
     "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SIVB_FY2020_parsed.json"
+  },
+  {
+    "fiscal_year": "2019",
+    "risk_factors_count": 22,
+    "risk_factors_chars": 89236,
+    "mdna_chars": 212729,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SIVB_FY2019_parsed.json"
   }
 ]

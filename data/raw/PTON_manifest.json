@@ -30,5 +30,21 @@
     "report_date": "2022-06-30",
     "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\PTON_10K_2022.html",
     "accession": "0001639825-22-000117"
+  },
+  {
+    "ticker": "PTON",
+    "fiscal_year": "2021",
+    "filing_date": "2021-08-27",
+    "report_date": "2021-06-30",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\PTON_10K_2021.html",
+    "accession": "0001639825-21-000256"
+  },
+  {
+    "ticker": "PTON",
+    "fiscal_year": "2020",
+    "filing_date": "2020-09-11",
+    "report_date": "2020-06-30",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\PTON_10K_2020.html",
+    "accession": "0001639825-20-000122"
   }
 ]

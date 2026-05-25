@@ -70,5 +70,21 @@
     "report_date": "2017-12-31",
     "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\BA_10K_2017.html",
     "accession": "0000012927-18-000007"
+  },
+  {
+    "ticker": "BA",
+    "fiscal_year": "2016",
+    "filing_date": "2017-02-08",
+    "report_date": "2016-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\BA_10K_2016.html",
+    "accession": "0000012927-17-000006"
+  },
+  {
+    "ticker": "BA",
+    "fiscal_year": "2015",
+    "filing_date": "2016-02-10",
+    "report_date": "2015-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\BA_10K_2015.html",
+    "accession": "0000012927-16-000099"
   }
 ]

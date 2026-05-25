@@ -1,0 +1,66 @@
+[
+  {
+    "ticker": "ROK",
+    "fiscal_year": "2025",
+    "filing_date": "2025-11-12",
+    "report_date": "2025-09-30",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ROK_10K_2025.html",
+    "accession": "0001024478-25-000116"
+  },
+  {
+    "ticker": "ROK",
+    "fiscal_year": "2024",
+    "filing_date": "2024-11-12",
+    "report_date": "2024-09-30",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ROK_10K_2024.html",
+    "accession": "0001024478-24-000107"
+  },
+  {
+    "ticker": "ROK",
+    "fiscal_year": "2023",
+    "filing_date": "2023-11-08",
+    "report_date": "2023-09-30",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ROK_10K_2023.html",
+    "accession": "0001024478-23-000126"
+  },
+  {
+    "ticker": "ROK",
+    "fiscal_year": "2022",
+    "filing_date": "2022-11-08",
+    "report_date": "2022-09-30",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ROK_10K_2022.html",
+    "accession": "0001024478-22-000093"
+  },
+  {
+    "ticker": "ROK",
+    "fiscal_year": "2021",
+    "filing_date": "2021-11-09",
+    "report_date": "2021-09-30",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ROK_10K_2021.html",
+    "accession": "0001024478-21-000083"
+  },
+  {
+    "ticker": "ROK",
+    "fiscal_year": "2020",
+    "filing_date": "2020-11-10",
+    "report_date": "2020-09-30",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ROK_10K_2020.html",
+    "accession": "0001024478-20-000038"
+  },
+  {
+    "ticker": "ROK",
+    "fiscal_year": "2019",
+    "filing_date": "2019-11-12",
+    "report_date": "2019-09-30",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ROK_10K_2019.html",
+    "accession": "0001024478-19-000044"
+  },
+  {
+    "ticker": "ROK",
+    "fiscal_year": "2018",
+    "filing_date": "2018-11-09",
+    "report_date": "2018-09-30",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ROK_10K_2018.html",
+    "accession": "0001024478-18-000032"
+  }
+]

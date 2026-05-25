@@ -1,0 +1,6 @@
+failure,label,window,size_pct_start,size_pct_t0,neg_pct_start,neg_pct_t0,novelty_pct_start,novelty_pct_t0,signals_above_75
+BA,Boeing 737 MAX (Oct 2018),full t-3 to t-0,0.67,0.5,0.67,0.75,,0.25,1
+SIVB,SVB collapse (Mar 2023),full t-3 to t-0,0.5,0.5,0.75,0.75,0.0,0.75,1
+BBBY,Bed Bath & Beyond Ch.11 (Apr 2023),full t-3 to t-0,0.75,1.0,0.25,0.25,,0.75,1
+PTON,Peloton drawdown (FY2022),t-2 to t-0 only (Peloton IPO'd Sept 2019),1.0,1.0,1.0,1.0,0.0,0.33,1
+SI,Silvergate wind-down (Mar 2023),t-2 to t-0 only (Silvergate IPO'd Nov 2019),0.75,0.75,0.5,0.5,0.0,0.5,1

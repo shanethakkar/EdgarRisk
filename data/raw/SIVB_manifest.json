@@ -22,5 +22,13 @@
     "report_date": "2020-12-31",
     "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\SIVB_10K_2020.html",
     "accession": "0000719739-21-000023"
+  },
+  {
+    "ticker": "SIVB",
+    "fiscal_year": "2019",
+    "filing_date": "2020-02-28",
+    "report_date": "2019-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\SIVB_10K_2019.html",
+    "accession": "0000719739-20-000016"
   }
 ]

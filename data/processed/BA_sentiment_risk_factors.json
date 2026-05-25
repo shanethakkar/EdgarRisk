@@ -169,5 +169,43 @@
     "Weak_Modal_ratio": 0.018456375838926176,
     "Constraining_ratio": 0.010439970171513796,
     "NetNegative_ratio": 0.028896346010439968
+  },
+  "2016": {
+    "token_count": 5354,
+    "unique_token_count": 1103,
+    "Negative_count": 203,
+    "Positive_count": 47,
+    "Uncertainty_count": 172,
+    "Litigious_count": 98,
+    "Strong_Modal_count": 15,
+    "Weak_Modal_count": 100,
+    "Constraining_count": 56,
+    "Negative_ratio": 0.03791557713858797,
+    "Positive_ratio": 0.008778483376914456,
+    "Uncertainty_ratio": 0.03212551363466567,
+    "Litigious_ratio": 0.018304071722076952,
+    "Strong_Modal_ratio": 0.0028016436309301457,
+    "Weak_Modal_ratio": 0.01867762420620097,
+    "Constraining_ratio": 0.010459469555472544,
+    "NetNegative_ratio": 0.02913709376167352
+  },
+  "2015": {
+    "token_count": 5383,
+    "unique_token_count": 1105,
+    "Negative_count": 203,
+    "Positive_count": 47,
+    "Uncertainty_count": 173,
+    "Litigious_count": 97,
+    "Strong_Modal_count": 16,
+    "Weak_Modal_count": 99,
+    "Constraining_count": 57,
+    "Negative_ratio": 0.0377113133940182,
+    "Positive_ratio": 0.00873119078580717,
+    "Uncertainty_ratio": 0.032138212892439164,
+    "Litigious_ratio": 0.018019691621772246,
+    "Strong_Modal_ratio": 0.002972320267508824,
+    "Weak_Modal_ratio": 0.01839123165521085,
+    "Constraining_ratio": 0.010588890953000186,
+    "NetNegative_ratio": 0.028980122608211034
   }
 }

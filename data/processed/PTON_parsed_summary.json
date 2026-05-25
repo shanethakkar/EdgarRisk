@@ -26,5 +26,19 @@
     "risk_factors_chars": 225235,
     "mdna_chars": 86050,
     "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\PTON_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 33,
+    "risk_factors_chars": 201422,
+    "mdna_chars": 66976,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\PTON_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 23,
+    "risk_factors_chars": 166229,
+    "mdna_chars": 62279,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\PTON_FY2020_parsed.json"
   }
 ]

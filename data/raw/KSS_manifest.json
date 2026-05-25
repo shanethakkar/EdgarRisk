@@ -1,0 +1,66 @@
+[
+  {
+    "ticker": "KSS",
+    "fiscal_year": "2026",
+    "filing_date": "2026-03-19",
+    "report_date": "2026-01-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\KSS_10K_2026.html",
+    "accession": "0001193125-26-115982"
+  },
+  {
+    "ticker": "KSS",
+    "fiscal_year": "2025",
+    "filing_date": "2025-03-20",
+    "report_date": "2025-02-01",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\KSS_10K_2025.html",
+    "accession": "0000950170-25-042662"
+  },
+  {
+    "ticker": "KSS",
+    "fiscal_year": "2024",
+    "filing_date": "2024-03-21",
+    "report_date": "2024-02-03",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\KSS_10K_2024.html",
+    "accession": "0000950170-24-034691"
+  },
+  {
+    "ticker": "KSS",
+    "fiscal_year": "2023",
+    "filing_date": "2023-03-16",
+    "report_date": "2023-01-28",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\KSS_10K_2023.html",
+    "accession": "0000950170-23-008444"
+  },
+  {
+    "ticker": "KSS",
+    "fiscal_year": "2022",
+    "filing_date": "2022-03-17",
+    "report_date": "2022-01-29",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\KSS_10K_2022.html",
+    "accession": "0000950170-22-004076"
+  },
+  {
+    "ticker": "KSS",
+    "fiscal_year": "2021",
+    "filing_date": "2021-03-18",
+    "report_date": "2021-01-30",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\KSS_10K_2021.html",
+    "accession": "0001564590-21-014145"
+  },
+  {
+    "ticker": "KSS",
+    "fiscal_year": "2020",
+    "filing_date": "2020-03-18",
+    "report_date": "2020-02-01",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\KSS_10K_2020.html",
+    "accession": "0001564590-20-011512"
+  },
+  {
+    "ticker": "KSS",
+    "fiscal_year": "2019",
+    "filing_date": "2019-03-22",
+    "report_date": "2019-02-02",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\KSS_10K_2019.html",
+    "accession": "0001564590-19-009005"
+  }
+]
