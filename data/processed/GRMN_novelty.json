@@ -1,0 +1,26 @@
+{
+  "2022": {
+    "novelty": null,
+    "prior_fy": null,
+    "cosine_sim": null,
+    "token_vocab_size": 12034
+  },
+  "2023": {
+    "novelty": 0.0252,
+    "prior_fy": "2022",
+    "cosine_sim": 0.9748,
+    "token_vocab_size": 12034
+  },
+  "2024": {
+    "novelty": 0.0125,
+    "prior_fy": "2023",
+    "cosine_sim": 0.9875,
+    "token_vocab_size": 12034
+  },
+  "2025": {
+    "novelty": 0.0524,
+    "prior_fy": "2024",
+    "cosine_sim": 0.9476,
+    "token_vocab_size": 12034
+  }
+}

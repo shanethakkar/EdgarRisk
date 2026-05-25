@@ -1,0 +1,6 @@
+pair,event,failure_ticker,size_growth_F_pct,size_growth_S_pct,neg_delta_F_pp,neg_delta_S_pp,novelty_max_F,novelty_max_S,vol_signal,sent_signal,nov_signal,signals_fired
+BA vs LMT,Boeing 737 MAX (Oct 2018),BA,3.6,9.7,-0.02,0.02,0.03,0.092,False,False,False,0
+SIVB vs JPM,SVB collapse (Mar 2023),SIVB,10.2,-4.9,-0.04,0.13,0.027,0.015,False,False,False,0
+BBBY vs BBY,Bed Bath & Beyond Ch.11 (Apr 2023),BBBY,122.9,41.4,0.73,-0.2,0.506,0.08,True,True,True,3
+PTON vs GRMN,Peloton drawdown (FY2022),PTON,-12.7,-1.5,0.21,-0.04,0.02,0.025,False,True,False,1
+SI vs JPM,Silvergate wind-down (Mar 2023),SI,-27.0,12.7,-0.01,-0.11,0.043,0.015,False,False,False,0
