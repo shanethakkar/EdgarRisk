@@ -1,0 +1,35 @@
+{
+  "2025": {},
+  "2024": {},
+  "2023": {},
+  "2022": {},
+  "2021": {
+    "operational_crisis": {
+      "count": 1,
+      "samples": [
+        {
+          "phrase": "suspended operations",
+          "context": "ilities and those of our customers and suppliers. During the second quarter of 2020, we temporarily suspended operations in Puget Sound, South Carolina, and Philadelphia, as well as at several other key production sites. We had not previously experienced a complete suspension of our operations at these production sites"
+        }
+      ]
+    }
+  },
+  "2020": {
+    "operational_crisis": {
+      "count": 2,
+      "samples": [
+        {
+          "phrase": "suspended operations",
+          "context": "hose of our customers and suppliers. For example, during the second quarter of 2020, we temporarily suspended operations in Puget Sound, South Carolina, and Philadelphia, as well as at several other key production sites. We had not previously experienced a complete suspension of our operations at these production sites"
+        },
+        {
+          "phrase": "suspended operations",
+          "context": "in 2020 . 25 Table of Contents In March and April of 2020, as a result of COVID-19, we temporarily suspended operations at multiple locations including the Puget Sound area, South Carolina and Philadelphia. Operations in Puget Sound and Philadelphia resumed during the week of April 20, while operations in South Caroli"
+        }
+      ]
+    }
+  },
+  "2019": {},
+  "2018": {},
+  "2017": {}
+}

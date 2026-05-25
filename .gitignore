@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.ipynb_checkpoints/
+.env
+
+# Raw filings are large (~3MB each) and reproducible via fetch_10k.py.
+# Manifests are kept for metadata.
+data/raw/*.html
+data/raw/*.htm

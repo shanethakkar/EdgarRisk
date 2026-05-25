@@ -1,0 +1,65 @@
+[
+  {
+    "fiscal_year": "2025",
+    "risk_factors_count": 28,
+    "risk_factors_chars": 70168,
+    "mdna_chars": 90381,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BA_FY2025_parsed.json"
+  },
+  {
+    "fiscal_year": "2024",
+    "risk_factors_count": 29,
+    "risk_factors_chars": 70864,
+    "mdna_chars": 90325,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BA_FY2024_parsed.json"
+  },
+  {
+    "fiscal_year": "2023",
+    "risk_factors_count": 18,
+    "risk_factors_chars": 48954,
+    "mdna_chars": 87412,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BA_FY2023_parsed.json"
+  },
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 19,
+    "risk_factors_chars": 48377,
+    "mdna_chars": 98703,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BA_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 15,
+    "risk_factors_chars": 59403,
+    "mdna_chars": 113721,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BA_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 24,
+    "risk_factors_chars": 55828,
+    "mdna_chars": 123045,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BA_FY2020_parsed.json"
+  },
+  {
+    "fiscal_year": "2019",
+    "risk_factors_count": 23,
+    "risk_factors_chars": 44288,
+    "mdna_chars": 96481,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BA_FY2019_parsed.json"
+  },
+  {
+    "fiscal_year": "2018",
+    "risk_factors_count": 21,
+    "risk_factors_chars": 37478,
+    "mdna_chars": 89960,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BA_FY2018_parsed.json"
+  },
+  {
+    "fiscal_year": "2017",
+    "risk_factors_count": 22,
+    "risk_factors_chars": 36175,
+    "mdna_chars": 84779,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BA_FY2017_parsed.json"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "ticker": "BA",
+    "fiscal_year": "2025",
+    "filing_date": "2026-01-30",
+    "report_date": "2025-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\BA_10K_2025.html",
+    "accession": "0001628280-26-004357"
+  },
+  {
+    "ticker": "BA",
+    "fiscal_year": "2024",
+    "filing_date": "2025-02-03",
+    "report_date": "2024-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\BA_10K_2024.html",
+    "accession": "0000012927-25-000015"
+  },
+  {
+    "ticker": "BA",
+    "fiscal_year": "2023",
+    "filing_date": "2024-01-31",
+    "report_date": "2023-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\BA_10K_2023.html",
+    "accession": "0000012927-24-000010"
+  },
+  {
+    "ticker": "BA",
+    "fiscal_year": "2022",
+    "filing_date": "2023-01-27",
+    "report_date": "2022-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\BA_10K_2022.html",
+    "accession": "0000012927-23-000007"
+  },
+  {
+    "ticker": "BA",
+    "fiscal_year": "2021",
+    "filing_date": "2022-01-31",
+    "report_date": "2021-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\BA_10K_2021.html",
+    "accession": "0000012927-22-000010"
+  },
+  {
+    "ticker": "BA",
+    "fiscal_year": "2020",
+    "filing_date": "2021-02-01",
+    "report_date": "2020-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\BA_10K_2020.html",
+    "accession": "0000012927-21-000011"
+  },
+  {
+    "ticker": "BA",
+    "fiscal_year": "2019",
+    "filing_date": "2020-01-31",
+    "report_date": "2019-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\BA_10K_2019.html",
+    "accession": "0000012927-20-000014"
+  },
+  {
+    "ticker": "BA",
+    "fiscal_year": "2018",
+    "filing_date": "2019-02-08",
+    "report_date": "2018-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\BA_10K_2018.html",
+    "accession": "0000012927-19-000010"
+  },
+  {
+    "ticker": "BA",
+    "fiscal_year": "2017",
+    "filing_date": "2018-02-12",
+    "report_date": "2017-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\BA_10K_2017.html",
+    "accession": "0000012927-18-000007"
+  }
+]
