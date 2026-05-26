@@ -1,0 +1,25 @@
+failure,sector,class_hint,n_lookback_years,first_rank,max_rank,t0_rank,failure_max_raw,cohort_max_raw,novelty_spike,under_disclosure,detected
+BA,Aerospace/Defense,industry shock,3,0.33,0.67,0.25,0.032,0.175,False,False,False
+SIVB,Mid-cap commercial bank,sudden shock,3,0.75,0.75,0.75,0.051,0.061,False,False,False
+PTON,D2C consumer subscription,chronic anomaly,2,0.33,0.33,0.33,0.028,0.084,False,False,False
+SI,Small-cap regional bank,sudden shock,2,0.75,0.75,0.5,0.043,0.464,False,False,False
+SAVE,ULCC airline,under-disclosure,3,0.67,0.67,0.25,0.041,0.136,False,True,True
+SHLD,Dept store retail,expanding disclosure,4,0.5,1.0,1.0,0.165,0.214,True,False,True
+JCP,Dept store retail,under-disclosure,4,0.67,0.67,0.33,0.067,0.474,False,True,True
+PIR,Home goods specialty,expanding disclosure,4,0.83,0.83,0.67,0.128,0.474,True,False,True
+ASNA,Specialty retail,expanding disclosure,4,0.67,1.0,0.83,0.103,0.474,True,False,True
+BBBY,Specialty retail,expanding disclosure,3,0.5,1.0,0.67,0.506,0.506,True,False,True
+WE,Commercial real estate,expanding disclosure,2,1.0,1.0,0.25,0.715,0.715,True,True,True
+YELL,LTL trucking,expanding disclosure,4,1.0,1.0,0.5,0.18,0.18,True,False,True
+TUP,Household consumer,expanding disclosure,4,1.0,1.0,1.0,0.204,0.204,True,False,True
+EXPR,Specialty apparel retail,unknown,4,0.17,0.33,0.17,0.08,0.301,False,False,False
+RAD,Drugstore,unknown,4,1.0,1.0,1.0,0.166,0.166,True,False,True
+NKLA,EV / cleantech,unknown,4,1.0,1.0,1.0,0.733,0.733,True,False,True
+RIDE,EV / cleantech,unknown,1,1.0,1.0,1.0,0.129,0.129,True,False,True
+FSR,EV / cleantech,unknown,3,1.0,1.0,0.33,0.631,0.631,True,True,True
+CHK,Energy E&P,unknown,2,1.0,1.0,0.25,0.177,0.177,True,True,True
+WLL,Energy E&P,unknown,4,1.0,1.0,0.25,0.078,0.164,False,True,True
+ENDP,Specialty pharma,unknown,4,0.5,0.5,0.25,0.057,0.322,False,True,True
+MNK,Specialty pharma,unknown,2,0.5,0.5,0.25,0.051,0.322,False,True,True
+SDC,Dental / consumer health,unknown,3,0.33,0.33,0.33,0.016,0.285,False,False,False
+HTZ,Car rental / equipment,unknown,2,1.0,1.0,0.67,0.065,0.065,False,False,False

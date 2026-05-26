@@ -1,0 +1,65 @@
+[
+  {
+    "fiscal_year": "2025",
+    "risk_factors_count": 211,
+    "risk_factors_chars": 324115,
+    "mdna_chars": 115032,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\COP_FY2025_parsed.json"
+  },
+  {
+    "fiscal_year": "2024",
+    "risk_factors_count": 294,
+    "risk_factors_chars": 429378,
+    "mdna_chars": 121866,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\COP_FY2024_parsed.json"
+  },
+  {
+    "fiscal_year": "2023",
+    "risk_factors_count": 18,
+    "risk_factors_chars": 41273,
+    "mdna_chars": 119262,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\COP_FY2023_parsed.json"
+  },
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 16,
+    "risk_factors_chars": 41166,
+    "mdna_chars": 124851,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\COP_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 1,
+    "risk_factors_chars": 46293,
+    "mdna_chars": 132767,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\COP_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 6,
+    "risk_factors_chars": 46252,
+    "mdna_chars": 252857,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\COP_FY2020_parsed.json"
+  },
+  {
+    "fiscal_year": "2019",
+    "risk_factors_count": 5,
+    "risk_factors_chars": 33233,
+    "mdna_chars": 135436,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\COP_FY2019_parsed.json"
+  },
+  {
+    "fiscal_year": "2018",
+    "risk_factors_count": 23,
+    "risk_factors_chars": 32778,
+    "mdna_chars": 161694,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\COP_FY2018_parsed.json"
+  },
+  {
+    "fiscal_year": "2017",
+    "risk_factors_count": 13,
+    "risk_factors_chars": 22123,
+    "mdna_chars": 149950,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\COP_FY2017_parsed.json"
+  }
+]

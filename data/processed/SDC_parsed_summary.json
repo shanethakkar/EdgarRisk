@@ -1,0 +1,30 @@
+[
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 22,
+    "risk_factors_chars": 171437,
+    "mdna_chars": 55432,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SDC_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 22,
+    "risk_factors_chars": 160565,
+    "mdna_chars": 57067,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SDC_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 22,
+    "risk_factors_chars": 158742,
+    "mdna_chars": 52282,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SDC_FY2020_parsed.json"
+  },
+  {
+    "fiscal_year": "2019",
+    "risk_factors_count": 23,
+    "risk_factors_chars": 138473,
+    "mdna_chars": 44170,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SDC_FY2019_parsed.json"
+  }
+]

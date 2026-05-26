@@ -1,0 +1,65 @@
+[
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 33,
+    "risk_factors_chars": 85820,
+    "mdna_chars": 76007,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\WLL_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 41,
+    "risk_factors_chars": 104266,
+    "mdna_chars": 81344,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\WLL_FY2020_parsed.json"
+  },
+  {
+    "fiscal_year": "2019",
+    "risk_factors_count": 27,
+    "risk_factors_chars": 89489,
+    "mdna_chars": 77160,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\WLL_FY2019_parsed.json"
+  },
+  {
+    "fiscal_year": "2018",
+    "risk_factors_count": 28,
+    "risk_factors_chars": 81154,
+    "mdna_chars": 24547,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\WLL_FY2018_parsed.json"
+  },
+  {
+    "fiscal_year": "2017",
+    "risk_factors_count": 124,
+    "risk_factors_chars": 172311,
+    "mdna_chars": 104,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\WLL_FY2017_parsed.json"
+  },
+  {
+    "fiscal_year": "2016",
+    "risk_factors_count": 127,
+    "risk_factors_chars": 175520,
+    "mdna_chars": 104,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\WLL_FY2016_parsed.json"
+  },
+  {
+    "fiscal_year": "2015",
+    "risk_factors_count": 114,
+    "risk_factors_chars": 173612,
+    "mdna_chars": 100,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\WLL_FY2015_parsed.json"
+  },
+  {
+    "fiscal_year": "2014",
+    "risk_factors_count": 130,
+    "risk_factors_chars": 164001,
+    "mdna_chars": 100,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\WLL_FY2014_parsed.json"
+  },
+  {
+    "fiscal_year": "2013",
+    "risk_factors_count": 78,
+    "risk_factors_chars": 145220,
+    "mdna_chars": 98,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\WLL_FY2013_parsed.json"
+  }
+]

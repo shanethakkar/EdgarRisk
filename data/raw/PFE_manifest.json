@@ -1,0 +1,74 @@
+[
+  {
+    "ticker": "PFE",
+    "fiscal_year": "2025",
+    "filing_date": "2026-02-26",
+    "report_date": "2025-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\PFE_10K_2025.html",
+    "accession": "0000078003-26-000026"
+  },
+  {
+    "ticker": "PFE",
+    "fiscal_year": "2024",
+    "filing_date": "2025-02-27",
+    "report_date": "2024-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\PFE_10K_2024.html",
+    "accession": "0000078003-25-000054"
+  },
+  {
+    "ticker": "PFE",
+    "fiscal_year": "2023",
+    "filing_date": "2024-02-22",
+    "report_date": "2023-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\PFE_10K_2023.html",
+    "accession": "0000078003-24-000039"
+  },
+  {
+    "ticker": "PFE",
+    "fiscal_year": "2022",
+    "filing_date": "2023-02-23",
+    "report_date": "2022-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\PFE_10K_2022.html",
+    "accession": "0000078003-23-000024"
+  },
+  {
+    "ticker": "PFE",
+    "fiscal_year": "2021",
+    "filing_date": "2022-02-24",
+    "report_date": "2021-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\PFE_10K_2021.html",
+    "accession": "0000078003-22-000027"
+  },
+  {
+    "ticker": "PFE",
+    "fiscal_year": "2020",
+    "filing_date": "2021-02-25",
+    "report_date": "2020-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\PFE_10K_2020.html",
+    "accession": "0000078003-21-000038"
+  },
+  {
+    "ticker": "PFE",
+    "fiscal_year": "2019",
+    "filing_date": "2020-02-27",
+    "report_date": "2019-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\PFE_10K_2019.html",
+    "accession": "0000078003-20-000014"
+  },
+  {
+    "ticker": "PFE",
+    "fiscal_year": "2018",
+    "filing_date": "2019-02-28",
+    "report_date": "2018-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\PFE_10K_2018.html",
+    "accession": "0000078003-19-000015"
+  },
+  {
+    "ticker": "PFE",
+    "fiscal_year": "2017",
+    "filing_date": "2018-02-22",
+    "report_date": "2017-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\PFE_10K_2017.html",
+    "accession": "0000078003-18-000027"
+  }
+]

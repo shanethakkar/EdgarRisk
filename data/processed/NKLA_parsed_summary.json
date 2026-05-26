@@ -1,0 +1,44 @@
+[
+  {
+    "fiscal_year": "2024",
+    "risk_factors_count": 3,
+    "risk_factors_chars": 3964,
+    "mdna_chars": 32081,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\NKLA_FY2024_parsed.json"
+  },
+  {
+    "fiscal_year": "2023",
+    "risk_factors_count": 53,
+    "risk_factors_chars": 140527,
+    "mdna_chars": 65566,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\NKLA_FY2023_parsed.json"
+  },
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 52,
+    "risk_factors_chars": 138112,
+    "mdna_chars": 55567,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\NKLA_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 42,
+    "risk_factors_chars": 125026,
+    "mdna_chars": 53250,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\NKLA_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 33,
+    "risk_factors_chars": 105789,
+    "mdna_chars": 49274,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\NKLA_FY2020_parsed.json"
+  },
+  {
+    "fiscal_year": "2019",
+    "risk_factors_count": 59,
+    "risk_factors_chars": 126788,
+    "mdna_chars": 37138,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\NKLA_FY2019_parsed.json"
+  }
+]

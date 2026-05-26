@@ -1,0 +1,58 @@
+[
+  {
+    "ticker": "HSIC",
+    "fiscal_year": "2025",
+    "filing_date": "2026-02-24",
+    "report_date": "2025-12-27",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\HSIC_10K_2025.html",
+    "accession": "0001000228-26-000013"
+  },
+  {
+    "ticker": "HSIC",
+    "fiscal_year": "2024",
+    "filing_date": "2025-02-25",
+    "report_date": "2024-12-28",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\HSIC_10K_2024.html",
+    "accession": "0001000228-25-000014"
+  },
+  {
+    "ticker": "HSIC",
+    "fiscal_year": "2023",
+    "filing_date": "2024-02-28",
+    "report_date": "2023-12-30",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\HSIC_10K_2023.html",
+    "accession": "0001000228-24-000011"
+  },
+  {
+    "ticker": "HSIC",
+    "fiscal_year": "2022",
+    "filing_date": "2023-02-21",
+    "report_date": "2022-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\HSIC_10K_2022.html",
+    "accession": "0001000228-23-000011"
+  },
+  {
+    "ticker": "HSIC",
+    "fiscal_year": "2021",
+    "filing_date": "2022-02-15",
+    "report_date": "2021-12-25",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\HSIC_10K_2021.html",
+    "accession": "0001000228-22-000016"
+  },
+  {
+    "ticker": "HSIC",
+    "fiscal_year": "2020",
+    "filing_date": "2021-02-17",
+    "report_date": "2020-12-26",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\HSIC_10K_2020.html",
+    "accession": "0001000228-21-000019"
+  },
+  {
+    "ticker": "HSIC",
+    "fiscal_year": "2019",
+    "filing_date": "2020-02-20",
+    "report_date": "2019-12-28",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\HSIC_10K_2019.html",
+    "accession": "0001000228-20-000018"
+  }
+]

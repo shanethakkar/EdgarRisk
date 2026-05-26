@@ -1,0 +1,74 @@
+[
+  {
+    "ticker": "DVN",
+    "fiscal_year": "2025",
+    "filing_date": "2026-02-18",
+    "report_date": "2025-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\DVN_10K_2025.html",
+    "accession": "0001193125-26-056485"
+  },
+  {
+    "ticker": "DVN",
+    "fiscal_year": "2024",
+    "filing_date": "2025-02-19",
+    "report_date": "2024-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\DVN_10K_2024.html",
+    "accession": "0000950170-25-022844"
+  },
+  {
+    "ticker": "DVN",
+    "fiscal_year": "2023",
+    "filing_date": "2024-02-28",
+    "report_date": "2023-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\DVN_10K_2023.html",
+    "accession": "0000950170-24-021781"
+  },
+  {
+    "ticker": "DVN",
+    "fiscal_year": "2022",
+    "filing_date": "2023-02-15",
+    "report_date": "2022-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\DVN_10K_2022.html",
+    "accession": "0000950170-23-002852"
+  },
+  {
+    "ticker": "DVN",
+    "fiscal_year": "2021",
+    "filing_date": "2022-02-16",
+    "report_date": "2021-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\DVN_10K_2021.html",
+    "accession": "0001564590-22-005321"
+  },
+  {
+    "ticker": "DVN",
+    "fiscal_year": "2020",
+    "filing_date": "2021-02-17",
+    "report_date": "2020-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\DVN_10K_2020.html",
+    "accession": "0001564590-21-006239"
+  },
+  {
+    "ticker": "DVN",
+    "fiscal_year": "2019",
+    "filing_date": "2020-02-19",
+    "report_date": "2019-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\DVN_10K_2019.html",
+    "accession": "0001564590-20-005182"
+  },
+  {
+    "ticker": "DVN",
+    "fiscal_year": "2018",
+    "filing_date": "2019-02-20",
+    "report_date": "2018-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\DVN_10K_2018.html",
+    "accession": "0001564590-19-003382"
+  },
+  {
+    "ticker": "DVN",
+    "fiscal_year": "2017",
+    "filing_date": "2018-02-21",
+    "report_date": "2017-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\DVN_10K_2017.html",
+    "accession": "0001564590-18-002582"
+  }
+]

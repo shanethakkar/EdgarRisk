@@ -1,0 +1,65 @@
+[
+  {
+    "fiscal_year": "2025",
+    "risk_factors_count": 33,
+    "risk_factors_chars": 77505,
+    "mdna_chars": 141982,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\MRK_FY2025_parsed.json"
+  },
+  {
+    "fiscal_year": "2024",
+    "risk_factors_count": 29,
+    "risk_factors_chars": 74577,
+    "mdna_chars": 135481,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\MRK_FY2024_parsed.json"
+  },
+  {
+    "fiscal_year": "2023",
+    "risk_factors_count": 13,
+    "risk_factors_chars": 69516,
+    "mdna_chars": 131731,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\MRK_FY2023_parsed.json"
+  },
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 15,
+    "risk_factors_chars": 73048,
+    "mdna_chars": 135262,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\MRK_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 14,
+    "risk_factors_chars": 71529,
+    "mdna_chars": 141939,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\MRK_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 28,
+    "risk_factors_chars": 70826,
+    "mdna_chars": 144793,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\MRK_FY2020_parsed.json"
+  },
+  {
+    "fiscal_year": "2019",
+    "risk_factors_count": 20,
+    "risk_factors_chars": 62745,
+    "mdna_chars": 144911,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\MRK_FY2019_parsed.json"
+  },
+  {
+    "fiscal_year": "2018",
+    "risk_factors_count": 20,
+    "risk_factors_chars": 53406,
+    "mdna_chars": 160552,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\MRK_FY2018_parsed.json"
+  },
+  {
+    "fiscal_year": "2017",
+    "risk_factors_count": 19,
+    "risk_factors_chars": 54250,
+    "mdna_chars": 164769,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\MRK_FY2017_parsed.json"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "fiscal_year": "2025",
+    "risk_factors_count": 25,
+    "risk_factors_chars": 111026,
+    "mdna_chars": 304529,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BMY_FY2025_parsed.json"
+  },
+  {
+    "fiscal_year": "2024",
+    "risk_factors_count": 25,
+    "risk_factors_chars": 105629,
+    "mdna_chars": 306162,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BMY_FY2024_parsed.json"
+  },
+  {
+    "fiscal_year": "2023",
+    "risk_factors_count": 23,
+    "risk_factors_chars": 107923,
+    "mdna_chars": 302829,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BMY_FY2023_parsed.json"
+  },
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 23,
+    "risk_factors_chars": 98598,
+    "mdna_chars": 282163,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BMY_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 24,
+    "risk_factors_chars": 110958,
+    "mdna_chars": 307294,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BMY_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 23,
+    "risk_factors_chars": 105200,
+    "mdna_chars": 307765,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BMY_FY2020_parsed.json"
+  },
+  {
+    "fiscal_year": "2019",
+    "risk_factors_count": 16,
+    "risk_factors_chars": 82762,
+    "mdna_chars": 264630,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BMY_FY2019_parsed.json"
+  },
+  {
+    "fiscal_year": "2018",
+    "risk_factors_count": 33,
+    "risk_factors_chars": 123275,
+    "mdna_chars": 240402,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BMY_FY2018_parsed.json"
+  },
+  {
+    "fiscal_year": "2017",
+    "risk_factors_count": 2,
+    "risk_factors_chars": 34173,
+    "mdna_chars": 167259,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BMY_FY2017_parsed.json"
+  }
+]

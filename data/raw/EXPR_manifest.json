@@ -1,0 +1,58 @@
+[
+  {
+    "ticker": "EXPR",
+    "fiscal_year": "2024",
+    "filing_date": "2024-12-31",
+    "report_date": "2024-02-03",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\EXPR_10K_2024.html",
+    "accession": "0001483510-24-000014"
+  },
+  {
+    "ticker": "EXPR",
+    "fiscal_year": "2023",
+    "filing_date": "2023-03-31",
+    "report_date": "2023-01-28",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\EXPR_10K_2023.html",
+    "accession": "0001483510-23-000024"
+  },
+  {
+    "ticker": "EXPR",
+    "fiscal_year": "2022",
+    "filing_date": "2022-03-24",
+    "report_date": "2022-01-29",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\EXPR_10K_2022.html",
+    "accession": "0001483510-22-000015"
+  },
+  {
+    "ticker": "EXPR",
+    "fiscal_year": "2021",
+    "filing_date": "2021-03-25",
+    "report_date": "2021-01-30",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\EXPR_10K_2021.html",
+    "accession": "0001483510-21-000009"
+  },
+  {
+    "ticker": "EXPR",
+    "fiscal_year": "2020",
+    "filing_date": "2020-03-17",
+    "report_date": "2020-02-01",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\EXPR_10K_2020.html",
+    "accession": "0001483510-20-000018"
+  },
+  {
+    "ticker": "EXPR",
+    "fiscal_year": "2019",
+    "filing_date": "2019-03-19",
+    "report_date": "2019-02-02",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\EXPR_10K_2019.html",
+    "accession": "0001483510-19-000014"
+  },
+  {
+    "ticker": "EXPR",
+    "fiscal_year": "2018",
+    "filing_date": "2018-04-04",
+    "report_date": "2018-02-03",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\EXPR_10K_2018.html",
+    "accession": "0001483510-18-000010"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "ticker": "ALGN",
+    "fiscal_year": "2025",
+    "filing_date": "2026-02-27",
+    "report_date": "2025-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ALGN_10K_2025.html",
+    "accession": "0001097149-26-000014"
+  },
+  {
+    "ticker": "ALGN",
+    "fiscal_year": "2024",
+    "filing_date": "2025-02-28",
+    "report_date": "2024-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ALGN_10K_2024.html",
+    "accession": "0001097149-25-000012"
+  },
+  {
+    "ticker": "ALGN",
+    "fiscal_year": "2023",
+    "filing_date": "2024-02-28",
+    "report_date": "2023-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ALGN_10K_2023.html",
+    "accession": "0001097149-24-000011"
+  },
+  {
+    "ticker": "ALGN",
+    "fiscal_year": "2022",
+    "filing_date": "2023-02-27",
+    "report_date": "2022-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ALGN_10K_2022.html",
+    "accession": "0001097149-23-000013"
+  },
+  {
+    "ticker": "ALGN",
+    "fiscal_year": "2021",
+    "filing_date": "2022-02-25",
+    "report_date": "2021-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ALGN_10K_2021.html",
+    "accession": "0001097149-22-000011"
+  },
+  {
+    "ticker": "ALGN",
+    "fiscal_year": "2020",
+    "filing_date": "2021-02-26",
+    "report_date": "2020-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ALGN_10K_2020.html",
+    "accession": "0001097149-21-000007"
+  },
+  {
+    "ticker": "ALGN",
+    "fiscal_year": "2019",
+    "filing_date": "2020-02-28",
+    "report_date": "2019-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ALGN_10K_2019.html",
+    "accession": "0001097149-20-000008"
+  }
+]

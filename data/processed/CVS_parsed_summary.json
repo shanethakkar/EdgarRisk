@@ -1,0 +1,65 @@
+[
+  {
+    "fiscal_year": "2025",
+    "risk_factors_count": 2,
+    "risk_factors_chars": 1821,
+    "mdna_chars": 98861,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CVS_FY2025_parsed.json"
+  },
+  {
+    "fiscal_year": "2024",
+    "risk_factors_count": 2,
+    "risk_factors_chars": 1711,
+    "mdna_chars": 108631,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CVS_FY2024_parsed.json"
+  },
+  {
+    "fiscal_year": "2023",
+    "risk_factors_count": 1,
+    "risk_factors_chars": 2174,
+    "mdna_chars": 116307,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CVS_FY2023_parsed.json"
+  },
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 26,
+    "risk_factors_chars": 155720,
+    "mdna_chars": 132515,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CVS_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 23,
+    "risk_factors_chars": 154692,
+    "mdna_chars": 126030,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CVS_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 24,
+    "risk_factors_chars": 155181,
+    "mdna_chars": 130881,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CVS_FY2020_parsed.json"
+  },
+  {
+    "fiscal_year": "2019",
+    "risk_factors_count": 18,
+    "risk_factors_chars": 127064,
+    "mdna_chars": 123799,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CVS_FY2019_parsed.json"
+  },
+  {
+    "fiscal_year": "2018",
+    "risk_factors_count": 21,
+    "risk_factors_chars": 175993,
+    "mdna_chars": 382,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CVS_FY2018_parsed.json"
+  },
+  {
+    "fiscal_year": "2017",
+    "risk_factors_count": 25,
+    "risk_factors_chars": 87890,
+    "mdna_chars": 435,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CVS_FY2017_parsed.json"
+  }
+]

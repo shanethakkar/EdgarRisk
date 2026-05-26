@@ -1,0 +1,37 @@
+[
+  {
+    "fiscal_year": "2025",
+    "risk_factors_count": 25,
+    "risk_factors_chars": 44893,
+    "mdna_chars": 15180,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\RIDE_FY2025_parsed.json"
+  },
+  {
+    "fiscal_year": "2024",
+    "risk_factors_count": 24,
+    "risk_factors_chars": 43501,
+    "mdna_chars": 21185,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\RIDE_FY2024_parsed.json"
+  },
+  {
+    "fiscal_year": "2023",
+    "risk_factors_count": 40,
+    "risk_factors_chars": 87853,
+    "mdna_chars": 56494,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\RIDE_FY2023_parsed.json"
+  },
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 103,
+    "risk_factors_chars": 206085,
+    "mdna_chars": 42992,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\RIDE_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 102,
+    "risk_factors_chars": 192859,
+    "mdna_chars": 28393,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\RIDE_FY2021_parsed.json"
+  }
+]

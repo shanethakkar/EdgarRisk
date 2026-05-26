@@ -1,0 +1,65 @@
+[
+  {
+    "fiscal_year": "2025",
+    "risk_factors_count": 34,
+    "risk_factors_chars": 101569,
+    "mdna_chars": 92714,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\HTZ_FY2025_parsed.json"
+  },
+  {
+    "fiscal_year": "2024",
+    "risk_factors_count": 33,
+    "risk_factors_chars": 100259,
+    "mdna_chars": 91105,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\HTZ_FY2024_parsed.json"
+  },
+  {
+    "fiscal_year": "2023",
+    "risk_factors_count": 32,
+    "risk_factors_chars": 91383,
+    "mdna_chars": 87111,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\HTZ_FY2023_parsed.json"
+  },
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 30,
+    "risk_factors_chars": 81811,
+    "mdna_chars": 105332,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\HTZ_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 29,
+    "risk_factors_chars": 84833,
+    "mdna_chars": 128700,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\HTZ_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 29,
+    "risk_factors_chars": 113493,
+    "mdna_chars": 127707,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\HTZ_FY2020_parsed.json"
+  },
+  {
+    "fiscal_year": "2019",
+    "risk_factors_count": 22,
+    "risk_factors_chars": 74804,
+    "mdna_chars": 99745,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\HTZ_FY2019_parsed.json"
+  },
+  {
+    "fiscal_year": "2018",
+    "risk_factors_count": 20,
+    "risk_factors_chars": 71498,
+    "mdna_chars": 113578,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\HTZ_FY2018_parsed.json"
+  },
+  {
+    "fiscal_year": "2017",
+    "risk_factors_count": 24,
+    "risk_factors_chars": 77377,
+    "mdna_chars": 130116,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\HTZ_FY2017_parsed.json"
+  }
+]

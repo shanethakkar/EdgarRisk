@@ -1,0 +1,65 @@
+[
+  {
+    "fiscal_year": "2025",
+    "risk_factors_count": 127,
+    "risk_factors_chars": 317137,
+    "mdna_chars": 142603,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\MNK_FY2025_parsed.json"
+  },
+  {
+    "fiscal_year": "2024",
+    "risk_factors_count": 150,
+    "risk_factors_chars": 359706,
+    "mdna_chars": 155416,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\MNK_FY2024_parsed.json"
+  },
+  {
+    "fiscal_year": "2023",
+    "risk_factors_count": 105,
+    "risk_factors_chars": 338599,
+    "mdna_chars": 150511,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\MNK_FY2023_parsed.json"
+  },
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 96,
+    "risk_factors_chars": 321053,
+    "mdna_chars": 147016,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\MNK_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 25,
+    "risk_factors_chars": 172600,
+    "mdna_chars": 136704,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\MNK_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 25,
+    "risk_factors_chars": 162758,
+    "mdna_chars": 162951,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\MNK_FY2020_parsed.json"
+  },
+  {
+    "fiscal_year": "2019",
+    "risk_factors_count": 53,
+    "risk_factors_chars": 193064,
+    "mdna_chars": 187286,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\MNK_FY2019_parsed.json"
+  },
+  {
+    "fiscal_year": "2018",
+    "risk_factors_count": 74,
+    "risk_factors_chars": 223046,
+    "mdna_chars": 125548,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\MNK_FY2018_parsed.json"
+  },
+  {
+    "fiscal_year": "2017",
+    "risk_factors_count": 66,
+    "risk_factors_chars": 206291,
+    "mdna_chars": 335958,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\MNK_FY2017_parsed.json"
+  }
+]

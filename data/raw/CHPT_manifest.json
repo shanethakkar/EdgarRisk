@@ -1,0 +1,42 @@
+[
+  {
+    "ticker": "CHPT",
+    "fiscal_year": "2026",
+    "filing_date": "2026-04-02",
+    "report_date": "2026-01-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\CHPT_10K_2026.html",
+    "accession": "0001777393-26-000013"
+  },
+  {
+    "ticker": "CHPT",
+    "fiscal_year": "2025",
+    "filing_date": "2025-03-28",
+    "report_date": "2025-01-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\CHPT_10K_2025.html",
+    "accession": "0001777393-25-000030"
+  },
+  {
+    "ticker": "CHPT",
+    "fiscal_year": "2024",
+    "filing_date": "2024-04-01",
+    "report_date": "2024-01-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\CHPT_10K_2024.html",
+    "accession": "0001777393-24-000052"
+  },
+  {
+    "ticker": "CHPT",
+    "fiscal_year": "2023",
+    "filing_date": "2023-04-03",
+    "report_date": "2023-01-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\CHPT_10K_2023.html",
+    "accession": "0001777393-23-000008"
+  },
+  {
+    "ticker": "CHPT",
+    "fiscal_year": "2022",
+    "filing_date": "2022-04-04",
+    "report_date": "2022-01-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\CHPT_10K_2022.html",
+    "accession": "0001777393-22-000013"
+  }
+]

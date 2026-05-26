@@ -1,0 +1,37 @@
+[
+  {
+    "fiscal_year": "2026",
+    "risk_factors_count": 24,
+    "risk_factors_chars": 215424,
+    "mdna_chars": 61881,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CHPT_FY2026_parsed.json"
+  },
+  {
+    "fiscal_year": "2025",
+    "risk_factors_count": 21,
+    "risk_factors_chars": 201168,
+    "mdna_chars": 65217,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CHPT_FY2025_parsed.json"
+  },
+  {
+    "fiscal_year": "2024",
+    "risk_factors_count": 47,
+    "risk_factors_chars": 193413,
+    "mdna_chars": 64912,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CHPT_FY2024_parsed.json"
+  },
+  {
+    "fiscal_year": "2023",
+    "risk_factors_count": 46,
+    "risk_factors_chars": 175284,
+    "mdna_chars": 64046,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CHPT_FY2023_parsed.json"
+  },
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 22,
+    "risk_factors_chars": 150987,
+    "mdna_chars": 77768,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CHPT_FY2022_parsed.json"
+  }
+]

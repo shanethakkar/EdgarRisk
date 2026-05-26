@@ -1,0 +1,79 @@
+[
+  {
+    "fiscal_year": "2025",
+    "risk_factors_count": 31,
+    "risk_factors_chars": 85399,
+    "mdna_chars": 230379,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SIRI_FY2025_parsed.json"
+  },
+  {
+    "fiscal_year": "2024",
+    "risk_factors_count": 31,
+    "risk_factors_chars": 84985,
+    "mdna_chars": 74232,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SIRI_FY2024_parsed.json"
+  },
+  {
+    "fiscal_year": "2023",
+    "risk_factors_count": 27,
+    "risk_factors_chars": 70105,
+    "mdna_chars": 67638,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SIRI_FY2023_parsed.json"
+  },
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 25,
+    "risk_factors_chars": 66400,
+    "mdna_chars": 64245,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SIRI_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 27,
+    "risk_factors_chars": 62386,
+    "mdna_chars": 71700,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SIRI_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 22,
+    "risk_factors_chars": 61391,
+    "mdna_chars": 117481,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SIRI_FY2020_parsed.json"
+  },
+  {
+    "fiscal_year": "2019",
+    "risk_factors_count": 20,
+    "risk_factors_chars": 59770,
+    "mdna_chars": 116641,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SIRI_FY2019_parsed.json"
+  },
+  {
+    "fiscal_year": "2018",
+    "risk_factors_count": 15,
+    "risk_factors_chars": 35929,
+    "mdna_chars": 82304,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SIRI_FY2018_parsed.json"
+  },
+  {
+    "fiscal_year": "2017",
+    "risk_factors_count": 13,
+    "risk_factors_chars": 32755,
+    "mdna_chars": 83078,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SIRI_FY2017_parsed.json"
+  },
+  {
+    "fiscal_year": "2016",
+    "risk_factors_count": 11,
+    "risk_factors_chars": 31971,
+    "mdna_chars": 75289,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SIRI_FY2016_parsed.json"
+  },
+  {
+    "fiscal_year": "2015",
+    "risk_factors_count": 9,
+    "risk_factors_chars": 33808,
+    "mdna_chars": 91063,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SIRI_FY2015_parsed.json"
+  }
+]

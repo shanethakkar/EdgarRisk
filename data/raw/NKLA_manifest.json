@@ -1,0 +1,50 @@
+[
+  {
+    "ticker": "NKLA",
+    "fiscal_year": "2024",
+    "filing_date": "2025-10-09",
+    "report_date": "2024-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\NKLA_10K_2024.html",
+    "accession": "0001731289-25-000065"
+  },
+  {
+    "ticker": "NKLA",
+    "fiscal_year": "2023",
+    "filing_date": "2024-02-28",
+    "report_date": "2023-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\NKLA_10K_2023.html",
+    "accession": "0001731289-24-000053"
+  },
+  {
+    "ticker": "NKLA",
+    "fiscal_year": "2022",
+    "filing_date": "2023-02-23",
+    "report_date": "2022-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\NKLA_10K_2022.html",
+    "accession": "0001731289-23-000013"
+  },
+  {
+    "ticker": "NKLA",
+    "fiscal_year": "2021",
+    "filing_date": "2022-02-24",
+    "report_date": "2021-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\NKLA_10K_2021.html",
+    "accession": "0001731289-22-000016"
+  },
+  {
+    "ticker": "NKLA",
+    "fiscal_year": "2020",
+    "filing_date": "2021-02-25",
+    "report_date": "2020-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\NKLA_10K_2020.html",
+    "accession": "0001731289-21-000006"
+  },
+  {
+    "ticker": "NKLA",
+    "fiscal_year": "2019",
+    "filing_date": "2020-03-06",
+    "report_date": "2019-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\NKLA_10K_2019.html",
+    "accession": "0001104659-20-030103"
+  }
+]

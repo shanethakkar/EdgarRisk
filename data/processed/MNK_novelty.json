@@ -1,0 +1,56 @@
+{
+  "2017": {
+    "novelty": null,
+    "prior_fy": null,
+    "cosine_sim": null,
+    "token_vocab_size": 43334
+  },
+  "2018": {
+    "novelty": 0.0325,
+    "prior_fy": "2017",
+    "cosine_sim": 0.9675,
+    "token_vocab_size": 43334
+  },
+  "2019": {
+    "novelty": 0.0506,
+    "prior_fy": "2018",
+    "cosine_sim": 0.9494,
+    "token_vocab_size": 43334
+  },
+  "2020": {
+    "novelty": 0.1571,
+    "prior_fy": "2019",
+    "cosine_sim": 0.8429,
+    "token_vocab_size": 43334
+  },
+  "2021": {
+    "novelty": 0.0188,
+    "prior_fy": "2020",
+    "cosine_sim": 0.9812,
+    "token_vocab_size": 43334
+  },
+  "2022": {
+    "novelty": 0.2355,
+    "prior_fy": "2021",
+    "cosine_sim": 0.7645,
+    "token_vocab_size": 43334
+  },
+  "2023": {
+    "novelty": 0.036,
+    "prior_fy": "2022",
+    "cosine_sim": 0.964,
+    "token_vocab_size": 43334
+  },
+  "2024": {
+    "novelty": 0.0536,
+    "prior_fy": "2023",
+    "cosine_sim": 0.9464,
+    "token_vocab_size": 43334
+  },
+  "2025": {
+    "novelty": 0.0738,
+    "prior_fy": "2024",
+    "cosine_sim": 0.9262,
+    "token_vocab_size": 43334
+  }
+}

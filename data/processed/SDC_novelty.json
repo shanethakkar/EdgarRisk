@@ -1,0 +1,26 @@
+{
+  "2019": {
+    "novelty": null,
+    "prior_fy": null,
+    "cosine_sim": null,
+    "token_vocab_size": 13772
+  },
+  "2020": {
+    "novelty": 0.0165,
+    "prior_fy": "2019",
+    "cosine_sim": 0.9835,
+    "token_vocab_size": 13772
+  },
+  "2021": {
+    "novelty": 0.0094,
+    "prior_fy": "2020",
+    "cosine_sim": 0.9906,
+    "token_vocab_size": 13772
+  },
+  "2022": {
+    "novelty": 0.0143,
+    "prior_fy": "2021",
+    "cosine_sim": 0.9857,
+    "token_vocab_size": 13772
+  }
+}

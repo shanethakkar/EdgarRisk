@@ -1,0 +1,58 @@
+[
+  {
+    "ticker": "RAD",
+    "fiscal_year": "2023",
+    "filing_date": "2023-05-01",
+    "report_date": "2023-03-04",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\RAD_10K_2023.html",
+    "accession": "0001558370-23-007488"
+  },
+  {
+    "ticker": "RAD",
+    "fiscal_year": "2022",
+    "filing_date": "2022-04-25",
+    "report_date": "2022-02-26",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\RAD_10K_2022.html",
+    "accession": "0001558370-22-005866"
+  },
+  {
+    "ticker": "RAD",
+    "fiscal_year": "2021",
+    "filing_date": "2021-04-27",
+    "report_date": "2021-02-27",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\RAD_10K_2021.html",
+    "accession": "0001558370-21-004887"
+  },
+  {
+    "ticker": "RAD",
+    "fiscal_year": "2020",
+    "filing_date": "2020-04-27",
+    "report_date": "2020-02-29",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\RAD_10K_2020.html",
+    "accession": "0001558370-20-004365"
+  },
+  {
+    "ticker": "RAD",
+    "fiscal_year": "2019",
+    "filing_date": "2019-04-25",
+    "report_date": "2019-03-02",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\RAD_10K_2019.html",
+    "accession": "0001047469-19-002567"
+  },
+  {
+    "ticker": "RAD",
+    "fiscal_year": "2018",
+    "filing_date": "2018-04-26",
+    "report_date": "2018-03-03",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\RAD_10K_2018.html",
+    "accession": "0001047469-18-003207"
+  },
+  {
+    "ticker": "RAD",
+    "fiscal_year": "2017",
+    "filing_date": "2017-05-03",
+    "report_date": "2017-03-04",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\RAD_10K_2017.html",
+    "accession": "0001047469-17-003159"
+  }
+]

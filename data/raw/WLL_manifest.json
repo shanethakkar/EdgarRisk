@@ -1,0 +1,74 @@
+[
+  {
+    "ticker": "WLL",
+    "fiscal_year": "2021",
+    "filing_date": "2022-02-23",
+    "report_date": "2021-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\WLL_10K_2021.html",
+    "accession": "0001255474-22-000008"
+  },
+  {
+    "ticker": "WLL",
+    "fiscal_year": "2020",
+    "filing_date": "2021-02-25",
+    "report_date": "2020-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\WLL_10K_2020.html",
+    "accession": "0001255474-21-000009"
+  },
+  {
+    "ticker": "WLL",
+    "fiscal_year": "2019",
+    "filing_date": "2020-02-27",
+    "report_date": "2019-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\WLL_10K_2019.html",
+    "accession": "0001255474-20-000007"
+  },
+  {
+    "ticker": "WLL",
+    "fiscal_year": "2018",
+    "filing_date": "2019-02-28",
+    "report_date": "2018-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\WLL_10K_2018.html",
+    "accession": "0001255474-19-000009"
+  },
+  {
+    "ticker": "WLL",
+    "fiscal_year": "2017",
+    "filing_date": "2018-02-22",
+    "report_date": "2017-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\WLL_10K_2017.html",
+    "accession": "0001255474-18-000008"
+  },
+  {
+    "ticker": "WLL",
+    "fiscal_year": "2016",
+    "filing_date": "2017-02-23",
+    "report_date": "2016-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\WLL_10K_2016.html",
+    "accession": "0001255474-17-000005"
+  },
+  {
+    "ticker": "WLL",
+    "fiscal_year": "2015",
+    "filing_date": "2016-02-25",
+    "report_date": "2015-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\WLL_10K_2015.html",
+    "accession": "0001255474-16-000024"
+  },
+  {
+    "ticker": "WLL",
+    "fiscal_year": "2014",
+    "filing_date": "2015-02-27",
+    "report_date": "2014-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\WLL_10K_2014.html",
+    "accession": "0001255474-15-000004"
+  },
+  {
+    "ticker": "WLL",
+    "fiscal_year": "2013",
+    "filing_date": "2014-02-28",
+    "report_date": "2013-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\WLL_10K_2013.html",
+    "accession": "0001255474-14-000005"
+  }
+]

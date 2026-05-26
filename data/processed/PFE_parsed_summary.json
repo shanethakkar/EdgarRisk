@@ -1,0 +1,65 @@
+[
+  {
+    "fiscal_year": "2025",
+    "risk_factors_count": 125,
+    "risk_factors_chars": 203450,
+    "mdna_chars": 106281,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\PFE_FY2025_parsed.json"
+  },
+  {
+    "fiscal_year": "2024",
+    "risk_factors_count": 113,
+    "risk_factors_chars": 188557,
+    "mdna_chars": 106018,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\PFE_FY2024_parsed.json"
+  },
+  {
+    "fiscal_year": "2023",
+    "risk_factors_count": 118,
+    "risk_factors_chars": 195838,
+    "mdna_chars": 101520,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\PFE_FY2023_parsed.json"
+  },
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 99,
+    "risk_factors_chars": 166515,
+    "mdna_chars": 103345,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\PFE_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 106,
+    "risk_factors_chars": 158066,
+    "mdna_chars": 112746,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\PFE_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 97,
+    "risk_factors_chars": 146203,
+    "mdna_chars": 116996,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\PFE_FY2020_parsed.json"
+  },
+  {
+    "fiscal_year": "2019",
+    "risk_factors_count": 121,
+    "risk_factors_chars": 185040,
+    "mdna_chars": 245,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\PFE_FY2019_parsed.json"
+  },
+  {
+    "fiscal_year": "2018",
+    "risk_factors_count": 121,
+    "risk_factors_chars": 173023,
+    "mdna_chars": 245,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\PFE_FY2018_parsed.json"
+  },
+  {
+    "fiscal_year": "2017",
+    "risk_factors_count": 109,
+    "risk_factors_chars": 155921,
+    "mdna_chars": 245,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\PFE_FY2017_parsed.json"
+  }
+]

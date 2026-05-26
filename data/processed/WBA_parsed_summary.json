@@ -1,0 +1,65 @@
+[
+  {
+    "fiscal_year": "2024",
+    "risk_factors_count": 41,
+    "risk_factors_chars": 115572,
+    "mdna_chars": 37142,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\WBA_FY2024_parsed.json"
+  },
+  {
+    "fiscal_year": "2023",
+    "risk_factors_count": 41,
+    "risk_factors_chars": 111545,
+    "mdna_chars": 34905,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\WBA_FY2023_parsed.json"
+  },
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 33,
+    "risk_factors_chars": 99243,
+    "mdna_chars": 41339,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\WBA_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 23,
+    "risk_factors_chars": 83272,
+    "mdna_chars": 76415,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\WBA_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 29,
+    "risk_factors_chars": 125104,
+    "mdna_chars": 37909,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\WBA_FY2020_parsed.json"
+  },
+  {
+    "fiscal_year": "2019",
+    "risk_factors_count": 31,
+    "risk_factors_chars": 115076,
+    "mdna_chars": 31078,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\WBA_FY2019_parsed.json"
+  },
+  {
+    "fiscal_year": "2018",
+    "risk_factors_count": 29,
+    "risk_factors_chars": 110496,
+    "mdna_chars": 34817,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\WBA_FY2018_parsed.json"
+  },
+  {
+    "fiscal_year": "2017",
+    "risk_factors_count": 22,
+    "risk_factors_chars": 101913,
+    "mdna_chars": 39237,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\WBA_FY2017_parsed.json"
+  },
+  {
+    "fiscal_year": "2016",
+    "risk_factors_count": 29,
+    "risk_factors_chars": 100552,
+    "mdna_chars": 35838,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\WBA_FY2016_parsed.json"
+  }
+]

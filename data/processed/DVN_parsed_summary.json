@@ -1,0 +1,65 @@
+[
+  {
+    "fiscal_year": "2025",
+    "risk_factors_count": 49,
+    "risk_factors_chars": 78286,
+    "mdna_chars": 58677,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\DVN_FY2025_parsed.json"
+  },
+  {
+    "fiscal_year": "2024",
+    "risk_factors_count": 45,
+    "risk_factors_chars": 70612,
+    "mdna_chars": 55237,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\DVN_FY2024_parsed.json"
+  },
+  {
+    "fiscal_year": "2023",
+    "risk_factors_count": 44,
+    "risk_factors_chars": 66299,
+    "mdna_chars": 55723,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\DVN_FY2023_parsed.json"
+  },
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 40,
+    "risk_factors_chars": 63376,
+    "mdna_chars": 67252,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\DVN_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 37,
+    "risk_factors_chars": 59449,
+    "mdna_chars": 70381,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\DVN_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 37,
+    "risk_factors_chars": 56770,
+    "mdna_chars": 79379,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\DVN_FY2020_parsed.json"
+  },
+  {
+    "fiscal_year": "2019",
+    "risk_factors_count": 34,
+    "risk_factors_chars": 50373,
+    "mdna_chars": 88870,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\DVN_FY2019_parsed.json"
+  },
+  {
+    "fiscal_year": "2018",
+    "risk_factors_count": 41,
+    "risk_factors_chars": 59855,
+    "mdna_chars": 97441,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\DVN_FY2018_parsed.json"
+  },
+  {
+    "fiscal_year": "2017",
+    "risk_factors_count": 40,
+    "risk_factors_chars": 58264,
+    "mdna_chars": 95260,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\DVN_FY2017_parsed.json"
+  }
+]

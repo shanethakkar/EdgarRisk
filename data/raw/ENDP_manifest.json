@@ -1,0 +1,66 @@
+[
+  {
+    "ticker": "ENDP",
+    "fiscal_year": "2023",
+    "filing_date": "2024-03-06",
+    "report_date": "2023-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ENDP_10K_2023.html",
+    "accession": "0001593034-24-000007"
+  },
+  {
+    "ticker": "ENDP",
+    "fiscal_year": "2022",
+    "filing_date": "2023-03-06",
+    "report_date": "2022-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ENDP_10K_2022.html",
+    "accession": "0001593034-23-000007"
+  },
+  {
+    "ticker": "ENDP",
+    "fiscal_year": "2021",
+    "filing_date": "2022-03-01",
+    "report_date": "2021-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ENDP_10K_2021.html",
+    "accession": "0001593034-22-000012"
+  },
+  {
+    "ticker": "ENDP",
+    "fiscal_year": "2020",
+    "filing_date": "2021-02-26",
+    "report_date": "2020-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ENDP_10K_2020.html",
+    "accession": "0001593034-21-000012"
+  },
+  {
+    "ticker": "ENDP",
+    "fiscal_year": "2019",
+    "filing_date": "2020-02-26",
+    "report_date": "2019-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ENDP_10K_2019.html",
+    "accession": "0001593034-20-000019"
+  },
+  {
+    "ticker": "ENDP",
+    "fiscal_year": "2018",
+    "filing_date": "2019-02-28",
+    "report_date": "2018-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ENDP_10K_2018.html",
+    "accession": "0001593034-19-000009"
+  },
+  {
+    "ticker": "ENDP",
+    "fiscal_year": "2017",
+    "filing_date": "2018-02-27",
+    "report_date": "2017-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ENDP_10K_2017.html",
+    "accession": "0001593034-18-000010"
+  },
+  {
+    "ticker": "ENDP",
+    "fiscal_year": "2016",
+    "filing_date": "2017-03-01",
+    "report_date": "2016-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ENDP_10K_2016.html",
+    "accession": "0001593034-17-000009"
+  }
+]

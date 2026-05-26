@@ -1,0 +1,90 @@
+[
+  {
+    "ticker": "IHRT",
+    "fiscal_year": "2025",
+    "filing_date": "2026-03-02",
+    "report_date": "2025-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\IHRT_10K_2025.html",
+    "accession": "0001628280-26-013221"
+  },
+  {
+    "ticker": "IHRT",
+    "fiscal_year": "2024",
+    "filing_date": "2025-02-27",
+    "report_date": "2024-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\IHRT_10K_2024.html",
+    "accession": "0001400891-25-000009"
+  },
+  {
+    "ticker": "IHRT",
+    "fiscal_year": "2023",
+    "filing_date": "2024-02-29",
+    "report_date": "2023-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\IHRT_10K_2023.html",
+    "accession": "0001400891-24-000008"
+  },
+  {
+    "ticker": "IHRT",
+    "fiscal_year": "2022",
+    "filing_date": "2023-02-28",
+    "report_date": "2022-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\IHRT_10K_2022.html",
+    "accession": "0001400891-23-000008"
+  },
+  {
+    "ticker": "IHRT",
+    "fiscal_year": "2021",
+    "filing_date": "2022-02-23",
+    "report_date": "2021-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\IHRT_10K_2021.html",
+    "accession": "0001400891-22-000012"
+  },
+  {
+    "ticker": "IHRT",
+    "fiscal_year": "2020",
+    "filing_date": "2021-02-25",
+    "report_date": "2020-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\IHRT_10K_2020.html",
+    "accession": "0001400891-21-000015"
+  },
+  {
+    "ticker": "IHRT",
+    "fiscal_year": "2019",
+    "filing_date": "2020-02-27",
+    "report_date": "2019-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\IHRT_10K_2019.html",
+    "accession": "0001400891-20-000009"
+  },
+  {
+    "ticker": "IHRT",
+    "fiscal_year": "2018",
+    "filing_date": "2019-03-05",
+    "report_date": "2018-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\IHRT_10K_2018.html",
+    "accession": "0001400891-19-000006"
+  },
+  {
+    "ticker": "IHRT",
+    "fiscal_year": "2017",
+    "filing_date": "2018-05-03",
+    "report_date": "2017-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\IHRT_10K_2017.html",
+    "accession": "0001400891-18-000005"
+  },
+  {
+    "ticker": "IHRT",
+    "fiscal_year": "2016",
+    "filing_date": "2017-02-23",
+    "report_date": "2016-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\IHRT_10K_2016.html",
+    "accession": "0001400891-17-000005"
+  },
+  {
+    "ticker": "IHRT",
+    "fiscal_year": "2015",
+    "filing_date": "2016-02-25",
+    "report_date": "2015-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\IHRT_10K_2015.html",
+    "accession": "0001400891-16-000051"
+  }
+]

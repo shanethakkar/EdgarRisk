@@ -1,0 +1,79 @@
+[
+  {
+    "fiscal_year": "2025",
+    "risk_factors_count": 32,
+    "risk_factors_chars": 94619,
+    "mdna_chars": 64529,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\IHRT_FY2025_parsed.json"
+  },
+  {
+    "fiscal_year": "2024",
+    "risk_factors_count": 31,
+    "risk_factors_chars": 91380,
+    "mdna_chars": 64744,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\IHRT_FY2024_parsed.json"
+  },
+  {
+    "fiscal_year": "2023",
+    "risk_factors_count": 31,
+    "risk_factors_chars": 87154,
+    "mdna_chars": 64986,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\IHRT_FY2023_parsed.json"
+  },
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 16,
+    "risk_factors_chars": 54080,
+    "mdna_chars": 70860,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\IHRT_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 16,
+    "risk_factors_chars": 57477,
+    "mdna_chars": 102014,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\IHRT_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 16,
+    "risk_factors_chars": 56717,
+    "mdna_chars": 107024,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\IHRT_FY2020_parsed.json"
+  },
+  {
+    "fiscal_year": "2019",
+    "risk_factors_count": 15,
+    "risk_factors_chars": 50574,
+    "mdna_chars": 98276,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\IHRT_FY2019_parsed.json"
+  },
+  {
+    "fiscal_year": "2018",
+    "risk_factors_count": 19,
+    "risk_factors_chars": 72880,
+    "mdna_chars": 197422,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\IHRT_FY2018_parsed.json"
+  },
+  {
+    "fiscal_year": "2017",
+    "risk_factors_count": 28,
+    "risk_factors_chars": 74892,
+    "mdna_chars": 188076,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\IHRT_FY2017_parsed.json"
+  },
+  {
+    "fiscal_year": "2016",
+    "risk_factors_count": 42,
+    "risk_factors_chars": 61845,
+    "mdna_chars": 208293,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\IHRT_FY2016_parsed.json"
+  },
+  {
+    "fiscal_year": "2015",
+    "risk_factors_count": 5,
+    "risk_factors_chars": 58985,
+    "mdna_chars": 202916,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\IHRT_FY2015_parsed.json"
+  }
+]

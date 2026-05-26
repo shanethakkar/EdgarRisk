@@ -1,0 +1,74 @@
+[
+  {
+    "ticker": "CVS",
+    "fiscal_year": "2025",
+    "filing_date": "2026-02-10",
+    "report_date": "2025-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\CVS_10K_2025.html",
+    "accession": "0000064803-26-000010"
+  },
+  {
+    "ticker": "CVS",
+    "fiscal_year": "2024",
+    "filing_date": "2025-02-12",
+    "report_date": "2024-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\CVS_10K_2024.html",
+    "accession": "0000064803-25-000007"
+  },
+  {
+    "ticker": "CVS",
+    "fiscal_year": "2023",
+    "filing_date": "2024-02-07",
+    "report_date": "2023-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\CVS_10K_2023.html",
+    "accession": "0000064803-24-000007"
+  },
+  {
+    "ticker": "CVS",
+    "fiscal_year": "2022",
+    "filing_date": "2023-02-08",
+    "report_date": "2022-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\CVS_10K_2022.html",
+    "accession": "0000064803-23-000009"
+  },
+  {
+    "ticker": "CVS",
+    "fiscal_year": "2021",
+    "filing_date": "2022-02-09",
+    "report_date": "2021-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\CVS_10K_2021.html",
+    "accession": "0000064803-22-000008"
+  },
+  {
+    "ticker": "CVS",
+    "fiscal_year": "2020",
+    "filing_date": "2021-02-16",
+    "report_date": "2020-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\CVS_10K_2020.html",
+    "accession": "0000064803-21-000011"
+  },
+  {
+    "ticker": "CVS",
+    "fiscal_year": "2019",
+    "filing_date": "2020-02-18",
+    "report_date": "2019-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\CVS_10K_2019.html",
+    "accession": "0000064803-20-000007"
+  },
+  {
+    "ticker": "CVS",
+    "fiscal_year": "2018",
+    "filing_date": "2019-02-28",
+    "report_date": "2018-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\CVS_10K_2018.html",
+    "accession": "0000064803-19-000013"
+  },
+  {
+    "ticker": "CVS",
+    "fiscal_year": "2017",
+    "filing_date": "2018-02-14",
+    "report_date": "2017-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\CVS_10K_2017.html",
+    "accession": "0001558370-18-000707"
+  }
+]

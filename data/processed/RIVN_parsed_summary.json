@@ -1,0 +1,37 @@
+[
+  {
+    "fiscal_year": "2025",
+    "risk_factors_count": 78,
+    "risk_factors_chars": 257474,
+    "mdna_chars": 52693,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\RIVN_FY2025_parsed.json"
+  },
+  {
+    "fiscal_year": "2024",
+    "risk_factors_count": 89,
+    "risk_factors_chars": 268141,
+    "mdna_chars": 56135,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\RIVN_FY2024_parsed.json"
+  },
+  {
+    "fiscal_year": "2023",
+    "risk_factors_count": 34,
+    "risk_factors_chars": 207413,
+    "mdna_chars": 36905,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\RIVN_FY2023_parsed.json"
+  },
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 33,
+    "risk_factors_chars": 198434,
+    "mdna_chars": 35386,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\RIVN_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 28,
+    "risk_factors_chars": 218293,
+    "mdna_chars": 46304,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\RIVN_FY2021_parsed.json"
+  }
+]

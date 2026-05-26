@@ -1,0 +1,65 @@
+[
+  {
+    "fiscal_year": "2025",
+    "risk_factors_count": 52,
+    "risk_factors_chars": 128577,
+    "mdna_chars": 13366,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CHK_FY2025_parsed.json"
+  },
+  {
+    "fiscal_year": "2024",
+    "risk_factors_count": 57,
+    "risk_factors_chars": 130165,
+    "mdna_chars": 15347,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CHK_FY2024_parsed.json"
+  },
+  {
+    "fiscal_year": "2023",
+    "risk_factors_count": 57,
+    "risk_factors_chars": 129712,
+    "mdna_chars": 16695,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CHK_FY2023_parsed.json"
+  },
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 39,
+    "risk_factors_chars": 88922,
+    "mdna_chars": 17109,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CHK_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 55,
+    "risk_factors_chars": 113175,
+    "mdna_chars": 14593,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CHK_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 43,
+    "risk_factors_chars": 81564,
+    "mdna_chars": 62650,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CHK_FY2020_parsed.json"
+  },
+  {
+    "fiscal_year": "2019",
+    "risk_factors_count": 38,
+    "risk_factors_chars": 82213,
+    "mdna_chars": 63461,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CHK_FY2019_parsed.json"
+  },
+  {
+    "fiscal_year": "2018",
+    "risk_factors_count": 34,
+    "risk_factors_chars": 73534,
+    "mdna_chars": 66637,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CHK_FY2018_parsed.json"
+  },
+  {
+    "fiscal_year": "2017",
+    "risk_factors_count": 46,
+    "risk_factors_chars": 77171,
+    "mdna_chars": 58807,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CHK_FY2017_parsed.json"
+  }
+]

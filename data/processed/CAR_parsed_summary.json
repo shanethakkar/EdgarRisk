@@ -1,0 +1,65 @@
+[
+  {
+    "fiscal_year": "2025",
+    "risk_factors_count": 22,
+    "risk_factors_chars": 66737,
+    "mdna_chars": 37109,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CAR_FY2025_parsed.json"
+  },
+  {
+    "fiscal_year": "2024",
+    "risk_factors_count": 23,
+    "risk_factors_chars": 64257,
+    "mdna_chars": 35793,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CAR_FY2024_parsed.json"
+  },
+  {
+    "fiscal_year": "2023",
+    "risk_factors_count": 22,
+    "risk_factors_chars": 62671,
+    "mdna_chars": 32054,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CAR_FY2023_parsed.json"
+  },
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 22,
+    "risk_factors_chars": 63235,
+    "mdna_chars": 30194,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CAR_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 182,
+    "risk_factors_chars": 228922,
+    "mdna_chars": 35060,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CAR_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 187,
+    "risk_factors_chars": 245625,
+    "mdna_chars": 36205,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CAR_FY2020_parsed.json"
+  },
+  {
+    "fiscal_year": "2019",
+    "risk_factors_count": 179,
+    "risk_factors_chars": 263046,
+    "mdna_chars": 30781,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CAR_FY2019_parsed.json"
+  },
+  {
+    "fiscal_year": "2018",
+    "risk_factors_count": 172,
+    "risk_factors_chars": 239887,
+    "mdna_chars": 44369,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CAR_FY2018_parsed.json"
+  },
+  {
+    "fiscal_year": "2017",
+    "risk_factors_count": 182,
+    "risk_factors_chars": 245544,
+    "mdna_chars": 46459,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\CAR_FY2017_parsed.json"
+  }
+]
