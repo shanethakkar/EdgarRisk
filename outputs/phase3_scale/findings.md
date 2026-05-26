@@ -4,7 +4,7 @@
 
 ## Headline result
 
-![Phase 3 final scoreboard, n=24](phase3_final_scoreboard.png)
+![Phase 3 final scoreboard, n=24](final_scoreboard.png)
 
 **Aggregate detection rate: 17/24 = 71%.** Stripping out the 4 cases the methodology explicitly cannot handle (Phase 2C classified BA, SIVB, SI, PTON as "structurally undetectable"), the rate is **17/20 = 85%**. Three new failures (EXPR, SDC, HTZ) joined the "missed" column with three previously-unnamed miss subclasses, described below.
 
@@ -121,8 +121,8 @@ Three substantive next steps, each well-defined:
 ## Files produced
 
 - `analysis/phase3_scale.py` — all 24 failures, locked Phase 2C methodology
-- `outputs/phase3_metrics.csv` — full per-failure signal data
-- `outputs/phase3_summary.csv` — same data, summary view
-- `outputs/phase3_final_scoreboard.png` — n=24 unified scoreboard (the new hero chart)
+- `outputs/phase3_scale/metrics.csv` — full per-failure signal data
+- `outputs/phase3_scale/summary.csv` — same data, summary view
+- `outputs/final_scoreboard.png` — n=24 unified scoreboard (the new hero chart)
 - `data/raw/*` — 25 new ticker manifests (12 failures + 13 survivors)
 - `data/processed/*` — sentiment + novelty for all 25 new tickers

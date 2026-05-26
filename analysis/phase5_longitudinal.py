@@ -29,7 +29,8 @@ from pathlib import Path
 import matplotlib.pyplot as plt
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-OUTPUTS_DIR = PROJECT_ROOT / "outputs"
+PHASE_DIR = PROJECT_ROOT / "outputs" / "phase5_longitudinal"
+PHASE_DIR.mkdir(parents=True, exist_ok=True)
 
 # Each of the 22 unique-ticker false positives, manually categorized based
 # on public events between lookback-end and May 2026. Conservative coding:
@@ -91,7 +92,7 @@ FP_CLASSIFICATIONS = [
 
 def main() -> None:
     fp_df = pd.DataFrame(FP_CLASSIFICATIONS)
-    fp_df.to_csv(OUTPUTS_DIR / "phase5_longitudinal_classification.csv", index=False)
+    fp_df.to_csv(PHASE_DIR / "classification.csv", index=False)
 
     print("=== Subsequent fate of 22 'false positive' survivors ===")
     print(fp_df.to_string(index=False))
@@ -171,7 +172,7 @@ def main() -> None:
     ax.text(0.02, 90, f"Extended: + {subsequent_distress} flagged 'survivors' subsequently distressed (take-privates,\n              activist takeovers, >50% stock crashes)",
             fontsize=9, alpha=0.7)
     plt.tight_layout()
-    plt.savefig(OUTPUTS_DIR / "phase5_precision_curves.png", dpi=140, bbox_inches="tight")
+    plt.savefig(PHASE_DIR / "precision_curves.png", dpi=140, bbox_inches="tight")
     plt.close(fig)
 
     # Save summary
@@ -184,9 +185,9 @@ def main() -> None:
         "tp": [detected_in_sample, tp_extended, tp_extended + stress_recovered],
         "fp": [survivor_fp_in_sample, fp_extended, truly_healthy],
     })
-    summary.to_csv(OUTPUTS_DIR / "phase5_adjusted_metrics.csv", index=False)
-    print(f"\nSaved: outputs/phase5_precision_curves.png")
-    print(f"Saved: outputs/phase5_adjusted_metrics.csv")
+    summary.to_csv(PHASE_DIR / "adjusted_metrics.csv", index=False)
+    print(f"\nSaved: outputs/phase5_longitudinal/precision_curves.png")
+    print(f"Saved: outputs/phase5_longitudinal/adjusted_metrics.csv")
 
 
 if __name__ == "__main__":

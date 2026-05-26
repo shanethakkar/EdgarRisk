@@ -10,3 +10,9 @@ __pycache__/
 # Manifests are kept for metadata.
 data/raw/*.html
 data/raw/*.htm
+
+# Local Claude Code config (user-specific permissions)
+.claude/
+
+# Internal resume-agent ingestion notes (not for public consumption)
+RESUME_NOTES.md

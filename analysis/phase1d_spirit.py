@@ -33,7 +33,8 @@ import pandas as pd
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
-OUTPUTS_DIR = PROJECT_ROOT / "outputs"
+PHASE_DIR = PROJECT_ROOT / "outputs" / "phase1d_spirit_oos"
+PHASE_DIR.mkdir(parents=True, exist_ok=True)
 
 COHORT = {
     "failure": "SAVE",
@@ -157,15 +158,15 @@ def main() -> None:
     print(show.to_string(index=False))
 
     pct_df = build_percentile_long(df, COHORT)
-    metrics_path = OUTPUTS_DIR / "phase1d_spirit_metrics.csv"
+    metrics_path = PHASE_DIR / "metrics.csv"
     pct_df.to_csv(metrics_path, index=False)
     print(f"\nSaved: {metrics_path}")
 
-    traj_path = OUTPUTS_DIR / "phase1d_spirit_trajectories.png"
+    traj_path = PHASE_DIR / "trajectories.png"
     plot_trajectories(pct_df, COHORT, traj_path)
     print(f"Saved: {traj_path}")
 
-    score_path = OUTPUTS_DIR / "phase1d_spirit_scoreboard.png"
+    score_path = PHASE_DIR / "scoreboard.png"
     plot_scoreboard(pct_df, score_path)
     print(f"Saved: {score_path}")
 

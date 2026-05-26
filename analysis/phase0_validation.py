@@ -19,8 +19,8 @@ import pandas as pd
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
-OUTPUTS_DIR = PROJECT_ROOT / "outputs"
-OUTPUTS_DIR.mkdir(parents=True, exist_ok=True)
+PHASE_DIR = PROJECT_ROOT / "outputs" / "phase0_viability"
+PHASE_DIR.mkdir(parents=True, exist_ok=True)
 
 PAIRS = [
     {"failure": "BA",   "survivor": "LMT",  "event": "Boeing 737 MAX crisis (Oct 2018)",      "event_fy": 2018, "lookback": [2017, 2018]},
@@ -148,16 +148,16 @@ def yoy_summary(df: pd.DataFrame) -> pd.DataFrame:
 
 def main() -> None:
     df = build_long_table()
-    metrics_path = OUTPUTS_DIR / "phase0_metrics.csv"
+    metrics_path = PHASE_DIR / "metrics.csv"
     df.to_csv(metrics_path, index=False)
     print(f"Saved long metrics table: {metrics_path}")
 
-    chart_path = OUTPUTS_DIR / "phase0_comparison.png"
+    chart_path = PHASE_DIR / "comparison.png"
     plot_comparison(df, chart_path)
     print(f"Saved comparison chart: {chart_path}")
 
     summary = yoy_summary(df)
-    summary_path = OUTPUTS_DIR / "phase0_yoy_summary.csv"
+    summary_path = PHASE_DIR / "yoy_summary.csv"
     summary.to_csv(summary_path, index=False)
     print(f"Saved YoY summary: {summary_path}")
 

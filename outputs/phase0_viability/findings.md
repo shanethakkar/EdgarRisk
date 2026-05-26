@@ -20,7 +20,7 @@
 
 ## Headline result
 
-![Phase 0 comparison chart](phase0_comparison.png)
+![Phase 0 comparison chart](comparison.png)
 
 | Pair | Failure Δ (Risk-section size) | Survivor Δ | Spread |
 |---|---|---|---|
@@ -98,8 +98,8 @@ The pilot exposed several parser failures that need fixing before scaling:
 
 ## Files produced
 
-- `outputs/phase0_metrics.csv` — long-form metrics table (company × year)
-- `outputs/phase0_yoy_summary.csv` — per-pair growth deltas
-- `outputs/phase0_comparison.png` — side-by-side comparison chart
+- `outputs/phase0_viability/metrics.csv` — long-form metrics table (company × year)
+- `outputs/phase0_viability/yoy_summary.csv` — per-pair growth deltas
+- `outputs/comparison.png` — side-by-side comparison chart
 - `data/processed/*_FY*_parsed.json` — parsed Risk Factors + MD&A for all 10 companies
 - `data/processed/*_redflags.json` — red-flag detection results

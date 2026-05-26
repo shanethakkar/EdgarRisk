@@ -22,8 +22,8 @@ import pandas as pd
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
-OUTPUTS_DIR = PROJECT_ROOT / "outputs"
-OUTPUTS_DIR.mkdir(parents=True, exist_ok=True)
+PHASE_DIR = PROJECT_ROOT / "outputs" / "phase1a_sentiment"
+PHASE_DIR.mkdir(parents=True, exist_ok=True)
 
 PAIRS = [
     {"failure": "BA",   "survivor": "LMT",  "event": "Boeing 737 MAX (Oct 2018)",       "event_fy": 2018, "lookback": [2017, 2018]},
@@ -182,20 +182,20 @@ def yoy_summary(df: pd.DataFrame) -> pd.DataFrame:
 
 def main() -> None:
     df = build_long_table()
-    metrics_path = OUTPUTS_DIR / "phase1a_metrics.csv"
+    metrics_path = PHASE_DIR / "metrics.csv"
     df.to_csv(metrics_path, index=False)
     print(f"Saved: {metrics_path}")
 
-    headline_path = OUTPUTS_DIR / "phase1a_sentiment_trajectories.png"
+    headline_path = PHASE_DIR / "sentiment_trajectories.png"
     plot_headline(df, headline_path)
     print(f"Saved: {headline_path}")
 
-    per_pair_path = OUTPUTS_DIR / "phase1a_per_pair.png"
+    per_pair_path = PHASE_DIR / "per_pair.png"
     plot_per_pair(df, per_pair_path)
     print(f"Saved: {per_pair_path}")
 
     summary = yoy_summary(df)
-    summary_path = OUTPUTS_DIR / "phase1a_yoy_summary.csv"
+    summary_path = PHASE_DIR / "yoy_summary.csv"
     summary.to_csv(summary_path, index=False)
     print(f"Saved: {summary_path}")
 

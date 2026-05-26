@@ -35,7 +35,8 @@ import pandas as pd
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
-OUTPUTS_DIR = PROJECT_ROOT / "outputs"
+PHASE_DIR = PROJECT_ROOT / "outputs" / "phase2a_retail"
+PHASE_DIR.mkdir(parents=True, exist_ok=True)
 
 SURVIVORS = ["BBY", "M", "KSS", "JWN", "WSM"]
 
@@ -218,20 +219,20 @@ def main() -> None:
     df = pd.concat([load_company(t) for t in tickers], ignore_index=True)
 
     pct_df = build_percentile_long(df)
-    metrics_path = OUTPUTS_DIR / "phase2a_retail_metrics.csv"
+    metrics_path = PHASE_DIR / "metrics.csv"
     pct_df.to_csv(metrics_path, index=False)
     print(f"Saved: {metrics_path}")
 
-    traj_path = OUTPUTS_DIR / "phase2a_retail_trajectories.png"
+    traj_path = PHASE_DIR / "trajectories.png"
     plot_trajectories(pct_df, traj_path)
     print(f"Saved: {traj_path}")
 
-    scoreboard_path = OUTPUTS_DIR / "phase2a_retail_scoreboard.png"
+    scoreboard_path = PHASE_DIR / "scoreboard.png"
     score_t0 = plot_scoreboard(pct_df, scoreboard_path)
     print(f"Saved: {scoreboard_path}")
 
     summary = hit_rate_summary(pct_df, score_t0)
-    summary_path = OUTPUTS_DIR / "phase2a_retail_summary.csv"
+    summary_path = PHASE_DIR / "summary.csv"
     summary.to_csv(summary_path, index=False)
     print(f"Saved: {summary_path}")
 

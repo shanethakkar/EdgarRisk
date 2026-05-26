@@ -10,7 +10,7 @@
 
 ## Headline result
 
-![Industrial scoreboard](phase2b_industrial_scoreboard.png)
+![Industrial scoreboard](scoreboard.png)
 
 **Novelty fires (max-in-window ≥ 0.75) for all 3 industrial failures. 100% detection across 3 different sectors.**
 
@@ -130,9 +130,9 @@ Three substantive directions, each well-defined:
 ## Files produced
 
 - `analysis/phase2b_industrial.py` — three-cohort industrial analysis
-- `outputs/phase2b_industrial_metrics.csv` — long-form percentile data
-- `outputs/phase2b_industrial_summary.csv` — detection scorecard
-- `outputs/phase2b_industrial_scoreboard.png` — 3 × 3 heatmap
-- `outputs/phase2b_industrial_trajectories.png` — trajectory grid for all 3 failures
+- `outputs/phase2b_industrial/industrial/metrics.csv` — long-form percentile data
+- `outputs/phase2b_industrial/industrial/summary.csv` — detection scorecard
+- `outputs/scoreboard.png` — 3 × 3 heatmap
+- `outputs/phase2b_industrial/industrial/trajectories.png` — trajectory grid for all 3 failures
 - `data/raw/{WE, YELL, TUP, CWK, NMRK, IRM, ODFL, ARCB, XPO, CHD, CL, CLX}_manifest.json`
 - `data/processed/{ticker}_*.json` for all 12 new industrial tickers

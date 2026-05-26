@@ -41,7 +41,8 @@ import pandas as pd
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
-OUTPUTS_DIR = PROJECT_ROOT / "outputs"
+PHASE_DIR = PROJECT_ROOT / "outputs" / "phase2c_underdisclosure"
+PHASE_DIR.mkdir(parents=True, exist_ok=True)
 
 # Failure -> cohort + lookback definitions, harmonized across all phases.
 ALL_FAILURES = [
@@ -219,11 +220,11 @@ def main() -> None:
     rows = [evaluate_failure(c, df) for c in ALL_FAILURES]
     results = pd.DataFrame(rows)
 
-    metrics_path = OUTPUTS_DIR / "phase2c_underdisclosure_metrics.csv"
+    metrics_path = PHASE_DIR / "metrics.csv"
     results.to_csv(metrics_path, index=False)
     print(f"Saved: {metrics_path}")
 
-    scoreboard_path = OUTPUTS_DIR / "phase2c_unified_scoreboard.png"
+    scoreboard_path = PHASE_DIR / "unified_scoreboard.png"
     plot_unified_scoreboard(results, scoreboard_path)
     print(f"Saved: {scoreboard_path}")
 

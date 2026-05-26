@@ -8,7 +8,7 @@
 
 ## Headline result
 
-![Per-pair: size, sentiment, red flags](phase1a_per_pair.png)
+![Per-pair: size, sentiment, red flags](per_pair.png)
 
 | Pair | Failure Δ Negative% (pp) | Survivor Δ Negative% (pp) | Spread (F−S) | Size growth (F) |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ Three Phase 1B candidates, in order of expected impact:
 - `data/reference/LoughranMcDonald_MasterDictionary.csv` — frozen LM dictionary (3,876 sentiment-tagged words, 1993-2024 edition)
 - `skills/sentiment_scorer.py` — new skill, run with `--ticker {T} --section {risk_factors|mdna|combined}`
 - `data/processed/{T}_sentiment_risk_factors.json` — per-year LM scores for all 10 tickers
-- `outputs/phase1a_sentiment_trajectories.png` — single-panel headline chart, x = years-before-event
-- `outputs/phase1a_per_pair.png` — 5 pairs × 3 panels (size, sentiment, red flags)
-- `outputs/phase1a_metrics.csv` — long-form metrics table
-- `outputs/phase1a_yoy_summary.csv` — per-pair sentiment + volume deltas
+- `outputs/phase1a_sentiment/sentiment_trajectories.png` — single-panel headline chart, x = years-before-event
+- `outputs/per_pair.png` — 5 pairs × 3 panels (size, sentiment, red flags)
+- `outputs/phase1a_sentiment/metrics.csv` — long-form metrics table
+- `outputs/phase1a_sentiment/yoy_summary.csv` — per-pair sentiment + volume deltas

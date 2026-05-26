@@ -17,7 +17,7 @@ This catches the "never even tried to update" pattern. Distinct from the declini
 
 ## Headline result — failure detection
 
-![Extended three-signal scoreboard](phase4_extended_scoreboard.png)
+![Extended three-signal scoreboard](extended_scoreboard.png)
 
 | Signal | Fires (failures) | Cumulative detection |
 |---|---|---|
@@ -142,6 +142,6 @@ Three plausible next steps:
 ## Files produced
 
 - `analysis/phase4_chronic.py` — three-signal detector + FP validation framework
-- `outputs/phase4_failure_detection.csv` — per-failure signal output
-- `outputs/phase4_survivor_fp_analysis.csv` — 78 subject-cohort pair evaluations
-- `outputs/phase4_extended_scoreboard.png` — 24 × 3 scoreboard with all three signals
+- `outputs/phase4_chronic_and_fp/failure_detection.csv` — per-failure signal output
+- `outputs/phase4_chronic_and_fp/survivor_fp_analysis.csv` — 78 subject-cohort pair evaluations
+- `outputs/extended_scoreboard.png` — 24 × 3 scoreboard with all three signals

@@ -18,7 +18,7 @@ Disclosure: PTON's cohort is intrinsically weak — there is no public US peer w
 
 ## Headline result — the new scoreboard
 
-![Percentile-rank scoreboard at t=0](phase1c_scoreboard.png)
+![Percentile-rank scoreboard at t=0](scoreboard.png)
 
 Color scale: 1.00 = the failure is the most extreme in its cohort for that signal; 0.25 = the least extreme.
 
@@ -32,7 +32,7 @@ Color scale: 1.00 = the failure is the most extreme in its cohort for that signa
 
 And the trajectory chart, showing how each failure's percentile rank moved over the lookback:
 
-![Per-cohort percentile-rank trajectories](phase1c_percentile_trajectories.png)
+![Per-cohort percentile-rank trajectories](percentile_trajectories.png)
 
 ## How the story changed vs Phase 1B
 
@@ -116,9 +116,9 @@ Now that the methodology is locked in:
 ## Files produced
 
 - `analysis/phase1c_percentile.py` — refactored analysis with cohorts + percentile scoring
-- `outputs/phase1c_metrics.csv` — long-form table (cohort × year × metric value + percentile)
-- `outputs/phase1c_scorecard.csv` — one row per failure, summary
-- `outputs/phase1c_scoreboard.png` — color-coded heatmap of t=0 percentile ranks
-- `outputs/phase1c_percentile_trajectories.png` — 5 cohorts × 3 metrics trajectory grid
+- `outputs/phase1c_methodology_lockdown/metrics.csv` — long-form table (cohort × year × metric value + percentile)
+- `outputs/phase1c_methodology_lockdown/scorecard.csv` — one row per failure, summary
+- `outputs/scoreboard.png` — color-coded heatmap of t=0 percentile ranks
+- `outputs/percentile_trajectories.png` — 5 cohorts × 3 metrics trajectory grid
 - `data/raw/{survivor}_manifest.json` — manifests for 11 new survivor tickers (GD, NOC, KEY, FITB, HBAN, M, KSS, LULU, ROK, WAL, CUBI)
 - `data/processed/{survivor}_*.json` — parsed Risk Factors, sentiment, novelty for each new survivor

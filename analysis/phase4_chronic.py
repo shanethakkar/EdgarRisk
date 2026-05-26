@@ -28,7 +28,8 @@ import pandas as pd
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
-OUTPUTS_DIR = PROJECT_ROOT / "outputs"
+PHASE_DIR = PROJECT_ROOT / "outputs" / "phase4_chronic_and_fp"
+PHASE_DIR.mkdir(parents=True, exist_ok=True)
 
 # Import the failure list from Phase 3
 from phase3_scale import ALL_FAILURES
@@ -146,7 +147,7 @@ def main() -> None:
             r["class_hint"] = case["class_hint"]
             failure_results.append(r)
     f_df = pd.DataFrame(failure_results)
-    f_df.to_csv(OUTPUTS_DIR / "phase4_failure_detection.csv", index=False)
+    f_df.to_csv(PHASE_DIR / "failure_detection.csv", index=False)
 
     # Survivor-side evaluation (false-positive testing). For each cohort, evaluate every
     # survivor as the "subject" -- ask whether the signal would have fired on a healthy
@@ -158,7 +159,7 @@ def main() -> None:
             if r:
                 survivor_results.append(r)
     s_df = pd.DataFrame(survivor_results)
-    s_df.to_csv(OUTPUTS_DIR / "phase4_survivor_fp_analysis.csv", index=False)
+    s_df.to_csv(PHASE_DIR / "survivor_fp_analysis.csv", index=False)
 
     print("=== FAILURE DETECTION (n=%d) ===" % len(f_df))
     print(f"novelty_spike fires:    {int(f_df['novelty_spike'].sum())}/{len(f_df)}")
@@ -205,10 +206,10 @@ def main() -> None:
                     color="white" if v else "black",
                     fontsize=9, fontweight="bold")
     plt.tight_layout()
-    plt.savefig(OUTPUTS_DIR / "phase4_extended_scoreboard.png",
+    plt.savefig(PHASE_DIR / "extended_scoreboard.png",
                 dpi=140, bbox_inches="tight")
     plt.close(fig)
-    print(f"\nSaved: outputs/phase4_extended_scoreboard.png")
+    print(f"\nSaved: outputs/phase4_chronic_and_fp/extended_scoreboard.png")
 
 
 if __name__ == "__main__":

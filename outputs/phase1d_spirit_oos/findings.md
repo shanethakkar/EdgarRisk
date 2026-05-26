@@ -4,7 +4,7 @@
 
 **Cohort:** SAVE (failure), ULCC (Frontier — direct ULCC peer), ALK (Alaska — mid-cap survivor), LUV (Southwest — established LCC). Frontier IPO'd April 2021 so the cohort has gaps at FY2020.
 
-**Result:** ![Spirit scoreboard](phase1d_spirit_scoreboard.png)
+**Result:** ![Spirit scoreboard](scoreboard.png)
 
 | Signal | SAVE at t=0 | Interpretation |
 |---|---|---|
@@ -107,8 +107,8 @@ Originally Phase 2 was "curate ~30 slow-burn failures from SEC AAER + LoPucki." 
 ## Files produced
 
 - `analysis/phase1d_spirit.py` — applies locked Phase 1C methodology to SAVE cohort
-- `outputs/phase1d_spirit_metrics.csv` — full per-year metrics + percentile ranks
-- `outputs/phase1d_spirit_scoreboard.png` — single-row scoreboard at t=0
-- `outputs/phase1d_spirit_trajectories.png` — per-signal trajectory for SAVE
+- `outputs/phase1d_spirit_oos/metrics.csv` — full per-year metrics + percentile ranks
+- `outputs/scoreboard.png` — single-row scoreboard at t=0
+- `outputs/phase1d_spirit_oos/trajectories.png` — per-signal trajectory for SAVE
 - `data/raw/{SAVE,ULCC,ALK,LUV}_manifest.json` — manifests for 4 airline tickers
 - `data/processed/{SAVE,ULCC,ALK,LUV}_*.json` — parsed Risk Factors + sentiment + novelty

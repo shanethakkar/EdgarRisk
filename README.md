@@ -8,7 +8,7 @@ The full writeup is in [ARTICLE.md](ARTICLE.md). Phase-by-phase findings are in 
 
 ## Headline chart
 
-![Precision evolves with horizon](outputs/phase5_precision_curves.png)
+![Precision evolves with horizon](outputs/phase5_longitudinal/precision_curves.png)
 
 When the "false positives" from the in-sample test are tracked forward 2-3 years to May 2026, 6 of 22 (27%) underwent material distress events — take-privates under duress, activist takeover campaigns, or 50%+ stock crashes. Precision evolves from 46% (in-sample, Chapter 11 only) to 61% (extended horizon, including non-Ch.11 distress) to 69% (also counting stress-but-recovered).
 
@@ -116,11 +116,22 @@ EdgarRisk/
 │   ├── raw/                  # 10-K HTML (gitignored, regenerable)
 │   │   └── *_manifest.json   # Per-ticker filing manifests (tracked)
 │   └── processed/            # Parsed JSON + sentiment + novelty (tracked)
-└── outputs/
-    ├── phase[0-5]*_findings.md   # Phase-by-phase findings
-    ├── phase[0-5]*.png           # Charts
-    └── phase[0-5]*.csv           # Long-form data
+└── outputs/                  # One subdirectory per phase
+    ├── phase0_viability/          # Phase 0: 5-pair case-control viability check
+    ├── phase1a_sentiment/         # Phase 1A: Loughran-McDonald sentiment scoring
+    ├── phase1b_novelty/           # Phase 1B: TF-IDF YoY novelty + composite scoreboard
+    ├── phase1c_methodology_lockdown/  # Phase 1C: cohorts + percentile-rank scoring
+    ├── phase1d_spirit_oos/        # Phase 1D: Spirit Airlines out-of-sample test
+    ├── phase2a_retail/            # Phase 2A: 5 retail failures
+    ├── phase2b_industrial/        # Phase 2B: 3 industrial sectors (WE, YELL, TUP)
+    ├── phase2c_underdisclosure/   # Phase 2C: declining-under-disclosure signal
+    ├── phase3_scale/              # Phase 3: scale to 24 failures across 15 sectors
+    ├── phase4_chronic_and_fp/     # Phase 4: chronic-UD + false-positive validation
+    ├── phase5_longitudinal/       # Phase 5: longitudinal follow-up (hero finding)
+    └── legacy/                    # Original Boeing pilot memo
 ```
+
+Each phase subdirectory holds its `findings.md` plus charts (`.png`) and tables (`.csv`).
 
 ## Data sources and caveats
 

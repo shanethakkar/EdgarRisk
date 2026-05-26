@@ -6,7 +6,7 @@
 
 ## The 22 survivors, 2-3 years later
 
-![Precision evolves with horizon](phase5_precision_curves.png)
+![Precision evolves with horizon](precision_curves.png)
 
 | Class | Count | Examples |
 |---|---|---|
@@ -91,6 +91,6 @@ Three plausible next moves:
 ## Files produced
 
 - `analysis/phase5_longitudinal.py` — manual classification + precision recomputation
-- `outputs/phase5_longitudinal_classification.csv` — the 22 FPs categorized
-- `outputs/phase5_precision_curves.png` — precision-evolves chart (article hero)
-- `outputs/phase5_adjusted_metrics.csv` — summary numbers
+- `outputs/phase5_longitudinal/longitudinal/classification.csv` — the 22 FPs categorized
+- `outputs/precision_curves.png` — precision-evolves chart (article hero)
+- `outputs/phase5_longitudinal/adjusted_metrics.csv` — summary numbers

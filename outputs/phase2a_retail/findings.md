@@ -6,7 +6,7 @@
 
 ## Headline result
 
-![Retail failure scoreboard](phase2a_retail_scoreboard.png)
+![Retail failure scoreboard](scoreboard.png)
 
 | Failure | Vol pct @ t=0 | Neg pct @ t=0 | Novelty max | Detection |
 |---|---|---|---|---|
@@ -120,9 +120,9 @@ With a 4/4 hit rate on the detectable retail subset, the path forward is clear:
 ## Files produced
 
 - `analysis/phase2a_retail.py` — retail-cohort analysis with 5 failures
-- `outputs/phase2a_retail_metrics.csv` — long-form percentile-rank data
-- `outputs/phase2a_retail_summary.csv` — per-failure detection scorecard
-- `outputs/phase2a_retail_scoreboard.png` — 5 × 3 heatmap
-- `outputs/phase2a_retail_trajectories.png` — 5 × 3 trajectory grid
+- `outputs/phase2a_retail/metrics.csv` — long-form percentile-rank data
+- `outputs/phase2a_retail/summary.csv` — per-failure detection scorecard
+- `outputs/scoreboard.png` — 5 × 3 heatmap
+- `outputs/phase2a_retail/trajectories.png` — 5 × 3 trajectory grid
 - `data/raw/{JCP, SHLD, PIR, ASNA, JWN, WSM}_manifest.json` — new ticker manifests
 - `data/processed/{ticker}_{FY,sentiment,novelty,...}.json` — parsed + scored

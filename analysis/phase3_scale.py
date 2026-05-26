@@ -41,7 +41,8 @@ import pandas as pd
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
-OUTPUTS_DIR = PROJECT_ROOT / "outputs"
+PHASE_DIR = PROJECT_ROOT / "outputs" / "phase3_scale"
+PHASE_DIR.mkdir(parents=True, exist_ok=True)
 
 ALL_FAILURES = [
     # --- Phase 1C development set (5) ---
@@ -246,11 +247,11 @@ def main() -> None:
 
     rows = [evaluate_failure(c, df) for c in ALL_FAILURES]
     results = pd.DataFrame(rows)
-    metrics_path = OUTPUTS_DIR / "phase3_metrics.csv"
+    metrics_path = PHASE_DIR / "metrics.csv"
     results.to_csv(metrics_path, index=False)
     print(f"Saved: {metrics_path}")
 
-    scoreboard_path = OUTPUTS_DIR / "phase3_final_scoreboard.png"
+    scoreboard_path = PHASE_DIR / "final_scoreboard.png"
     plot_unified_24(results, scoreboard_path)
     print(f"Saved: {scoreboard_path}")
 
@@ -284,7 +285,7 @@ def main() -> None:
     print(sec.to_string(index=False))
 
     # Save summary
-    summary_path = OUTPUTS_DIR / "phase3_summary.csv"
+    summary_path = PHASE_DIR / "summary.csv"
     results.to_csv(summary_path, index=False)
     print(f"\nSaved: {summary_path}")
 

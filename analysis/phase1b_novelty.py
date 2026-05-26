@@ -24,8 +24,8 @@ import pandas as pd
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
-OUTPUTS_DIR = PROJECT_ROOT / "outputs"
-OUTPUTS_DIR.mkdir(parents=True, exist_ok=True)
+PHASE_DIR = PROJECT_ROOT / "outputs" / "phase1b_novelty"
+PHASE_DIR.mkdir(parents=True, exist_ok=True)
 
 PAIRS = [
     {"failure": "BA",   "survivor": "LMT",  "event": "Boeing 737 MAX (Oct 2018)",       "event_fy": 2018, "lookback": [2017, 2018]},
@@ -177,20 +177,20 @@ def plot_scoreboard(scorecard: pd.DataFrame, out_path: Path) -> None:
 
 def main() -> None:
     df = build_long_table()
-    metrics_path = OUTPUTS_DIR / "phase1b_metrics.csv"
+    metrics_path = PHASE_DIR / "metrics.csv"
     df.to_csv(metrics_path, index=False)
     print(f"Saved: {metrics_path}")
 
-    per_pair_path = OUTPUTS_DIR / "phase1b_per_pair.png"
+    per_pair_path = PHASE_DIR / "per_pair.png"
     per_pair_panels(df, per_pair_path)
     print(f"Saved: {per_pair_path}")
 
     scorecard = compute_scorecard(df)
-    scorecard_path = OUTPUTS_DIR / "phase1b_scorecard.csv"
+    scorecard_path = PHASE_DIR / "scorecard.csv"
     scorecard.to_csv(scorecard_path, index=False)
     print(f"Saved: {scorecard_path}")
 
-    scoreboard_path = OUTPUTS_DIR / "phase1b_scoreboard.png"
+    scoreboard_path = PHASE_DIR / "scoreboard.png"
     plot_scoreboard(scorecard, scoreboard_path)
     print(f"Saved: {scoreboard_path}")
 

@@ -6,7 +6,7 @@
 
 ## Headline result — the scoreboard
 
-![Signal scoreboard](phase1b_scoreboard.png)
+![Signal scoreboard](scoreboard.png)
 
 | Failure | Volume Δ | Sentiment Δ | Novelty spike | Signals fired |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ Estimated target: 30-50 clean failure cases. Sector- and size-matched controls (
 - `skills/novelty_scorer.py` — TF-IDF YoY cosine similarity per ticker
 - `analysis/phase1b_novelty.py` — combines all three signals, produces scorecard
 - `data/processed/{T}_novelty.json` — per-year novelty scores for all 10 tickers
-- `outputs/phase1b_per_pair.png` — 5 pairs × 3 signal panels
-- `outputs/phase1b_scoreboard.png` — the "which signals fired?" headline image
-- `outputs/phase1b_metrics.csv` — long-form table
-- `outputs/phase1b_scorecard.csv` — one row per failure with binary signal columns
+- `outputs/phase1b_novelty/per_pair.png` — 5 pairs × 3 signal panels
+- `outputs/scoreboard.png` — the "which signals fired?" headline image
+- `outputs/phase1b_novelty/metrics.csv` — long-form table
+- `outputs/phase1b_novelty/scorecard.csv` — one row per failure with binary signal columns

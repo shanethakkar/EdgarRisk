@@ -33,8 +33,8 @@ import pandas as pd
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
-OUTPUTS_DIR = PROJECT_ROOT / "outputs"
-OUTPUTS_DIR.mkdir(parents=True, exist_ok=True)
+PHASE_DIR = PROJECT_ROOT / "outputs" / "phase1c_methodology_lockdown"
+PHASE_DIR.mkdir(parents=True, exist_ok=True)
 
 COHORTS = [
     {
@@ -237,20 +237,20 @@ def main() -> None:
     df = pd.concat([load_company(t) for t in tickers], ignore_index=True)
 
     pct_df = build_percentile_long(df)
-    metrics_path = OUTPUTS_DIR / "phase1c_metrics.csv"
+    metrics_path = PHASE_DIR / "metrics.csv"
     pct_df.to_csv(metrics_path, index=False)
     print(f"Saved: {metrics_path}")
 
-    traj_path = OUTPUTS_DIR / "phase1c_percentile_trajectories.png"
+    traj_path = PHASE_DIR / "percentile_trajectories.png"
     per_pair_trajectories(pct_df, traj_path)
     print(f"Saved: {traj_path}")
 
-    scoreboard_path = OUTPUTS_DIR / "phase1c_scoreboard.png"
+    scoreboard_path = PHASE_DIR / "scoreboard.png"
     score_t0 = scoreboard_continuous(pct_df, scoreboard_path)
     print(f"Saved: {scoreboard_path}")
 
     summary = build_summary(pct_df, score_t0)
-    summary_path = OUTPUTS_DIR / "phase1c_scorecard.csv"
+    summary_path = PHASE_DIR / "scorecard.csv"
     summary.to_csv(summary_path, index=False)
     print(f"Saved: {summary_path}")
 

@@ -9,9 +9,9 @@ A text-based corporate distress detector built on SEC 10-K Risk Factor disclosur
 Start here:
 - [ARTICLE.md](ARTICLE.md) — full ~2,800 word writeup of methodology, findings, and limitations
 - [README.md](README.md) — practical project intro with reproduction instructions
-- [outputs/phase5_findings.md](outputs/phase5_findings.md) — the strongest single finding (longitudinal FP follow-up)
-- [outputs/phase4_findings.md](outputs/phase4_findings.md) — false-positive validation that forced honest reframing
-- [outputs/phase3_findings.md](outputs/phase3_findings.md) — scale-out to 24 failures
+- [outputs/phase5_longitudinal/findings.md](outputs/phase5_longitudinal/findings.md) — the strongest single finding (longitudinal FP follow-up)
+- [outputs/phase4_chronic_and_fp/findings.md](outputs/phase4_chronic_and_fp/findings.md) — false-positive validation that forced honest reframing
+- [outputs/phase3_scale/findings.md](outputs/phase3_scale/findings.md) — scale-out to 24 failures
 
 Per-phase findings docs are in `outputs/phase[0-5]*_findings.md`, ordered by commit history.
 

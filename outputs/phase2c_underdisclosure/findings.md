@@ -16,7 +16,7 @@ The novelty-spike signal also gets a refinement to remove false positives: it no
 
 ## Headline result
 
-![Unified two-signal scoreboard](phase2c_unified_scoreboard.png)
+![Unified two-signal scoreboard](unified_scoreboard.png)
 
 **Across all 13 failures tested, the unified (novelty-spike OR under-disclosure) detector catches every slow-burn failure with material textual signal:**
 
@@ -117,5 +117,5 @@ Three plausible next moves:
 ## Files produced
 
 - `analysis/phase2c_underdisclosure.py` — unified two-signal detector applied to all 13 failures
-- `outputs/phase2c_unified_scoreboard.png` — 13 × 2 scoreboard heatmap (the new hero chart)
-- `outputs/phase2c_underdisclosure_metrics.csv` — long-form data with both signals
+- `outputs/unified_scoreboard.png` — 13 × 2 scoreboard heatmap (the new hero chart)
+- `outputs/phase2c_underdisclosure/underdisclosure/metrics.csv` — long-form data with both signals
