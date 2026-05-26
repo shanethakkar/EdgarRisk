@@ -1,0 +1,4 @@
+metric,value,tp,fp
+In-sample precision (Ch.11 only),46%,19,22
+Extended-horizon precision (Ch.11 + distress),61%,25,16
+Including stress-recovered as TP-for-stress,69%,29,13

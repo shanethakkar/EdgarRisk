@@ -1,0 +1,24 @@
+ticker,company,status,event
+JWN,Nordstrom,subsequent_distress,Taken private May 2025 (Nordstrom family + El Puerto de Liverpool)
+WBA,Walgreens Boots Alliance,subsequent_distress,Take-private deal with Sycamore Partners announced 2025; multi-year operational decline
+CVS,CVS Health,subsequent_distress,"Major 2023-2025 operational issues, stock down ~50% from 2022 peak, CEO replaced"
+LCID,Lucid Motors,subsequent_distress,Stock crash >90% from peak; ongoing severe cash burn / going-concern adjacent
+KSS,Kohl's,subsequent_distress,"Multiple activist takeover bids, CEO turnover, stock crash, considered take-private"
+M,Macy's,subsequent_distress,"Arkhouse takeover bids 2024, activist pressure for real estate spinoff"
+WAL,Western Alliance,stress_recovered,"Caught in March 2023 banking crisis with SVB, survived"
+CLX,Clorox,stress_recovered,"Major cyberattack 2023, multi-quarter operational disruption, recovered"
+ALK,Alaska Airlines,stress_recovered,"Hawaiian Airlines merger integration challenges, door-plug incident, recovered"
+WSM,Williams-Sonoma,stress_recovered,"Post-COVID home goods slowdown, recovered into 2024-2025"
+BBY,Best Buy,healthy,Operating normally post-COVID retail normalization
+KEY,KeyCorp,healthy,Operating normally; weathered 2023 banking crisis
+ODFL,Old Dominion Freight Line,healthy,"Continued strong performance, sector leader"
+XPO,XPO Inc,healthy,"Spun off RXO/GXO, post-split entity operating well"
+ARCB,ArcBest,healthy,Operating normally
+CHD,Church & Dwight,healthy,"Operating normally, defensive consumer staples"
+COP,ConocoPhillips,healthy,"Operating normally, energy sector recovery"
+HES,Hess Corp,healthy,Acquired by Chevron in friendly deal (not distress); closed 2024
+BMY,Bristol-Myers Squibb,healthy,"Operating normally, large pharma"
+PFE,Pfizer,healthy,"Post-COVID revenue normalization, operating"
+GD,General Dynamics,healthy,"Operating normally, defense prime"
+NOC,Northrop Grumman,healthy,"Operating normally, defense prime"
+ALGN,Align Technology,healthy,Operating; competitor pressures from SmileDirectClub failure are net positive for ALGN
