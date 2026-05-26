@@ -1,0 +1,50 @@
+[
+  {
+    "ticker": "XPO",
+    "fiscal_year": "2025",
+    "filing_date": "2026-02-05",
+    "report_date": "2025-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\XPO_10K_2025.html",
+    "accession": "0001166003-26-000016"
+  },
+  {
+    "ticker": "XPO",
+    "fiscal_year": "2024",
+    "filing_date": "2025-02-07",
+    "report_date": "2024-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\XPO_10K_2024.html",
+    "accession": "0001166003-25-000017"
+  },
+  {
+    "ticker": "XPO",
+    "fiscal_year": "2023",
+    "filing_date": "2024-02-08",
+    "report_date": "2023-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\XPO_10K_2023.html",
+    "accession": "0001166003-24-000022"
+  },
+  {
+    "ticker": "XPO",
+    "fiscal_year": "2022",
+    "filing_date": "2023-02-13",
+    "report_date": "2022-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\XPO_10K_2022.html",
+    "accession": "0001166003-23-000017"
+  },
+  {
+    "ticker": "XPO",
+    "fiscal_year": "2021",
+    "filing_date": "2022-02-16",
+    "report_date": "2021-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\XPO_10K_2021.html",
+    "accession": "0001166003-22-000024"
+  },
+  {
+    "ticker": "XPO",
+    "fiscal_year": "2020",
+    "filing_date": "2021-02-12",
+    "report_date": "2020-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\XPO_10K_2020.html",
+    "accession": "0001166003-21-000023"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "ticker": "ODFL",
+    "fiscal_year": "2025",
+    "filing_date": "2026-02-24",
+    "report_date": "2025-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ODFL_10K_2025.html",
+    "accession": "0001193125-26-067161"
+  },
+  {
+    "ticker": "ODFL",
+    "fiscal_year": "2024",
+    "filing_date": "2025-02-25",
+    "report_date": "2024-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ODFL_10K_2024.html",
+    "accession": "0000950170-25-026661"
+  },
+  {
+    "ticker": "ODFL",
+    "fiscal_year": "2023",
+    "filing_date": "2024-02-26",
+    "report_date": "2023-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ODFL_10K_2023.html",
+    "accession": "0000950170-24-020176"
+  },
+  {
+    "ticker": "ODFL",
+    "fiscal_year": "2022",
+    "filing_date": "2023-02-22",
+    "report_date": "2022-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ODFL_10K_2022.html",
+    "accession": "0000950170-23-003783"
+  },
+  {
+    "ticker": "ODFL",
+    "fiscal_year": "2021",
+    "filing_date": "2022-02-23",
+    "report_date": "2021-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ODFL_10K_2021.html",
+    "accession": "0001564590-22-006303"
+  },
+  {
+    "ticker": "ODFL",
+    "fiscal_year": "2020",
+    "filing_date": "2021-02-24",
+    "report_date": "2020-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ODFL_10K_2020.html",
+    "accession": "0001564590-21-008056"
+  }
+]

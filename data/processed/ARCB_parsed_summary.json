@@ -1,0 +1,44 @@
+[
+  {
+    "fiscal_year": "2025",
+    "risk_factors_count": 84,
+    "risk_factors_chars": 147812,
+    "mdna_chars": 114062,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\ARCB_FY2025_parsed.json"
+  },
+  {
+    "fiscal_year": "2024",
+    "risk_factors_count": 78,
+    "risk_factors_chars": 155372,
+    "mdna_chars": 126706,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\ARCB_FY2024_parsed.json"
+  },
+  {
+    "fiscal_year": "2023",
+    "risk_factors_count": 84,
+    "risk_factors_chars": 169360,
+    "mdna_chars": 133221,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\ARCB_FY2023_parsed.json"
+  },
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 83,
+    "risk_factors_chars": 168892,
+    "mdna_chars": 123999,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\ARCB_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 76,
+    "risk_factors_chars": 161452,
+    "mdna_chars": 128429,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\ARCB_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 70,
+    "risk_factors_chars": 147478,
+    "mdna_chars": 140414,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\ARCB_FY2020_parsed.json"
+  }
+]

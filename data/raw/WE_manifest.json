@@ -1,0 +1,26 @@
+[
+  {
+    "ticker": "WE",
+    "fiscal_year": "2022",
+    "filing_date": "2023-03-29",
+    "report_date": "2022-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\WE_10K_2022.html",
+    "accession": "0001813756-23-000016"
+  },
+  {
+    "ticker": "WE",
+    "fiscal_year": "2021",
+    "filing_date": "2022-03-17",
+    "report_date": "2021-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\WE_10K_2021.html",
+    "accession": "0001813756-22-000003"
+  },
+  {
+    "ticker": "WE",
+    "fiscal_year": "2020",
+    "filing_date": "2021-03-24",
+    "report_date": "2020-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\WE_10K_2020.html",
+    "accession": "0001193125-21-092791"
+  }
+]

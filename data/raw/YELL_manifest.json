@@ -1,0 +1,50 @@
+[
+  {
+    "ticker": "YELL",
+    "fiscal_year": "2022",
+    "filing_date": "2023-02-09",
+    "report_date": "2022-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\YELL_10K_2022.html",
+    "accession": "0000950170-23-002332"
+  },
+  {
+    "ticker": "YELL",
+    "fiscal_year": "2021",
+    "filing_date": "2022-02-04",
+    "report_date": "2021-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\YELL_10K_2021.html",
+    "accession": "0000950170-22-000779"
+  },
+  {
+    "ticker": "YELL",
+    "fiscal_year": "2020",
+    "filing_date": "2021-02-11",
+    "report_date": "2020-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\YELL_10K_2020.html",
+    "accession": "0001564590-21-005530"
+  },
+  {
+    "ticker": "YELL",
+    "fiscal_year": "2019",
+    "filing_date": "2020-03-11",
+    "report_date": "2019-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\YELL_10K_2019.html",
+    "accession": "0001564590-20-010103"
+  },
+  {
+    "ticker": "YELL",
+    "fiscal_year": "2018",
+    "filing_date": "2019-02-19",
+    "report_date": "2018-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\YELL_10K_2018.html",
+    "accession": "0000716006-19-000004"
+  },
+  {
+    "ticker": "YELL",
+    "fiscal_year": "2017",
+    "filing_date": "2018-02-15",
+    "report_date": "2017-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\YELL_10K_2017.html",
+    "accession": "0000716006-18-000004"
+  }
+]

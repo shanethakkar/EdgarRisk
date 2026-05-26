@@ -1,0 +1,50 @@
+[
+  {
+    "ticker": "TUP",
+    "fiscal_year": "2022",
+    "filing_date": "2023-10-13",
+    "report_date": "2022-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\TUP_10K_2022.html",
+    "accession": "0001008654-23-000079"
+  },
+  {
+    "ticker": "TUP",
+    "fiscal_year": "2021",
+    "filing_date": "2022-02-23",
+    "report_date": "2021-12-25",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\TUP_10K_2021.html",
+    "accession": "0001008654-22-000008"
+  },
+  {
+    "ticker": "TUP",
+    "fiscal_year": "2020",
+    "filing_date": "2021-03-10",
+    "report_date": "2020-12-26",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\TUP_10K_2020.html",
+    "accession": "0001008654-21-000022"
+  },
+  {
+    "ticker": "TUP",
+    "fiscal_year": "2019",
+    "filing_date": "2020-03-12",
+    "report_date": "2019-12-28",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\TUP_10K_2019.html",
+    "accession": "0001008654-20-000018"
+  },
+  {
+    "ticker": "TUP",
+    "fiscal_year": "2018",
+    "filing_date": "2019-02-26",
+    "report_date": "2018-12-29",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\TUP_10K_2018.html",
+    "accession": "0001008654-19-000013"
+  },
+  {
+    "ticker": "TUP",
+    "fiscal_year": "2017",
+    "filing_date": "2018-02-27",
+    "report_date": "2017-12-30",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\TUP_10K_2017.html",
+    "accession": "0001008654-18-000006"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "fiscal_year": "2025",
+    "risk_factors_count": 29,
+    "risk_factors_chars": 151771,
+    "mdna_chars": 21737,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\NMRK_FY2025_parsed.json"
+  },
+  {
+    "fiscal_year": "2024",
+    "risk_factors_count": 30,
+    "risk_factors_chars": 142887,
+    "mdna_chars": 21717,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\NMRK_FY2024_parsed.json"
+  },
+  {
+    "fiscal_year": "2023",
+    "risk_factors_count": 30,
+    "risk_factors_chars": 138353,
+    "mdna_chars": 192038,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\NMRK_FY2023_parsed.json"
+  },
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 28,
+    "risk_factors_chars": 138412,
+    "mdna_chars": 22891,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\NMRK_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 29,
+    "risk_factors_chars": 135545,
+    "mdna_chars": 20167,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\NMRK_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 31,
+    "risk_factors_chars": 164102,
+    "mdna_chars": 20845,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\NMRK_FY2020_parsed.json"
+  }
+]

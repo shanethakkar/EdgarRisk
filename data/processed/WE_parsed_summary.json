@@ -1,0 +1,23 @@
+[
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 83,
+    "risk_factors_chars": 177348,
+    "mdna_chars": 178224,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\WE_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 81,
+    "risk_factors_chars": 170388,
+    "mdna_chars": 189320,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\WE_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 120,
+    "risk_factors_chars": 159208,
+    "mdna_chars": 23090,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\WE_FY2020_parsed.json"
+  }
+]

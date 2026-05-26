@@ -1,0 +1,44 @@
+[
+  {
+    "fiscal_year": "2025",
+    "risk_factors_count": 8,
+    "risk_factors_chars": 59415,
+    "mdna_chars": 42471,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\XPO_FY2025_parsed.json"
+  },
+  {
+    "fiscal_year": "2024",
+    "risk_factors_count": 9,
+    "risk_factors_chars": 61119,
+    "mdna_chars": 46562,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\XPO_FY2024_parsed.json"
+  },
+  {
+    "fiscal_year": "2023",
+    "risk_factors_count": 10,
+    "risk_factors_chars": 66493,
+    "mdna_chars": 60945,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\XPO_FY2023_parsed.json"
+  },
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 10,
+    "risk_factors_chars": 67709,
+    "mdna_chars": 56325,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\XPO_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 25,
+    "risk_factors_chars": 72281,
+    "mdna_chars": 60109,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\XPO_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 27,
+    "risk_factors_chars": 69821,
+    "mdna_chars": 50721,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\XPO_FY2020_parsed.json"
+  }
+]

@@ -1,0 +1,12 @@
+failure,label,sector,fiscal_year,years_to_event,cohort_size,risk_chars_value,risk_chars_pct,neg_ratio_value,neg_ratio_pct,novelty_value,novelty_pct
+WE,WeWork Ch.11 (Nov 2023),Commercial real estate / coworking,2020,-2,4,159208,0.75,0.025277286609869797,0.25,,
+WE,WeWork Ch.11 (Nov 2023),Commercial real estate / coworking,2021,-1,4,170388,1.0,0.03269482267866759,0.75,0.7147,1.0
+WE,WeWork Ch.11 (Nov 2023),Commercial real estate / coworking,2022,0,4,177348,1.0,0.03176470588235294,0.75,0.0187,0.25
+YELL,Yellow Corp Ch.11 (Aug 2023),LTL trucking,2019,-3,1,50181,1.0,0.04021376085504342,1.0,0.08,1.0
+YELL,Yellow Corp Ch.11 (Aug 2023),LTL trucking,2020,-2,4,53638,0.5,0.04194840971700476,0.75,0.1046,1.0
+YELL,Yellow Corp Ch.11 (Aug 2023),LTL trucking,2021,-1,4,80012,0.75,0.02800033735346209,0.25,0.1799,1.0
+YELL,Yellow Corp Ch.11 (Aug 2023),LTL trucking,2022,0,4,73935,0.5,0.02749862963639686,0.25,0.0502,0.5
+TUP,Tupperware Ch.11 (Sept 2024),Household consumer products,2019,-3,1,30868,1.0,0.034762209426316915,1.0,0.1834,1.0
+TUP,Tupperware Ch.11 (Sept 2024),Household consumer products,2020,-2,4,38929,0.25,0.04262633207287728,0.75,0.1506,1.0
+TUP,Tupperware Ch.11 (Sept 2024),Household consumer products,2021,-1,4,53189,0.25,0.049850820487319744,1.0,0.0979,1.0
+TUP,Tupperware Ch.11 (Sept 2024),Household consumer products,2022,0,4,119567,0.5,0.03839315479497722,0.75,0.2036,1.0

@@ -1,0 +1,4 @@
+failure,sector,vol_t0_pct,neg_t0_pct,novelty_max_pct,vol_signal,neg_signal,nov_signal,signals_fired
+WE,Commercial real estate / coworking,1.0,0.75,1.0,True,True,True,3
+YELL,LTL trucking,0.5,0.25,1.0,False,False,True,1
+TUP,Household consumer products,0.5,0.75,1.0,False,True,True,2
