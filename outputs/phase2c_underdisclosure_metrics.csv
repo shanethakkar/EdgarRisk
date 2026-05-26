@@ -1,0 +1,14 @@
+failure,sector,class_hint,novelty_max_rank,first_rank,t0_rank,cohort_max_raw_in_window,novelty_spike_signal,under_disclosure_signal,detected
+BA,Aerospace/Defense,industry shock,0.67,0.33,0.25,0.175,False,False,False
+SIVB,Mid-cap commercial bank,sudden shock,0.75,0.75,0.75,0.061,False,False,False
+PTON,D2C consumer subscription,chronic anomaly,0.33,0.33,0.33,0.084,False,False,False
+SI,Small-cap regional bank,sudden shock,0.75,0.75,0.5,0.464,False,False,False
+SAVE,ULCC airline,under-disclosure,0.67,0.67,0.25,0.136,False,True,True
+SHLD,Dept store retail,expanding disclosure,1.0,0.5,1.0,0.214,True,False,True
+JCP,Dept store retail,under-disclosure,0.67,0.67,0.33,0.474,False,True,True
+PIR,Home goods specialty retail,expanding disclosure,0.83,0.83,0.67,0.474,True,False,True
+ASNA,Specialty retail,expanding disclosure,1.0,0.67,0.83,0.474,True,False,True
+BBBY,Specialty retail,expanding disclosure,1.0,0.5,0.67,0.506,True,False,True
+WE,Commercial real estate / coworking,expanding disclosure,1.0,1.0,0.25,0.715,True,True,True
+YELL,LTL trucking,expanding disclosure,1.0,1.0,0.5,0.18,True,False,True
+TUP,Household consumer products,expanding disclosure,1.0,1.0,1.0,0.204,True,False,True
