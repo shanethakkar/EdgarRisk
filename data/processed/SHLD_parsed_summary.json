@@ -1,0 +1,72 @@
+[
+  {
+    "fiscal_year": "2018",
+    "risk_factors_count": 6,
+    "risk_factors_chars": 58447,
+    "mdna_chars": 113623,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SHLD_FY2018_parsed.json"
+  },
+  {
+    "fiscal_year": "2017",
+    "risk_factors_count": 6,
+    "risk_factors_chars": 53915,
+    "mdna_chars": 110413,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SHLD_FY2017_parsed.json"
+  },
+  {
+    "fiscal_year": "2016",
+    "risk_factors_count": 5,
+    "risk_factors_chars": 39867,
+    "mdna_chars": 106431,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SHLD_FY2016_parsed.json"
+  },
+  {
+    "fiscal_year": "2015",
+    "risk_factors_count": 5,
+    "risk_factors_chars": 33203,
+    "mdna_chars": 149974,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SHLD_FY2015_parsed.json"
+  },
+  {
+    "fiscal_year": "2014",
+    "risk_factors_count": 5,
+    "risk_factors_chars": 30559,
+    "mdna_chars": 144234,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SHLD_FY2014_parsed.json"
+  },
+  {
+    "fiscal_year": "2013",
+    "risk_factors_count": 3,
+    "risk_factors_chars": 25807,
+    "mdna_chars": 124526,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SHLD_FY2013_parsed.json"
+  },
+  {
+    "fiscal_year": "2012",
+    "risk_factors_count": 11,
+    "risk_factors_chars": 22557,
+    "mdna_chars": 124631,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SHLD_FY2012_parsed.json"
+  },
+  {
+    "fiscal_year": "2011",
+    "risk_factors_count": 10,
+    "risk_factors_chars": 17740,
+    "mdna_chars": 109465,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SHLD_FY2011_parsed.json"
+  },
+  {
+    "fiscal_year": "2010",
+    "risk_factors_count": 10,
+    "risk_factors_chars": 17601,
+    "mdna_chars": 112579,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SHLD_FY2010_parsed.json"
+  },
+  {
+    "fiscal_year": "2009",
+    "risk_factors_count": 13,
+    "risk_factors_chars": 16417,
+    "mdna_chars": 108964,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SHLD_FY2009_parsed.json"
+  }
+]

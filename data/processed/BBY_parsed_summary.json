@@ -54,5 +54,40 @@
     "risk_factors_chars": 45739,
     "mdna_chars": 85341,
     "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BBY_FY2019_parsed.json"
+  },
+  {
+    "fiscal_year": "2018",
+    "risk_factors_count": 23,
+    "risk_factors_chars": 45721,
+    "mdna_chars": 96110,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BBY_FY2018_parsed.json"
+  },
+  {
+    "fiscal_year": "2017",
+    "risk_factors_count": 23,
+    "risk_factors_chars": 42130,
+    "mdna_chars": 95691,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BBY_FY2017_parsed.json"
+  },
+  {
+    "fiscal_year": "2016",
+    "risk_factors_count": 20,
+    "risk_factors_chars": 40519,
+    "mdna_chars": 100665,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BBY_FY2016_parsed.json"
+  },
+  {
+    "fiscal_year": "2015",
+    "risk_factors_count": 9,
+    "risk_factors_chars": 37213,
+    "mdna_chars": 117554,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BBY_FY2015_parsed.json"
+  },
+  {
+    "fiscal_year": "2014",
+    "risk_factors_count": 8,
+    "risk_factors_chars": 35320,
+    "mdna_chars": 121270,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\BBY_FY2014_parsed.json"
   }
 ]

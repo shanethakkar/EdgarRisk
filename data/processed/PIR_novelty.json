@@ -1,0 +1,62 @@
+{
+  "2010": {
+    "novelty": null,
+    "prior_fy": null,
+    "cosine_sim": null,
+    "token_vocab_size": 8181
+  },
+  "2011": {
+    "novelty": 0.0197,
+    "prior_fy": "2010",
+    "cosine_sim": 0.9803,
+    "token_vocab_size": 8181
+  },
+  "2012": {
+    "novelty": 0.0344,
+    "prior_fy": "2011",
+    "cosine_sim": 0.9656,
+    "token_vocab_size": 8181
+  },
+  "2013": {
+    "novelty": 0.0163,
+    "prior_fy": "2012",
+    "cosine_sim": 0.9837,
+    "token_vocab_size": 8181
+  },
+  "2014": {
+    "novelty": 0.0397,
+    "prior_fy": "2013",
+    "cosine_sim": 0.9603,
+    "token_vocab_size": 8181
+  },
+  "2015": {
+    "novelty": 0.0213,
+    "prior_fy": "2014",
+    "cosine_sim": 0.9787,
+    "token_vocab_size": 8181
+  },
+  "2016": {
+    "novelty": 0.1282,
+    "prior_fy": "2015",
+    "cosine_sim": 0.8718,
+    "token_vocab_size": 8181
+  },
+  "2017": {
+    "novelty": 0.0501,
+    "prior_fy": "2016",
+    "cosine_sim": 0.9499,
+    "token_vocab_size": 8181
+  },
+  "2018": {
+    "novelty": 0.0616,
+    "prior_fy": "2017",
+    "cosine_sim": 0.9384,
+    "token_vocab_size": 8181
+  },
+  "2019": {
+    "novelty": 0.0559,
+    "prior_fy": "2018",
+    "cosine_sim": 0.9441,
+    "token_vocab_size": 8181
+  }
+}

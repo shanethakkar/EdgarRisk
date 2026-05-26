@@ -62,5 +62,45 @@
     "report_date": "2019-02-02",
     "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\BBY_10K_2019.html",
     "accession": "0000764478-19-000009"
+  },
+  {
+    "ticker": "BBY",
+    "fiscal_year": "2018",
+    "filing_date": "2018-04-02",
+    "report_date": "2018-02-03",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\BBY_10K_2018.html",
+    "accession": "0000764478-18-000013"
+  },
+  {
+    "ticker": "BBY",
+    "fiscal_year": "2017",
+    "filing_date": "2017-03-24",
+    "report_date": "2017-01-28",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\BBY_10K_2017.html",
+    "accession": "0000764478-17-000008"
+  },
+  {
+    "ticker": "BBY",
+    "fiscal_year": "2016",
+    "filing_date": "2016-03-23",
+    "report_date": "2016-01-30",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\BBY_10K_2016.html",
+    "accession": "0000764478-16-000064"
+  },
+  {
+    "ticker": "BBY",
+    "fiscal_year": "2015",
+    "filing_date": "2015-03-31",
+    "report_date": "2015-01-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\BBY_10K_2015.html",
+    "accession": "0000764478-15-000014"
+  },
+  {
+    "ticker": "BBY",
+    "fiscal_year": "2014",
+    "filing_date": "2014-03-28",
+    "report_date": "2014-02-01",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\BBY_10K_2014.html",
+    "accession": "0000764478-14-000011"
   }
 ]

@@ -1,0 +1,82 @@
+[
+  {
+    "ticker": "PIR",
+    "fiscal_year": "2019",
+    "filing_date": "2019-04-29",
+    "report_date": "2019-03-02",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\PIR_10K_2019.html",
+    "accession": "0001564590-19-013797"
+  },
+  {
+    "ticker": "PIR",
+    "fiscal_year": "2018",
+    "filing_date": "2018-05-02",
+    "report_date": "2018-03-03",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\PIR_10K_2018.html",
+    "accession": "0001564590-18-010076"
+  },
+  {
+    "ticker": "PIR",
+    "fiscal_year": "2017",
+    "filing_date": "2017-04-25",
+    "report_date": "2017-02-25",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\PIR_10K_2017.html",
+    "accession": "0001193125-17-136345"
+  },
+  {
+    "ticker": "PIR",
+    "fiscal_year": "2016",
+    "filing_date": "2016-04-26",
+    "report_date": "2016-02-27",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\PIR_10K_2016.html",
+    "accession": "0001193125-16-556025"
+  },
+  {
+    "ticker": "PIR",
+    "fiscal_year": "2015",
+    "filing_date": "2015-04-28",
+    "report_date": "2015-02-28",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\PIR_10K_2015.html",
+    "accession": "0001193125-15-153179"
+  },
+  {
+    "ticker": "PIR",
+    "fiscal_year": "2014",
+    "filing_date": "2014-04-29",
+    "report_date": "2014-03-01",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\PIR_10K_2014.html",
+    "accession": "0001193125-14-165673"
+  },
+  {
+    "ticker": "PIR",
+    "fiscal_year": "2013",
+    "filing_date": "2013-04-30",
+    "report_date": "2013-03-02",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\PIR_10K_2013.html",
+    "accession": "0001193125-13-185222"
+  },
+  {
+    "ticker": "PIR",
+    "fiscal_year": "2012",
+    "filing_date": "2012-04-25",
+    "report_date": "2012-02-25",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\PIR_10K_2012.html",
+    "accession": "0001193125-12-181290"
+  },
+  {
+    "ticker": "PIR",
+    "fiscal_year": "2011",
+    "filing_date": "2011-04-25",
+    "report_date": "2011-02-26",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\PIR_10K_2011.html",
+    "accession": "0001193125-11-107304"
+  },
+  {
+    "ticker": "PIR",
+    "fiscal_year": "2010",
+    "filing_date": "2010-04-28",
+    "report_date": "2010-02-27",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\PIR_10K_2010.html",
+    "accession": "0001193125-10-096496"
+  }
+]

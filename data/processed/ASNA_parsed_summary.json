@@ -1,0 +1,72 @@
+[
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 29,
+    "risk_factors_chars": 107529,
+    "mdna_chars": 72485,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\ASNA_FY2020_parsed.json"
+  },
+  {
+    "fiscal_year": "2019",
+    "risk_factors_count": 49,
+    "risk_factors_chars": 122901,
+    "mdna_chars": 101326,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\ASNA_FY2019_parsed.json"
+  },
+  {
+    "fiscal_year": "2018",
+    "risk_factors_count": 41,
+    "risk_factors_chars": 101366,
+    "mdna_chars": 95919,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\ASNA_FY2018_parsed.json"
+  },
+  {
+    "fiscal_year": "2017",
+    "risk_factors_count": 43,
+    "risk_factors_chars": 92141,
+    "mdna_chars": 98139,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\ASNA_FY2017_parsed.json"
+  },
+  {
+    "fiscal_year": "2016",
+    "risk_factors_count": 41,
+    "risk_factors_chars": 92395,
+    "mdna_chars": 101631,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\ASNA_FY2016_parsed.json"
+  },
+  {
+    "fiscal_year": "2015",
+    "risk_factors_count": 37,
+    "risk_factors_chars": 76526,
+    "mdna_chars": 103103,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\ASNA_FY2015_parsed.json"
+  },
+  {
+    "fiscal_year": "2014",
+    "risk_factors_count": 42,
+    "risk_factors_chars": 73818,
+    "mdna_chars": 126004,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\ASNA_FY2014_parsed.json"
+  },
+  {
+    "fiscal_year": "2013",
+    "risk_factors_count": 35,
+    "risk_factors_chars": 69113,
+    "mdna_chars": 123434,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\ASNA_FY2013_parsed.json"
+  },
+  {
+    "fiscal_year": "2012",
+    "risk_factors_count": 35,
+    "risk_factors_chars": 62693,
+    "mdna_chars": 115664,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\ASNA_FY2012_parsed.json"
+  },
+  {
+    "fiscal_year": "2011",
+    "risk_factors_count": 29,
+    "risk_factors_chars": 51260,
+    "mdna_chars": 92314,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\ASNA_FY2011_parsed.json"
+  }
+]

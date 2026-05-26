@@ -1,0 +1,82 @@
+[
+  {
+    "ticker": "ASNA",
+    "fiscal_year": "2020",
+    "filing_date": "2020-12-11",
+    "report_date": "2020-08-01",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ASNA_10K_2020.html",
+    "accession": "0001498301-20-000105"
+  },
+  {
+    "ticker": "ASNA",
+    "fiscal_year": "2019",
+    "filing_date": "2019-10-10",
+    "report_date": "2019-08-03",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ASNA_10K_2019.html",
+    "accession": "0001498301-19-000092"
+  },
+  {
+    "ticker": "ASNA",
+    "fiscal_year": "2018",
+    "filing_date": "2018-09-24",
+    "report_date": "2018-08-04",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ASNA_10K_2018.html",
+    "accession": "0001498301-18-000059"
+  },
+  {
+    "ticker": "ASNA",
+    "fiscal_year": "2017",
+    "filing_date": "2017-09-25",
+    "report_date": "2017-07-29",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ASNA_10K_2017.html",
+    "accession": "0001498301-17-000079"
+  },
+  {
+    "ticker": "ASNA",
+    "fiscal_year": "2016",
+    "filing_date": "2016-09-19",
+    "report_date": "2016-07-30",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ASNA_10K_2016.html",
+    "accession": "0001498301-16-000157"
+  },
+  {
+    "ticker": "ASNA",
+    "fiscal_year": "2015",
+    "filing_date": "2015-09-16",
+    "report_date": "2015-07-25",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ASNA_10K_2015.html",
+    "accession": "0001498301-15-000041"
+  },
+  {
+    "ticker": "ASNA",
+    "fiscal_year": "2014",
+    "filing_date": "2014-09-23",
+    "report_date": "2014-07-26",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ASNA_10K_2014.html",
+    "accession": "0001498301-14-000039"
+  },
+  {
+    "ticker": "ASNA",
+    "fiscal_year": "2013",
+    "filing_date": "2013-09-24",
+    "report_date": "2013-07-27",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ASNA_10K_2013.html",
+    "accession": "0001144204-13-052188"
+  },
+  {
+    "ticker": "ASNA",
+    "fiscal_year": "2012",
+    "filing_date": "2012-09-26",
+    "report_date": "2012-07-28",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ASNA_10K_2012.html",
+    "accession": "0001144204-12-053044"
+  },
+  {
+    "ticker": "ASNA",
+    "fiscal_year": "2011",
+    "filing_date": "2011-09-28",
+    "report_date": "2011-07-30",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ASNA_10K_2011.html",
+    "accession": "0001144204-11-055335"
+  }
+]

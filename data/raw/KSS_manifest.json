@@ -62,5 +62,45 @@
     "report_date": "2019-02-02",
     "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\KSS_10K_2019.html",
     "accession": "0001564590-19-009005"
+  },
+  {
+    "ticker": "KSS",
+    "fiscal_year": "2018",
+    "filing_date": "2018-03-23",
+    "report_date": "2018-02-03",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\KSS_10K_2018.html",
+    "accession": "0001564590-18-006671"
+  },
+  {
+    "ticker": "KSS",
+    "fiscal_year": "2017",
+    "filing_date": "2017-03-17",
+    "report_date": "2017-01-28",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\KSS_10K_2017.html",
+    "accession": "0000885639-17-000007"
+  },
+  {
+    "ticker": "KSS",
+    "fiscal_year": "2016",
+    "filing_date": "2016-03-18",
+    "report_date": "2016-01-30",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\KSS_10K_2016.html",
+    "accession": "0000885639-16-000033"
+  },
+  {
+    "ticker": "KSS",
+    "fiscal_year": "2015",
+    "filing_date": "2015-03-20",
+    "report_date": "2015-01-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\KSS_10K_2015.html",
+    "accession": "0000885639-15-000007"
+  },
+  {
+    "ticker": "KSS",
+    "fiscal_year": "2014",
+    "filing_date": "2014-03-21",
+    "report_date": "2014-02-01",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\KSS_10K_2014.html",
+    "accession": "0000885639-14-000007"
   }
 ]

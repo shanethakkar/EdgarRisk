@@ -1,0 +1,72 @@
+[
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 20,
+    "risk_factors_chars": 64435,
+    "mdna_chars": 68448,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\JCP_FY2020_parsed.json"
+  },
+  {
+    "fiscal_year": "2019",
+    "risk_factors_count": 19,
+    "risk_factors_chars": 57943,
+    "mdna_chars": 84228,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\JCP_FY2019_parsed.json"
+  },
+  {
+    "fiscal_year": "2018",
+    "risk_factors_count": 20,
+    "risk_factors_chars": 57070,
+    "mdna_chars": 89786,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\JCP_FY2018_parsed.json"
+  },
+  {
+    "fiscal_year": "2017",
+    "risk_factors_count": 23,
+    "risk_factors_chars": 55160,
+    "mdna_chars": 77122,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\JCP_FY2017_parsed.json"
+  },
+  {
+    "fiscal_year": "2016",
+    "risk_factors_count": 19,
+    "risk_factors_chars": 54227,
+    "mdna_chars": 81868,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\JCP_FY2016_parsed.json"
+  },
+  {
+    "fiscal_year": "2015",
+    "risk_factors_count": 15,
+    "risk_factors_chars": 46665,
+    "mdna_chars": 101654,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\JCP_FY2015_parsed.json"
+  },
+  {
+    "fiscal_year": "2014",
+    "risk_factors_count": 15,
+    "risk_factors_chars": 46875,
+    "mdna_chars": 101922,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\JCP_FY2014_parsed.json"
+  },
+  {
+    "fiscal_year": "2013",
+    "risk_factors_count": 27,
+    "risk_factors_chars": 61464,
+    "mdna_chars": 88739,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\JCP_FY2013_parsed.json"
+  },
+  {
+    "fiscal_year": "2012",
+    "risk_factors_count": 12,
+    "risk_factors_chars": 20560,
+    "mdna_chars": 85425,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\JCP_FY2012_parsed.json"
+  },
+  {
+    "fiscal_year": "2011",
+    "risk_factors_count": 8,
+    "risk_factors_chars": 15958,
+    "mdna_chars": 80485,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\JCP_FY2011_parsed.json"
+  }
+]

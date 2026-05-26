@@ -1,0 +1,62 @@
+{
+  "2009": {
+    "novelty": null,
+    "prior_fy": null,
+    "cosine_sim": null,
+    "token_vocab_size": 6521
+  },
+  "2010": {
+    "novelty": 0.03,
+    "prior_fy": "2009",
+    "cosine_sim": 0.97,
+    "token_vocab_size": 6521
+  },
+  "2011": {
+    "novelty": 0.0432,
+    "prior_fy": "2010",
+    "cosine_sim": 0.9568,
+    "token_vocab_size": 6521
+  },
+  "2012": {
+    "novelty": 0.0908,
+    "prior_fy": "2011",
+    "cosine_sim": 0.9092,
+    "token_vocab_size": 6521
+  },
+  "2013": {
+    "novelty": 0.0808,
+    "prior_fy": "2012",
+    "cosine_sim": 0.9192,
+    "token_vocab_size": 6521
+  },
+  "2014": {
+    "novelty": 0.1142,
+    "prior_fy": "2013",
+    "cosine_sim": 0.8858,
+    "token_vocab_size": 6521
+  },
+  "2015": {
+    "novelty": 0.0739,
+    "prior_fy": "2014",
+    "cosine_sim": 0.9261,
+    "token_vocab_size": 6521
+  },
+  "2016": {
+    "novelty": 0.1132,
+    "prior_fy": "2015",
+    "cosine_sim": 0.8868,
+    "token_vocab_size": 6521
+  },
+  "2017": {
+    "novelty": 0.1647,
+    "prior_fy": "2016",
+    "cosine_sim": 0.8353,
+    "token_vocab_size": 6521
+  },
+  "2018": {
+    "novelty": 0.0746,
+    "prior_fy": "2017",
+    "cosine_sim": 0.9254,
+    "token_vocab_size": 6521
+  }
+}

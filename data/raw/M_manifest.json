@@ -62,5 +62,45 @@
     "report_date": "2019-02-02",
     "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\M_10K_2019.html",
     "accession": "0000794367-19-000038"
+  },
+  {
+    "ticker": "M",
+    "fiscal_year": "2018",
+    "filing_date": "2018-04-04",
+    "report_date": "2018-02-03",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\M_10K_2018.html",
+    "accession": "0000794367-18-000036"
+  },
+  {
+    "ticker": "M",
+    "fiscal_year": "2017",
+    "filing_date": "2017-03-29",
+    "report_date": "2017-01-28",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\M_10K_2017.html",
+    "accession": "0000794367-17-000041"
+  },
+  {
+    "ticker": "M",
+    "fiscal_year": "2016",
+    "filing_date": "2016-03-30",
+    "report_date": "2016-01-30",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\M_10K_2016.html",
+    "accession": "0000794367-16-000221"
+  },
+  {
+    "ticker": "M",
+    "fiscal_year": "2015",
+    "filing_date": "2015-04-01",
+    "report_date": "2015-01-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\M_10K_2015.html",
+    "accession": "0000794367-15-000073"
+  },
+  {
+    "ticker": "M",
+    "fiscal_year": "2014",
+    "filing_date": "2014-04-02",
+    "report_date": "2014-02-01",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\M_10K_2014.html",
+    "accession": "0000794367-14-000071"
   }
 ]

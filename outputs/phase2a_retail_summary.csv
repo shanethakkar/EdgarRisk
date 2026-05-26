@@ -1,0 +1,6 @@
+failure,event_year,vol_t0_pct,vol_pct_traj,vol_signal,neg_t0_pct,neg_pct_traj,neg_signal,novelty_max_pct,nov_signal,signals_fired
+SHLD,2017,0.83,0.17,False,0.17,-0.17,False,1.0,True,1
+JCP,2019,0.83,0.0,False,0.17,0.0,False,0.67,False,0
+PIR,2019,0.83,0.0,False,0.17,0.0,False,0.83,True,1
+ASNA,2019,1.0,0.0,False,0.17,0.0,False,1.0,True,1
+BBBY,2022,0.83,0.17,False,0.33,0.17,False,1.0,True,1

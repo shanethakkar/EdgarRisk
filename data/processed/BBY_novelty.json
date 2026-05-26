@@ -1,50 +1,80 @@
 {
-  "2019": {
+  "2014": {
     "novelty": null,
     "prior_fy": null,
     "cosine_sim": null,
-    "token_vocab_size": 10489
+    "token_vocab_size": 12777
+  },
+  "2015": {
+    "novelty": 0.0861,
+    "prior_fy": "2014",
+    "cosine_sim": 0.9139,
+    "token_vocab_size": 12777
+  },
+  "2016": {
+    "novelty": 0.2136,
+    "prior_fy": "2015",
+    "cosine_sim": 0.7864,
+    "token_vocab_size": 12777
+  },
+  "2017": {
+    "novelty": 0.0606,
+    "prior_fy": "2016",
+    "cosine_sim": 0.9394,
+    "token_vocab_size": 12777
+  },
+  "2018": {
+    "novelty": 0.0686,
+    "prior_fy": "2017",
+    "cosine_sim": 0.9314,
+    "token_vocab_size": 12777
+  },
+  "2019": {
+    "novelty": 0.0725,
+    "prior_fy": "2018",
+    "cosine_sim": 0.9275,
+    "token_vocab_size": 12777
   },
   "2020": {
-    "novelty": 0.0508,
+    "novelty": 0.0633,
     "prior_fy": "2019",
-    "cosine_sim": 0.9492,
-    "token_vocab_size": 10489
+    "cosine_sim": 0.9367,
+    "token_vocab_size": 12777
   },
   "2021": {
-    "novelty": 0.0797,
+    "novelty": 0.0949,
     "prior_fy": "2020",
-    "cosine_sim": 0.9203,
-    "token_vocab_size": 10489
+    "cosine_sim": 0.9051,
+    "token_vocab_size": 12777
   },
   "2022": {
-    "novelty": 0.0524,
+    "novelty": 0.0655,
     "prior_fy": "2021",
-    "cosine_sim": 0.9476,
-    "token_vocab_size": 10489
+    "cosine_sim": 0.9345,
+    "token_vocab_size": 12777
   },
   "2023": {
-    "novelty": 0.0608,
+    "novelty": 0.0783,
     "prior_fy": "2022",
-    "cosine_sim": 0.9392,
-    "token_vocab_size": 10489
+    "cosine_sim": 0.9217,
+    "token_vocab_size": 12777
   },
   "2024": {
-    "novelty": 0.0549,
+    "novelty": 0.0714,
     "prior_fy": "2023",
-    "cosine_sim": 0.9451,
-    "token_vocab_size": 10489
+    "cosine_sim": 0.9286,
+    "token_vocab_size": 12777
   },
   "2025": {
-    "novelty": 0.1041,
+    "novelty": 0.1257,
     "prior_fy": "2024",
-    "cosine_sim": 0.8959,
-    "token_vocab_size": 10489
+    "cosine_sim": 0.8743,
+    "token_vocab_size": 12777
   },
   "2026": {
-    "novelty": 0.1377,
+    "novelty": 0.1592,
     "prior_fy": "2025",
-    "cosine_sim": 0.8623,
-    "token_vocab_size": 10489
+    "cosine_sim": 0.8408,
+    "token_vocab_size": 12777
   }
 }

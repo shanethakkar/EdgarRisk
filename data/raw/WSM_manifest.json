@@ -1,0 +1,106 @@
+[
+  {
+    "ticker": "WSM",
+    "fiscal_year": "2026",
+    "filing_date": "2026-03-26",
+    "report_date": "2026-02-01",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\WSM_10K_2026.html",
+    "accession": "0000719955-26-000059"
+  },
+  {
+    "ticker": "WSM",
+    "fiscal_year": "2025",
+    "filing_date": "2025-03-27",
+    "report_date": "2025-02-02",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\WSM_10K_2025.html",
+    "accession": "0001628280-25-015037"
+  },
+  {
+    "ticker": "WSM",
+    "fiscal_year": "2024",
+    "filing_date": "2024-03-20",
+    "report_date": "2024-01-28",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\WSM_10K_2024.html",
+    "accession": "0001628280-24-012221"
+  },
+  {
+    "ticker": "WSM",
+    "fiscal_year": "2023",
+    "filing_date": "2023-03-24",
+    "report_date": "2023-01-29",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\WSM_10K_2023.html",
+    "accession": "0001628280-23-009175"
+  },
+  {
+    "ticker": "WSM",
+    "fiscal_year": "2022",
+    "filing_date": "2022-03-28",
+    "report_date": "2022-01-30",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\WSM_10K_2022.html",
+    "accession": "0001628280-22-007494"
+  },
+  {
+    "ticker": "WSM",
+    "fiscal_year": "2021",
+    "filing_date": "2021-03-30",
+    "report_date": "2021-01-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\WSM_10K_2021.html",
+    "accession": "0001193125-21-100319"
+  },
+  {
+    "ticker": "WSM",
+    "fiscal_year": "2020",
+    "filing_date": "2020-03-27",
+    "report_date": "2020-02-02",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\WSM_10K_2020.html",
+    "accession": "0001193125-20-088937"
+  },
+  {
+    "ticker": "WSM",
+    "fiscal_year": "2019",
+    "filing_date": "2019-04-04",
+    "report_date": "2019-02-03",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\WSM_10K_2019.html",
+    "accession": "0001193125-19-097973"
+  },
+  {
+    "ticker": "WSM",
+    "fiscal_year": "2018",
+    "filing_date": "2018-03-29",
+    "report_date": "2018-01-28",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\WSM_10K_2018.html",
+    "accession": "0001193125-18-102232"
+  },
+  {
+    "ticker": "WSM",
+    "fiscal_year": "2017",
+    "filing_date": "2017-03-30",
+    "report_date": "2017-01-29",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\WSM_10K_2017.html",
+    "accession": "0001193125-17-104341"
+  },
+  {
+    "ticker": "WSM",
+    "fiscal_year": "2016",
+    "filing_date": "2016-03-31",
+    "report_date": "2016-01-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\WSM_10K_2016.html",
+    "accession": "0001193125-16-525847"
+  },
+  {
+    "ticker": "WSM",
+    "fiscal_year": "2015",
+    "filing_date": "2015-04-02",
+    "report_date": "2015-02-01",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\WSM_10K_2015.html",
+    "accession": "0001193125-15-118009"
+  },
+  {
+    "ticker": "WSM",
+    "fiscal_year": "2014",
+    "filing_date": "2014-04-03",
+    "report_date": "2014-02-02",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\WSM_10K_2014.html",
+    "accession": "0001193125-14-129974"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "ticker": "JCP",
+    "fiscal_year": "2020",
+    "filing_date": "2020-03-20",
+    "report_date": "2020-02-01",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\JCP_10K_2020.html",
+    "accession": "0001166126-20-000022"
+  },
+  {
+    "ticker": "JCP",
+    "fiscal_year": "2019",
+    "filing_date": "2019-03-19",
+    "report_date": "2019-02-02",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\JCP_10K_2019.html",
+    "accession": "0001166126-19-000012"
+  },
+  {
+    "ticker": "JCP",
+    "fiscal_year": "2018",
+    "filing_date": "2018-03-19",
+    "report_date": "2018-02-03",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\JCP_10K_2018.html",
+    "accession": "0001166126-18-000014"
+  },
+  {
+    "ticker": "JCP",
+    "fiscal_year": "2017",
+    "filing_date": "2017-03-24",
+    "report_date": "2017-01-28",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\JCP_10K_2017.html",
+    "accession": "0001166126-17-000013"
+  },
+  {
+    "ticker": "JCP",
+    "fiscal_year": "2016",
+    "filing_date": "2016-03-16",
+    "report_date": "2016-01-30",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\JCP_10K_2016.html",
+    "accession": "0001166126-16-000069"
+  },
+  {
+    "ticker": "JCP",
+    "fiscal_year": "2015",
+    "filing_date": "2015-03-23",
+    "report_date": "2015-01-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\JCP_10K_2015.html",
+    "accession": "0001166126-15-000013"
+  },
+  {
+    "ticker": "JCP",
+    "fiscal_year": "2014",
+    "filing_date": "2014-03-21",
+    "report_date": "2014-02-01",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\JCP_10K_2014.html",
+    "accession": "0001166126-14-000017"
+  },
+  {
+    "ticker": "JCP",
+    "fiscal_year": "2013",
+    "filing_date": "2013-03-20",
+    "report_date": "2013-02-02",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\JCP_10K_2013.html",
+    "accession": "0001166126-13-000016"
+  },
+  {
+    "ticker": "JCP",
+    "fiscal_year": "2012",
+    "filing_date": "2012-03-28",
+    "report_date": "2012-01-28",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\JCP_10K_2012.html",
+    "accession": "0001193125-12-135077"
+  },
+  {
+    "ticker": "JCP",
+    "fiscal_year": "2011",
+    "filing_date": "2011-03-29",
+    "report_date": "2011-01-29",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\JCP_10K_2011.html",
+    "accession": "0001193125-11-081412"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "fiscal_year": "2019",
+    "risk_factors_count": 22,
+    "risk_factors_chars": 66012,
+    "mdna_chars": 49562,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\PIR_FY2019_parsed.json"
+  },
+  {
+    "fiscal_year": "2018",
+    "risk_factors_count": 21,
+    "risk_factors_chars": 57875,
+    "mdna_chars": 60680,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\PIR_FY2018_parsed.json"
+  },
+  {
+    "fiscal_year": "2017",
+    "risk_factors_count": 43,
+    "risk_factors_chars": 57972,
+    "mdna_chars": 65638,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\PIR_FY2017_parsed.json"
+  },
+  {
+    "fiscal_year": "2016",
+    "risk_factors_count": 37,
+    "risk_factors_chars": 49610,
+    "mdna_chars": 63926,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\PIR_FY2016_parsed.json"
+  },
+  {
+    "fiscal_year": "2015",
+    "risk_factors_count": 22,
+    "risk_factors_chars": 34235,
+    "mdna_chars": 67163,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\PIR_FY2015_parsed.json"
+  },
+  {
+    "fiscal_year": "2014",
+    "risk_factors_count": 23,
+    "risk_factors_chars": 32111,
+    "mdna_chars": 61873,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\PIR_FY2014_parsed.json"
+  },
+  {
+    "fiscal_year": "2013",
+    "risk_factors_count": 25,
+    "risk_factors_chars": 29299,
+    "mdna_chars": 51763,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\PIR_FY2013_parsed.json"
+  },
+  {
+    "fiscal_year": "2012",
+    "risk_factors_count": 22,
+    "risk_factors_chars": 27937,
+    "mdna_chars": 56897,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\PIR_FY2012_parsed.json"
+  },
+  {
+    "fiscal_year": "2011",
+    "risk_factors_count": 23,
+    "risk_factors_chars": 25035,
+    "mdna_chars": 59609,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\PIR_FY2011_parsed.json"
+  },
+  {
+    "fiscal_year": "2010",
+    "risk_factors_count": 23,
+    "risk_factors_chars": 25481,
+    "mdna_chars": 66681,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\PIR_FY2010_parsed.json"
+  }
+]
