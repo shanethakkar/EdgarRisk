@@ -1,150 +1,124 @@
-# EdgarRisk
+# EdgarRisk — Project Guide
 
-A two-agent system for analyzing SEC 10-K risk disclosures across the S&P 500.
-Boeing was the pilot. The project is expanding to test whether risk-disclosure
-language predicts corporate failure (bankruptcy, restatement, SEC enforcement).
+A text-based corporate distress detector built on SEC 10-K Risk Factor disclosures. The project tests whether peer-relative novelty / under-disclosure signals in annual filings predict subsequent operational failures.
 
-## Role
+**Status as of last update:** Methodology locked; n=24 failures + 42 survivors across 15 sectors; 79% recall + 61% extended-horizon precision; longitudinal validation complete. The canonical writeup is in [ARTICLE.md](ARTICLE.md). User-facing intro is in [README.md](README.md).
 
-You are the orchestrator of a two-agent system that analyzes SEC 10-K filings
-to produce investor memos comparing year-over-year changes in risk
-disclosures. You route incoming requests to the correct agent and ensure they
-hand off cleanly.
+## Reading guide
 
-The system has two agents, each defined in the `agents/` folder:
+Start here:
+- [ARTICLE.md](ARTICLE.md) — full ~2,800 word writeup of methodology, findings, and limitations
+- [README.md](README.md) — practical project intro with reproduction instructions
+- [outputs/phase5_findings.md](outputs/phase5_findings.md) — the strongest single finding (longitudinal FP follow-up)
+- [outputs/phase4_findings.md](outputs/phase4_findings.md) — false-positive validation that forced honest reframing
+- [outputs/phase3_findings.md](outputs/phase3_findings.md) — scale-out to 24 failures
 
-- **Filing Agent** (`agents/filing_agent.md`) — retrieves 10-K filings from
-  SEC EDGAR, parses Risk Factors and MD&A sections, and computes year-over-
-  year diffs. Produces structured JSON in `data/processed/`.
-- **Analyst Agent** (`agents/analyst_agent.md`) — classifies risks into
-  categories, detects red-flag language, writes the final investor memo,
-  and adds interpretive narrative. Produces the memo in `outputs/`.
+Per-phase findings docs are in `outputs/phase[0-5]*_findings.md`, ordered by commit history.
 
-Neither agent can do the other's job. The Filing Agent has no analytical or
-interpretive capability. The Analyst Agent has no data retrieval or parsing
-capability. Every meaningful task requires both.
+## Working directory
 
-## Project Structure
+`c:\Users\shane\Projects\RiskAnalyzer`
+
+When running scripts: `uv run python skills/<skill>.py` or `uv run python analysis/<phase>.py` from the project root.
+
+## Core methodology — what to preserve
+
+The methodology is locked. Don't change these without explicit reason:
+
+1. **Peer-relative percentile-rank scoring** against sector-matched cohorts of 3-5 survivors per failure. Absolute scoring (e.g., raw Loughran-McDonald Negative ratio) is anti-predictive — it's a sector classifier, not a distress signal. Healthy JPMorgan has higher LM-Negative ratio than every retail failure in the dataset.
+
+2. **Three signals**, evaluated independently then OR'd:
+   - **`novelty_spike`**: `max_pct_rank >= 0.75` in any lookback year AND `own_max_raw_novelty >= 0.10` (raw floor critical to filter spurious signals in static cohorts)
+   - **`declining_under_disclosure`**: `t0_rank <= 0.34` AND `(first_rank - t0_rank) >= 0.20pp` AND `cohort_max_raw >= 0.10`
+   - **`chronic_under_disclosure`**: `mean_rank <= 0.34` AND `max_rank <= 0.50` AND `cohort_max_raw >= 0.10` AND `own_max_raw < 0.10`
+
+3. **Standard lookback window**: t-3 to t-0 where data permits, else t-2 to t-0. Some failures (post-SPAC EVs, Spirit Airlines, Silvergate) have shorter windows due to limited public history.
+
+4. **Hand-picked cohorts** — sector and size-matched survivors, 3-5 per failure. These are committed in the analysis scripts (`analysis/phase3_scale.py:ALL_FAILURES`). Cohort selection is the one judgment call where the methodology has discretion; document any new cohorts carefully.
+
+## What NOT to do
+
+- **Don't add new signals without false-positive validation** against the survivor population. Phase 4 showed `novelty_spike` has 40% unique-ticker FP rate. New signals should have FP rate measured before being claimed.
+- **Don't tune thresholds to catch a single new failure case.** The current thresholds are set defensibly across the n=24 set. Adding a new threshold to catch a specific case is overfitting.
+- **Don't run the legacy two-agent system on new analysis.** The original Boeing pilot used a Filing Agent + Analyst Agent split that produced the FY2025-vs-FY2024 memo. That workflow still works for single-ticker investor memos but is not where the project's primary work lives. New analysis goes in `analysis/phaseN_*.py`.
+- **Don't modify processed JSON files manually.** They are skill outputs; regenerate by re-running the relevant skill if needed.
+- **Don't claim "100% detection" anywhere.** The honest claim is 79% recall + 61% extended-horizon precision. Phase 1B made the over-claim and Phase 4 had to retract it; don't reintroduce.
+
+## How to add a new failure case
+
+If you want to test the model on a new bankruptcy or corporate failure:
+
+1. **Look up the CIK** via EDGAR full-text search (`https://efts.sec.gov/LATEST/search-index?q=...&forms=10-K`).
+2. **Pick a sector cohort** — 3-5 sector + size-matched public survivors that have 10-Ks covering the failure's lookback window. Be careful about survivors that subsequently failed (don't use them as controls).
+3. **Fetch the failure and any new survivors**: `uv run python skills/fetch_10k.py --cik {CIK} --label {TICKER} --years N` (or `--ticker` for active issuers).
+4. **Parse + sentiment + novelty**: run `section_parser.py`, `sentiment_scorer.py`, `novelty_scorer.py` for each new ticker.
+5. **Add to `analysis/phase3_scale.py:ALL_FAILURES`** with the lookback window, survivors, sector, and class_hint.
+6. **Re-run `phase3_scale.py`** and `phase4_chronic.py` to update aggregate metrics.
+7. **Update findings docs** with the new case classification.
+
+## Skills (atomic, reusable)
+
+- [fetch_10k.py](skills/fetch_10k.py) — Download 10-Ks from EDGAR. Supports `--ticker` (active issuers only) and `--cik --label` (any issuer, including delisted/private).
+- [section_parser.py](skills/section_parser.py) — Extract Item 1A (Risk Factors) and Item 7 (MD&A) from 10-K HTML. Some failures (JPM's MD&A in particular) have parser fragility — risk-section char count is more reliable than item count.
+- [sentiment_scorer.py](skills/sentiment_scorer.py) — Loughran-McDonald word-frequency scoring (7 categories: Negative, Positive, Uncertainty, Litigious, Strong/Weak Modal, Constraining).
+- [novelty_scorer.py](skills/novelty_scorer.py) — TF-IDF cosine similarity between consecutive years, with unigrams + bigrams.
+- [redflag_detector.py](skills/redflag_detector.py) — Legacy keyword-based detector. Phase 1A revealed it has too much boilerplate noise to be useful as-is. Superseded by sentiment + novelty. Still useful if context-aware matching is added.
+- [yoy_diff.py](skills/yoy_diff.py), [risk_classifier.py](skills/risk_classifier.py), [memo_writer.py](skills/memo_writer.py) — Original Boeing-pilot skills. Still functional for single-ticker investor memos.
+
+## Data sources
+
+- **SEC EDGAR** (free, public): 10-K HTML via `data.sec.gov/submissions` and `sec.gov/Archives/edgar/data/`. Requires User-Agent header.
+- **Loughran-McDonald Master Dictionary 1993-2024** in `data/reference/`. Originally distributed by Notre Dame SRAF on a Google Drive link; checked in for reproducibility. Non-commercial research license.
+
+## Known data gotchas
+
+- **FDIC-supervised banks** (First Republic, Signature Bank) don't file SEC 10-Ks. SEC-text-based studies of bank failures have a structural blind spot for this entire class.
+- **Companies taken private** (JWN/Nordstrom 2025, WBA/Walgreens 2025) drop out of EDGAR's active ticker map but keep their CIK. Fetch via `--cik`.
+- **Post-bankruptcy ticker mangling**: SAVE → SAVEQ → FLYYQ (Spirit Airlines). CIK persists.
+- **Heavy filers** (Boeing): EDGAR's `recent` filings block holds ~1000 most recent items. For 5+ years of history on heavy filers, the script walks the historical `files` chunks. Handled in `fetch_10k.py:get_recent_10k_filings`.
+
+## Project structure
 
 ```
 EdgarRisk/
-├── CLAUDE.md                    # this file
-├── agents/
-│   ├── filing_agent.md
-│   └── analyst_agent.md
-├── skills/
-│   ├── fetch_10k.py             # [Filing Agent] download 10-Ks from EDGAR
-│   ├── section_parser.py        # [Filing Agent] extract Risk Factors + MD&A
-│   ├── yoy_diff.py              # [Filing Agent] year-over-year risk diff
-│   ├── risk_classifier.py       # [Analyst Agent] classify risks by category
-│   ├── redflag_detector.py      # [Analyst Agent] scan red-flag phrases
-│   └── memo_writer.py           # [Analyst Agent] generate final memo
+├── README.md                 # Public project intro
+├── ARTICLE.md                # Canonical writeup (~2,800 words)
+├── CLAUDE.md                 # This file
+├── pyproject.toml + uv.lock  # Dependencies (Python 3.12, uv-managed)
+├── agents/                   # Legacy two-agent definitions
+├── skills/                   # Atomic reusable skills
+├── analysis/                 # Per-phase analysis scripts
 ├── data/
-│   ├── raw/                     # downloaded 10-K HTML + manifest
-│   └── processed/               # parsed JSON + diffs + classifications
-└── outputs/
-    └── {TICKER}_risk_memo_FY{A}_vs_FY{B}.md
+│   ├── reference/            # Frozen LM dictionary
+│   ├── raw/                  # HTML (gitignored) + manifests (tracked)
+│   └── processed/            # Parsed JSON + scores (tracked)
+└── outputs/                  # Findings docs + charts + CSVs
 ```
 
-When running scripts use:
-`uv run python skills/<skill>.py` from the project root.
+## Project history (the 12-phase arc)
 
-Working directory: `c:\Users\shane\Projects\RiskAnalyzer`
+```
+23c8c08 Phase 5: longitudinal FP follow-up shows 'false positives' are leading indicators
+5968486 Phase 4: chronic UD detector + false-positive validation forces honest reframing
+c54afc6 Phase 3: scale to 24 failures across 15 sectors, 17/24 detected
+a199124 Phase 2C: under-disclosure detector closes the SAVE/JCP gap, 9/9 detectable
+b8b871b Phase 2B: cross-sector generalization, novelty detects 7/7 expanding-disclosure failures
+46c9ba9 Phase 2A: retail sector expansion to 5 failures, 80% novelty detection
+0faf54a Phase 1D: Spirit Airlines out-of-sample test (negative result)
+d0668dc Phase 1C: cohorts, standard windows, percentile-rank scoring
+2fa7441 Phase 1B: TF-IDF YoY novelty scoring + 3-signal composite scoreboard
+e004db6 Phase 1A: Loughran-McDonald sentiment scoring + signal-richer comparison
+b663df8 Phase 0: case-control validation across 5 failure/survivor pairs
+8edffd1 Initial: Boeing 10-K Risk Analyzer pilot + EdgarRisk rename + uv env
+```
 
-## Routing Rules
+Each commit message contains the phase's findings summary; the per-phase `outputs/phaseN_*_findings.md` docs have the full analysis with charts.
 
-Read the user's request and apply the first matching rule. Always check
-which processed files already exist before running any skill. Skip any step
-whose output is already on disk unless the user uploaded new data, asked
-explicitly to re-run, or named a different ticker / year pair.
+## Default demo task (legacy)
 
-### Rule 1 — Fetch / load filings / new ticker
-
-**Triggers:** User asks to fetch, download, pull, or load 10-K filings for a
-ticker; user names a ticker for the first time; user asks to refresh data.
-
-**Action (Filing Agent):**
-1. Run `skills/fetch_10k.py --ticker {TICKER} --years 3`
-2. Run `skills/section_parser.py --ticker {TICKER}`
-3. Report number of filings downloaded and risk-factor counts per year
-4. Stop and wait for the user's analysis request before continuing
-
-### Rule 2 — Compare two years / diff / what changed
-
-**Triggers:** User asks what changed between two 10-Ks, asks for a YoY diff,
-asks about new risks, removed risks, or modified risks.
-
-**Action (Filing Agent then Analyst Agent):**
-1. Verify parsed JSON for both years exists. If missing, run Rule 1 first.
-2. Filing Agent: run `skills/yoy_diff.py --ticker {TICKER} --year_a {NEWER} --year_b {OLDER}`
-3. Hand off to Analyst Agent.
-4. Analyst Agent: run `skills/risk_classifier.py --ticker {TICKER} --year_a {NEWER} --year_b {OLDER}`
-5. Report category shifts and counts in plain language. Do not produce the
-   full memo unless the user asked for it.
-
-### Rule 3 — Red flags / warning signs / fraud indicators
-
-**Triggers:** User asks about red flags, warning signs, going concern,
-material weakness, investigations, or any high-severity disclosure language.
-
-**Action (Analyst Agent):**
-1. Verify parsed JSON exists for at least 2 years. If missing, run Rule 1.
-2. Run `skills/redflag_detector.py --ticker {TICKER}`
-3. Surface findings in plain language with YoY changes — do not dump raw
-   JSON. Highlight any red-flag categories where count increased YoY.
-
-### Rule 4 — Full memo / investor report / complete analysis
-
-**Triggers:** User asks for the full memo, investor report, complete
-analysis, "give me the writeup", or "run the whole thing."
-
-**Action (full pipeline — Filing Agent then Analyst Agent):**
-1. If raw filings missing → Rule 1
-2. Filing Agent: run `skills/yoy_diff.py`
-3. Hand off to Analyst Agent
-4. Analyst Agent: run `skills/risk_classifier.py`
-5. Analyst Agent: run `skills/redflag_detector.py`
-6. Analyst Agent: run `skills/memo_writer.py`
-7. Read the produced memo, replace the "Analyst Narrative" placeholder
-   section with substantive interpretation per the Analyst Agent's behavior
-   rules
-8. Report the final memo file path and a 3-bullet summary of the key
-   findings
-
-### Rule 5 — Specific ticker question
-
-**Triggers:** User asks a specific question about a particular risk, theme,
-or section without naming a workflow.
-
-**Action:**
-- Determine which agent owns the answer based on the question type:
-  - Retrieval / "show me the raw text" / "what does the filing say" → Filing
-    Agent reads from `data/processed/{TICKER}_FY{YEAR}_parsed.json`
-  - Interpretation / categorization / "is this concerning" / "what does this
-    mean" → Analyst Agent reads from classified JSON or red flag JSON
-- Run only the minimum skills required. Do not regenerate outputs that
-  already exist.
-
-## Global Rules
-
-- Always check if a processed file exists before running the skill that
-  generates it. All skills overwrite their outputs idempotently — re-runs
-  are safe but wasteful.
-- Never modify `data/raw/` manually — all writes go through `fetch_10k.py`.
-- Never invent risk factors, red flags, or classifications. Only report what
-  the skills produced.
-- Translate raw outputs into plain-language insight. Do not dump JSON or raw
-  category counts to the user — explain what the data means.
-- Prerequisite chain: `fetch_10k.py` → `section_parser.py` → `yoy_diff.py` →
-  `risk_classifier.py` + `redflag_detector.py` → `memo_writer.py`
-- When in doubt about which agent owns a task, default to handing off
-  rather than acting outside the agent's role. The point of the two-agent
-  separation is that retrieval and interpretation are distinct skills.
-
-## Default Demo Task
-
-If the user simply says "run the demo" or gives no specifics, run:
+If you're asked to "run the demo" without further context, the original Boeing-pilot workflow still works:
 - Ticker: BA (Boeing)
-- Year A: most recent fiscal year on EDGAR
-- Year B: prior fiscal year
-- Workflow: Rule 4 (full memo)
+- Workflow: fetch → parse → diff → classify → redflag → memo
+- Output: `outputs/BA_risk_memo_FY2025_vs_FY2024.md`
+
+But the project's primary analytical work now lives in `analysis/phase*.py`. New questions about distress detection should run those scripts, not the legacy two-agent memo pipeline.
