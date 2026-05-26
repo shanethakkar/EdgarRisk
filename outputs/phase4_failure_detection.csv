@@ -1,0 +1,25 @@
+subject,cohort_of,sector,n_years,mean_rank,max_rank,first_rank,t0_rank,own_max_raw,cohort_max_raw,novelty_spike,declining_ud,chronic_ud,any_signal,class_hint
+BA,BA,Aerospace/Defense,3,0.42,0.67,0.33,0.25,0.032,0.175,False,False,False,False,industry shock
+SIVB,SIVB,Mid-cap commercial bank,3,0.75,0.75,0.75,0.75,0.051,0.061,False,False,False,False,sudden shock
+PTON,PTON,D2C consumer subscription,2,0.33,0.33,0.33,0.33,0.028,0.084,False,False,False,False,chronic anomaly
+SI,SI,Small-cap regional bank,2,0.62,0.75,0.75,0.5,0.043,0.464,False,False,False,False,sudden shock
+SAVE,SAVE,ULCC airline,3,0.39,0.67,0.67,0.25,0.041,0.136,False,True,False,True,under-disclosure
+SHLD,SHLD,Dept store retail,4,0.71,1.0,0.5,1.0,0.165,0.214,True,False,False,True,expanding disclosure
+JCP,JCP,Dept store retail,4,0.46,0.67,0.67,0.33,0.067,0.474,False,True,False,True,under-disclosure
+PIR,PIR,Home goods specialty,4,0.62,0.83,0.83,0.67,0.128,0.474,True,False,False,True,expanding disclosure
+ASNA,ASNA,Specialty retail,4,0.75,1.0,0.67,0.83,0.103,0.474,True,False,False,True,expanding disclosure
+BBBY,BBBY,Specialty retail,3,0.72,1.0,0.5,0.67,0.506,0.506,True,False,False,True,expanding disclosure
+WE,WE,Commercial real estate,2,0.62,1.0,1.0,0.25,0.715,0.715,True,True,False,True,expanding disclosure
+YELL,YELL,LTL trucking,4,0.88,1.0,1.0,0.5,0.18,0.18,True,False,False,True,expanding disclosure
+TUP,TUP,Household consumer,4,1.0,1.0,1.0,1.0,0.204,0.204,True,False,False,True,expanding disclosure
+EXPR,EXPR,Specialty apparel retail,4,0.21,0.33,0.17,0.17,0.08,0.301,False,False,True,True,unknown
+RAD,RAD,Drugstore,4,1.0,1.0,1.0,1.0,0.166,0.166,True,False,False,True,unknown
+NKLA,NKLA,EV / cleantech,4,1.0,1.0,1.0,1.0,0.733,0.733,True,False,False,True,unknown
+RIDE,RIDE,EV / cleantech,1,1.0,1.0,1.0,1.0,0.129,0.129,True,False,False,True,unknown
+FSR,FSR,EV / cleantech,3,0.78,1.0,1.0,0.33,0.631,0.631,True,True,False,True,unknown
+CHK,CHK,Energy E&P,2,0.62,1.0,1.0,0.25,0.177,0.177,True,True,False,True,unknown
+WLL,WLL,Energy E&P,4,0.62,1.0,1.0,0.25,0.078,0.164,False,True,False,True,unknown
+ENDP,ENDP,Specialty pharma,4,0.38,0.5,0.5,0.25,0.057,0.322,False,True,False,True,unknown
+MNK,MNK,Specialty pharma,2,0.38,0.5,0.5,0.25,0.051,0.322,False,True,False,True,unknown
+SDC,SDC,Dental / consumer health,3,0.33,0.33,0.33,0.33,0.016,0.285,False,False,True,True,unknown
+HTZ,HTZ,Car rental / equipment,2,0.83,1.0,1.0,0.67,0.065,0.065,False,False,False,False,unknown

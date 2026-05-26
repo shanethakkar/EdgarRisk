@@ -1,0 +1,79 @@
+subject,cohort_of,sector,n_years,mean_rank,max_rank,first_rank,t0_rank,own_max_raw,cohort_max_raw,novelty_spike,declining_ud,chronic_ud,any_signal
+LMT,BA,Aerospace/Defense,1,0.75,0.75,0.75,0.75,0.092,0.107,False,False,False,False
+GD,BA,Aerospace/Defense,3,0.67,1.0,0.67,1.0,0.107,0.175,True,False,False,True
+NOC,BA,Aerospace/Defense,3,0.83,1.0,1.0,0.5,0.176,0.175,True,False,False,True
+KEY,SIVB,Mid-cap commercial bank,4,0.44,1.0,1.0,0.25,0.599,0.599,True,True,False,True
+FITB,SIVB,Mid-cap commercial bank,4,0.54,0.67,0.67,0.5,0.031,0.599,False,False,False,False
+HBAN,SIVB,Mid-cap commercial bank,4,0.83,1.0,0.33,1.0,0.061,0.599,False,False,False,False
+LULU,PTON,D2C consumer subscription,3,0.72,1.0,0.5,0.67,0.084,0.084,False,False,False,False
+ROK,PTON,D2C consumer subscription,3,0.89,1.0,1.0,1.0,0.071,0.084,False,False,False,False
+WAL,SI,Small-cap regional bank,3,0.61,1.0,0.33,1.0,0.464,0.599,True,False,False,True
+CUBI,SI,Small-cap regional bank,3,0.81,1.0,0.67,0.75,0.064,0.599,False,False,False,False
+KEY,SI,Small-cap regional bank,3,0.5,1.0,1.0,0.25,0.599,0.599,True,True,False,True
+ULCC,SAVE,ULCC airline,2,0.75,0.75,0.75,0.75,0.053,0.136,False,False,False,False
+ALK,SAVE,ULCC airline,3,1.0,1.0,1.0,1.0,0.136,0.136,True,False,False,True
+LUV,SAVE,ULCC airline,3,0.44,0.5,0.33,0.5,0.039,0.136,False,False,False,False
+BBY,SHLD,Dept store retail,3,0.83,1.0,0.67,0.83,0.214,0.214,True,False,False,True
+M,SHLD,Dept store retail,3,0.39,0.5,0.33,0.5,0.04,0.214,False,False,False,False
+KSS,SHLD,Dept store retail,3,0.61,1.0,1.0,0.33,0.165,0.214,True,True,False,True
+JWN,SHLD,Dept store retail,4,0.79,1.0,1.0,0.67,0.139,0.214,True,False,False,True
+WSM,SHLD,Dept store retail,3,0.17,0.17,0.17,0.17,0.023,0.214,False,False,True,True
+BBY,JCP,Dept store retail,4,0.83,1.0,1.0,0.83,0.214,0.474,True,False,False,True
+M,JCP,Dept store retail,4,0.62,1.0,0.33,0.5,0.474,0.474,True,False,False,True
+KSS,JCP,Dept store retail,4,0.54,0.67,0.5,0.67,0.096,0.474,False,False,False,False
+JWN,JCP,Dept store retail,4,0.88,1.0,0.83,1.0,0.273,0.474,True,False,False,True
+WSM,JCP,Dept store retail,4,0.17,0.17,0.17,0.17,0.018,0.474,False,False,True,True
+BBY,PIR,Home goods specialty,4,0.83,1.0,1.0,0.83,0.214,0.474,True,False,False,True
+M,PIR,Home goods specialty,4,0.54,1.0,0.33,0.33,0.474,0.474,True,False,False,True
+KSS,PIR,Home goods specialty,4,0.5,0.67,0.5,0.5,0.096,0.474,False,False,False,False
+JWN,PIR,Home goods specialty,4,0.83,1.0,0.67,1.0,0.273,0.474,True,False,False,True
+WSM,PIR,Home goods specialty,4,0.17,0.17,0.17,0.17,0.018,0.474,False,False,True,True
+BBY,ASNA,Specialty retail,4,0.71,1.0,1.0,0.67,0.214,0.474,True,False,False,True
+M,ASNA,Specialty retail,4,0.54,1.0,0.33,0.33,0.474,0.474,True,False,False,True
+KSS,ASNA,Specialty retail,4,0.5,0.67,0.5,0.5,0.096,0.474,False,False,False,False
+JWN,ASNA,Specialty retail,4,0.83,1.0,0.83,1.0,0.273,0.474,True,False,False,True
+WSM,ASNA,Specialty retail,4,0.17,0.17,0.17,0.17,0.018,0.474,False,False,True,True
+BBY,BBBY,Specialty retail,4,0.37,0.8,0.8,0.17,0.095,0.506,False,True,False,True
+M,BBBY,Specialty retail,4,0.6,0.83,0.4,0.83,0.131,0.506,True,False,False,True
+KSS,BBBY,Specialty retail,4,0.82,1.0,0.6,1.0,0.238,0.506,True,False,False,True
+JWN,BBBY,Specialty retail,4,0.79,1.0,1.0,0.5,0.301,0.506,True,False,False,True
+WSM,BBBY,Specialty retail,4,0.26,0.33,0.2,0.33,0.078,0.506,False,False,True,True
+CWK,WE,Commercial real estate,2,0.88,1.0,0.75,1.0,0.091,0.715,False,False,False,False
+NMRK,WE,Commercial real estate,2,0.38,0.5,0.25,0.5,0.038,0.715,False,False,False,False
+IRM,WE,Commercial real estate,2,0.62,0.75,0.5,0.75,0.042,0.715,False,False,False,False
+ODFL,YELL,LTL trucking,2,0.62,1.0,0.25,1.0,0.135,0.18,True,False,False,True
+ARCB,YELL,LTL trucking,2,0.38,0.5,0.5,0.25,0.029,0.18,False,True,False,True
+XPO,YELL,LTL trucking,2,0.75,0.75,0.75,0.75,0.109,0.18,True,False,False,True
+CHD,TUP,Household consumer,2,0.75,0.75,0.75,0.75,0.108,0.204,True,False,False,True
+CL,TUP,Household consumer,2,0.38,0.5,0.25,0.5,0.03,0.204,False,False,False,False
+CLX,TUP,Household consumer,2,0.38,0.5,0.5,0.25,0.034,0.204,False,True,False,True
+BBY,EXPR,Specialty apparel retail,4,0.5,0.83,0.83,0.33,0.095,0.301,False,True,False,True
+M,EXPR,Specialty apparel retail,4,0.67,0.83,0.5,0.83,0.131,0.301,True,False,False,True
+KSS,EXPR,Specialty apparel retail,4,0.88,1.0,0.67,1.0,0.238,0.301,True,False,False,True
+JWN,EXPR,Specialty apparel retail,4,0.88,1.0,1.0,0.67,0.301,0.301,True,False,False,True
+WSM,EXPR,Specialty apparel retail,4,0.38,0.5,0.33,0.5,0.078,0.301,False,False,False,False
+CVS,RAD,Drugstore,4,0.42,0.67,0.67,0.33,0.131,0.166,False,True,False,True
+WBA,RAD,Drugstore,4,0.58,0.67,0.33,0.67,0.086,0.166,False,False,False,False
+LCID,NKLA,EV / cleantech,2,0.29,0.33,0.33,0.25,0.012,0.092,False,False,False,False
+RIVN,NKLA,EV / cleantech,2,0.58,0.67,0.67,0.5,0.033,0.092,False,False,False,False
+CHPT,NKLA,EV / cleantech,1,0.75,0.75,0.75,0.75,0.022,0.092,False,False,False,False
+LCID,RIDE,EV / cleantech,1,0.33,0.33,0.33,0.33,0.012,0.129,False,False,True,True
+RIVN,RIDE,EV / cleantech,1,0.67,0.67,0.67,0.67,0.033,0.129,False,False,False,False
+LCID,FSR,EV / cleantech,1,0.67,0.67,0.67,0.67,0.012,0.033,False,False,False,False
+RIVN,FSR,EV / cleantech,1,1.0,1.0,1.0,1.0,0.033,0.033,False,False,False,False
+COP,CHK,Energy E&P,2,0.75,0.75,0.75,0.75,0.141,0.177,True,False,False,True
+DVN,CHK,Energy E&P,2,0.5,0.5,0.5,0.5,0.129,0.177,False,False,False,False
+HES,CHK,Energy E&P,3,0.75,1.0,1.0,1.0,0.164,0.177,True,False,False,True
+COP,WLL,Energy E&P,2,0.88,1.0,1.0,0.75,0.141,0.164,True,False,False,True
+DVN,WLL,Energy E&P,2,0.5,0.5,0.5,0.5,0.129,0.164,False,False,False,False
+HES,WLL,Energy E&P,3,0.75,1.0,1.0,1.0,0.164,0.164,True,False,False,True
+PFE,ENDP,Specialty pharma,4,0.81,1.0,0.75,0.75,0.171,0.322,True,False,False,True
+BMY,ENDP,Specialty pharma,4,0.81,1.0,1.0,0.5,0.322,0.322,True,False,False,True
+MRK,ENDP,Specialty pharma,4,0.5,1.0,0.25,1.0,0.068,0.322,False,False,False,False
+PFE,MNK,Specialty pharma,2,0.75,0.75,0.75,0.75,0.076,0.322,False,False,False,False
+BMY,MNK,Specialty pharma,2,1.0,1.0,1.0,1.0,0.322,0.322,True,False,False,True
+MRK,MNK,Specialty pharma,2,0.38,0.5,0.25,0.5,0.052,0.322,False,False,False,False
+ALGN,SDC,Dental / consumer health,3,1.0,1.0,1.0,1.0,0.285,0.285,True,False,False,True
+HSIC,SDC,Dental / consumer health,3,0.67,0.67,0.67,0.67,0.18,0.285,False,False,False,False
+CAR,HTZ,Car rental / equipment,2,0.67,1.0,0.33,1.0,0.022,0.065,False,False,False,False
+URI,HTZ,Car rental / equipment,2,0.5,0.67,0.67,0.33,0.025,0.065,False,False,False,False
