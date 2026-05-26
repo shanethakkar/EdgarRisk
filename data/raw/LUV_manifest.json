@@ -1,0 +1,50 @@
+[
+  {
+    "ticker": "LUV",
+    "fiscal_year": "2025",
+    "filing_date": "2026-02-05",
+    "report_date": "2025-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\LUV_10K_2025.html",
+    "accession": "0000092380-26-000004"
+  },
+  {
+    "ticker": "LUV",
+    "fiscal_year": "2024",
+    "filing_date": "2025-02-07",
+    "report_date": "2024-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\LUV_10K_2024.html",
+    "accession": "0000092380-25-000024"
+  },
+  {
+    "ticker": "LUV",
+    "fiscal_year": "2023",
+    "filing_date": "2024-02-06",
+    "report_date": "2023-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\LUV_10K_2023.html",
+    "accession": "0000092380-24-000027"
+  },
+  {
+    "ticker": "LUV",
+    "fiscal_year": "2022",
+    "filing_date": "2023-02-07",
+    "report_date": "2022-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\LUV_10K_2022.html",
+    "accession": "0000092380-23-000010"
+  },
+  {
+    "ticker": "LUV",
+    "fiscal_year": "2021",
+    "filing_date": "2022-02-07",
+    "report_date": "2021-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\LUV_10K_2021.html",
+    "accession": "0000092380-22-000007"
+  },
+  {
+    "ticker": "LUV",
+    "fiscal_year": "2020",
+    "filing_date": "2021-02-08",
+    "report_date": "2020-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\LUV_10K_2020.html",
+    "accession": "0000092380-21-000033"
+  }
+]

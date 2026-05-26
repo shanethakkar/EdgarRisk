@@ -1,0 +1,44 @@
+[
+  {
+    "fiscal_year": "2025",
+    "risk_factors_count": 51,
+    "risk_factors_chars": 227083,
+    "mdna_chars": 150938,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SAVE_FY2025_parsed.json"
+  },
+  {
+    "fiscal_year": "2024",
+    "risk_factors_count": 54,
+    "risk_factors_chars": 229780,
+    "mdna_chars": 98848,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SAVE_FY2024_parsed.json"
+  },
+  {
+    "fiscal_year": "2023",
+    "risk_factors_count": 50,
+    "risk_factors_chars": 193555,
+    "mdna_chars": 87599,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SAVE_FY2023_parsed.json"
+  },
+  {
+    "fiscal_year": "2022",
+    "risk_factors_count": 58,
+    "risk_factors_chars": 198984,
+    "mdna_chars": 86469,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SAVE_FY2022_parsed.json"
+  },
+  {
+    "fiscal_year": "2021",
+    "risk_factors_count": 63,
+    "risk_factors_chars": 200699,
+    "mdna_chars": 97424,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SAVE_FY2021_parsed.json"
+  },
+  {
+    "fiscal_year": "2020",
+    "risk_factors_count": 58,
+    "risk_factors_chars": 190850,
+    "mdna_chars": 107692,
+    "output": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\processed\\SAVE_FY2020_parsed.json"
+  }
+]

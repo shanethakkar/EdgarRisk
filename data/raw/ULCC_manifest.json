@@ -1,0 +1,42 @@
+[
+  {
+    "ticker": "ULCC",
+    "fiscal_year": "2025",
+    "filing_date": "2026-02-18",
+    "report_date": "2025-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ULCC_10K_2025.html",
+    "accession": "0001670076-26-000020"
+  },
+  {
+    "ticker": "ULCC",
+    "fiscal_year": "2024",
+    "filing_date": "2025-02-18",
+    "report_date": "2024-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ULCC_10K_2024.html",
+    "accession": "0001670076-25-000041"
+  },
+  {
+    "ticker": "ULCC",
+    "fiscal_year": "2023",
+    "filing_date": "2024-02-20",
+    "report_date": "2023-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ULCC_10K_2023.html",
+    "accession": "0001670076-24-000021"
+  },
+  {
+    "ticker": "ULCC",
+    "fiscal_year": "2022",
+    "filing_date": "2023-02-22",
+    "report_date": "2022-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ULCC_10K_2022.html",
+    "accession": "0001670076-23-000019"
+  },
+  {
+    "ticker": "ULCC",
+    "fiscal_year": "2021",
+    "filing_date": "2022-02-23",
+    "report_date": "2021-12-31",
+    "local_path": "C:\\Users\\shane\\Projects\\RiskAnalyzer\\data\\raw\\ULCC_10K_2021.html",
+    "accession": "0001670076-22-000016"
+  }
+]
