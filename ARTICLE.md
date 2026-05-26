@@ -148,7 +148,7 @@ The honest article-grade claim:
 
 > **79% recall on Chapter 11 events within a 24-failure test set spanning 15 sectors. 46% precision in-sample. 61-69% precision at a 2-3 year extended horizon, where 27% of the apparent "false positives" subsequently underwent material distress events. The model is best characterized as a 1-3 year leading indicator of operational distress, not a real-time bankruptcy predictor. Five named structural blind spots — sudden balance-sheet shocks, industry surprises, chronic anomalies, static peer cohorts, and frozen-disclosure failures — account for the remaining misses.**
 
-That's the model. The code is on [GitHub](https://github.com/YOUR-USERNAME/EdgarRisk), the per-phase findings are organized one directory per phase under `outputs/`, and the headline chart is below.
+That's the model. The code is on [GitHub](https://github.com/shanethakkar/EdgarRisk), the per-phase findings are organized one directory per phase under `outputs/`, and the headline chart is below.
 
 *The corporate language in SEC 10-K Risk Factors changes slowly. When it changes, something happened. Most of the time, what happened was a lawyer preparing for a fight that takes 1-3 years to play out.*
 
