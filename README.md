@@ -53,8 +53,9 @@ The underlying metric is TF-IDF cosine similarity between consecutive years of a
 
 ## Key findings
 
-1. **A continuous Distress Score (0-100) ranks companies for tool/lookup use.** See [outputs/phase6_distress_score/](outputs/phase6_distress_score/). Top of the ranking: 4 of 6 score-70 observations are real distress (3 Ch.11 + 1 subsequent take-private attempt). PPV at score ≥ 60 is 67% under extended-horizon labels. The score is a transparent rule-based weighted sum of the three binary signals plus a small percentile-rank tiebreaker — not ML — because at N=102 a logistic regression produced worse-than-random rankings (OOF AUC=0.35). Honest framing: it's a ranking affordance, not an independent classifier.
-2. **Novelty + under-disclosure together catch 79% of slow-burn failures (19/24).** The 5 misses each fall into one of 7 named structurally-undetectable subclasses.
+1. **The signal detects distress but does NOT predict forward stock returns.** See [outputs/phase7_forward_returns/](outputs/phase7_forward_returns/). Regression of 12m/24m/36m forward returns on Distress Score yields no statistically significant relationship (p=0.83 at 12m, p=0.18 at 24m). The mechanism: by the time a 10-K is filed and the score is computable, the market has already priced in the underlying operational deterioration. The signal is informationally valuable for *identifying* distressed companies but not *investable* for trading.
+2. **A continuous Distress Score (0-100) ranks companies for tool/lookup use.** See [outputs/phase6_distress_score/](outputs/phase6_distress_score/). Top of the ranking: 4 of 6 score-70 observations are real distress (3 Ch.11 + 1 subsequent take-private attempt). PPV at score ≥ 60 is 67% under extended-horizon labels. The score is a transparent rule-based weighted sum of the three binary signals plus a small percentile-rank tiebreaker — not ML — because at N=102 a logistic regression produced worse-than-random rankings (OOF AUC=0.35).
+3. **Novelty + under-disclosure together catch 79% of slow-burn failures (19/24).** The 5 misses each fall into one of 7 named structurally-undetectable subclasses.
 2. **Absolute sentiment is anti-predictive in retail.** Every retail failure (5/5) had *less* negative language than its healthy peers because established retailers carry structural disclosure burden (store closures, leases) that loads up Loughran-McDonald Negative vocabulary even when healthy.
 3. **Opioid-litigation pharmaceuticals (Endo, Mallinckrodt) both fired the under-disclosure signal**, consistent with the well-known asymmetric incentive: defense counsel routinely advises reducing risk-factor updates during active litigation to avoid plaintiff-friendly admissions.
 4. **Methodology stress test:** Spirit Airlines tested out-of-sample after methodology lockdown (Phase 1D) — missed by novelty-spike, caught by the under-disclosure signal that was added in Phase 2C.
@@ -130,6 +131,7 @@ EdgarRisk/
     ├── phase4_chronic_and_fp/     # Phase 4: chronic-UD + false-positive validation
     ├── phase5_longitudinal/       # Phase 5: longitudinal follow-up (hero finding)
     ├── phase6_distress_score/     # Phase 6: rule-based 0-100 score for ranking
+    ├── phase7_forward_returns/    # Phase 7: forward-returns backtest (negative result)
     └── legacy/                    # Original Boeing pilot memo
 ```
 

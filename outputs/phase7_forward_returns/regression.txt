@@ -1,0 +1,19 @@
+=== Distress Score vs Forward Returns ===
+
+12m raw:  n=75  Pearson r=-0.025 (p=0.833)  Spearman rho=+0.059 (p=0.612)
+  slope = -0.00178 (-1.8pp per 10 score points)
+
+12m vs SPY:  n=75  Pearson r=-0.020 (p=0.862)  Spearman rho=+0.102 (p=0.385)
+  slope = -0.00129 (-1.3pp per 10 score points)
+
+24m raw:  n=75  Pearson r=-0.156 (p=0.180)  Spearman rho=-0.121 (p=0.302)
+  slope = -0.02387 (-23.9pp per 10 score points)
+
+24m vs SPY:  n=75  Pearson r=-0.158 (p=0.175)  Spearman rho=-0.114 (p=0.331)
+  slope = -0.02290 (-22.9pp per 10 score points)
+
+36m raw:  n=75  Pearson r=-0.099 (p=0.396)  Spearman rho=-0.046 (p=0.693)
+  slope = -0.01237 (-12.4pp per 10 score points)
+
+36m vs SPY:  n=69  Pearson r=-0.139 (p=0.256)  Spearman rho=-0.081 (p=0.508)
+  slope = -0.01756 (-17.6pp per 10 score points)
