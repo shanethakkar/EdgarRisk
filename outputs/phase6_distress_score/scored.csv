@@ -1,0 +1,103 @@
+subject,cohort_of,sector,is_failure_strict,is_failure_extended,distress_score,signals_fired,novelty_spike,declining_ud,chronic_ud,max_rank,mean_rank,t0_rank,own_max_raw
+WE,WE,Commercial real estate,1,1,70,2,1,1,0,1.0,0.62,0.25,0.715
+FSR,FSR,EV / cleantech,1,1,70,2,1,1,0,1.0,0.78,0.33,0.631
+CHK,CHK,Energy E&P,1,1,70,2,1,1,0,1.0,0.62,0.25,0.177
+KEY,SIVB,Mid-cap commercial bank,0,0,70,2,1,1,0,1.0,0.44,0.25,0.599
+KEY,SI,Small-cap regional bank,0,0,70,2,1,1,0,1.0,0.5,0.25,0.599
+KSS,SHLD,Dept store retail,0,1,70,2,1,1,0,1.0,0.61,0.33,0.165
+SHLD,SHLD,Dept store retail,1,1,40,1,1,0,0,1.0,0.71,1.0,0.165
+ASNA,ASNA,Specialty retail,1,1,40,1,1,0,0,1.0,0.75,0.83,0.103
+BBBY,BBBY,Specialty retail,1,1,40,1,1,0,0,1.0,0.72,0.67,0.506
+YELL,YELL,LTL trucking,1,1,40,1,1,0,0,1.0,0.88,0.5,0.18
+TUP,TUP,Household consumer,1,1,40,1,1,0,0,1.0,1.0,1.0,0.204
+RAD,RAD,Drugstore,1,1,40,1,1,0,0,1.0,1.0,1.0,0.166
+NKLA,NKLA,EV / cleantech,1,1,40,1,1,0,0,1.0,1.0,1.0,0.733
+RIDE,RIDE,EV / cleantech,1,1,40,1,1,0,0,1.0,1.0,1.0,0.129
+WLL,WLL,Energy E&P,1,1,40,1,0,1,0,1.0,0.62,0.25,0.078
+GD,BA,Aerospace/Defense,0,0,40,1,1,0,0,1.0,0.67,1.0,0.107
+NOC,BA,Aerospace/Defense,0,0,40,1,1,0,0,1.0,0.83,0.5,0.176
+WAL,SI,Small-cap regional bank,0,0,40,1,1,0,0,1.0,0.61,1.0,0.464
+ALK,SAVE,ULCC airline,0,0,40,1,1,0,0,1.0,1.0,1.0,0.136
+BBY,SHLD,Dept store retail,0,0,40,1,1,0,0,1.0,0.83,0.83,0.214
+JWN,SHLD,Dept store retail,0,1,40,1,1,0,0,1.0,0.79,0.67,0.139
+BBY,JCP,Dept store retail,0,0,40,1,1,0,0,1.0,0.83,0.83,0.214
+M,JCP,Dept store retail,0,1,40,1,1,0,0,1.0,0.62,0.5,0.474
+JWN,JCP,Dept store retail,0,1,40,1,1,0,0,1.0,0.88,1.0,0.273
+BBY,PIR,Home goods specialty,0,0,40,1,1,0,0,1.0,0.83,0.83,0.214
+M,PIR,Home goods specialty,0,1,40,1,1,0,0,1.0,0.54,0.33,0.474
+JWN,PIR,Home goods specialty,0,1,40,1,1,0,0,1.0,0.83,1.0,0.273
+BBY,ASNA,Specialty retail,0,0,40,1,1,0,0,1.0,0.71,0.67,0.214
+M,ASNA,Specialty retail,0,1,40,1,1,0,0,1.0,0.54,0.33,0.474
+JWN,ASNA,Specialty retail,0,1,40,1,1,0,0,1.0,0.83,1.0,0.273
+KSS,BBBY,Specialty retail,0,1,40,1,1,0,0,1.0,0.82,1.0,0.238
+JWN,BBBY,Specialty retail,0,1,40,1,1,0,0,1.0,0.79,0.5,0.301
+ODFL,YELL,LTL trucking,0,0,40,1,1,0,0,1.0,0.62,1.0,0.135
+KSS,EXPR,Specialty apparel retail,0,1,40,1,1,0,0,1.0,0.88,1.0,0.238
+JWN,EXPR,Specialty apparel retail,0,1,40,1,1,0,0,1.0,0.88,0.67,0.301
+HES,CHK,Energy E&P,0,0,40,1,1,0,0,1.0,0.75,1.0,0.164
+COP,WLL,Energy E&P,0,0,40,1,1,0,0,1.0,0.88,0.75,0.141
+HES,WLL,Energy E&P,0,0,40,1,1,0,0,1.0,0.75,1.0,0.164
+PFE,ENDP,Specialty pharma,0,0,40,1,1,0,0,1.0,0.81,0.75,0.171
+BMY,ENDP,Specialty pharma,0,0,40,1,1,0,0,1.0,0.81,0.5,0.322
+BMY,MNK,Specialty pharma,0,0,40,1,1,0,0,1.0,1.0,1.0,0.322
+ALGN,SDC,Dental / consumer health,0,0,40,1,1,0,0,1.0,1.0,1.0,0.285
+PIR,PIR,Home goods specialty,1,1,37,1,1,0,0,0.83,0.62,0.67,0.128
+M,BBBY,Specialty retail,0,1,37,1,1,0,0,0.83,0.6,0.83,0.131
+BBY,EXPR,Specialty apparel retail,0,0,37,1,0,1,0,0.83,0.5,0.33,0.095
+M,EXPR,Specialty apparel retail,0,1,37,1,1,0,0,0.83,0.67,0.83,0.131
+BBY,BBBY,Specialty retail,0,0,36,1,0,1,0,0.8,0.37,0.17,0.095
+XPO,YELL,LTL trucking,0,0,35,1,1,0,0,0.75,0.75,0.75,0.109
+CHD,TUP,Household consumer,0,0,35,1,1,0,0,0.75,0.75,0.75,0.108
+COP,CHK,Energy E&P,0,0,35,1,1,0,0,0.75,0.75,0.75,0.141
+SAVE,SAVE,ULCC airline,1,1,33,1,0,1,0,0.67,0.39,0.25,0.041
+JCP,JCP,Dept store retail,1,1,33,1,0,1,0,0.67,0.46,0.33,0.067
+CVS,RAD,Drugstore,0,1,33,1,0,1,0,0.67,0.42,0.33,0.131
+ENDP,ENDP,Specialty pharma,1,1,30,1,0,1,0,0.5,0.38,0.25,0.057
+MNK,MNK,Specialty pharma,1,1,30,1,0,1,0,0.5,0.38,0.25,0.051
+ARCB,YELL,LTL trucking,0,0,30,1,0,1,0,0.5,0.38,0.25,0.029
+CLX,TUP,Household consumer,0,0,30,1,0,1,0,0.5,0.38,0.25,0.034
+EXPR,EXPR,Specialty apparel retail,1,1,30,1,0,0,1,0.33,0.21,0.17,0.08
+SDC,SDC,Dental / consumer health,1,1,30,1,0,0,1,0.33,0.33,0.33,0.016
+WSM,BBBY,Specialty retail,0,0,30,1,0,0,1,0.33,0.26,0.33,0.078
+LCID,RIDE,EV / cleantech,0,1,30,1,0,0,1,0.33,0.33,0.33,0.012
+WSM,SHLD,Dept store retail,0,0,30,1,0,0,1,0.17,0.17,0.17,0.023
+WSM,JCP,Dept store retail,0,0,30,1,0,0,1,0.17,0.17,0.17,0.018
+WSM,PIR,Home goods specialty,0,0,30,1,0,0,1,0.17,0.17,0.17,0.018
+WSM,ASNA,Specialty retail,0,0,30,1,0,0,1,0.17,0.17,0.17,0.018
+HTZ,HTZ,Car rental / equipment,1,1,10,0,0,0,0,1.0,0.83,0.67,0.065
+HBAN,SIVB,Mid-cap commercial bank,0,0,10,0,0,0,0,1.0,0.83,1.0,0.061
+LULU,PTON,D2C consumer subscription,0,0,10,0,0,0,0,1.0,0.72,0.67,0.084
+ROK,PTON,D2C consumer subscription,0,0,10,0,0,0,0,1.0,0.89,1.0,0.071
+CUBI,SI,Small-cap regional bank,0,0,10,0,0,0,0,1.0,0.81,0.75,0.064
+CWK,WE,Commercial real estate,0,0,10,0,0,0,0,1.0,0.88,1.0,0.091
+RIVN,FSR,EV / cleantech,0,0,10,0,0,0,0,1.0,1.0,1.0,0.033
+MRK,ENDP,Specialty pharma,0,0,10,0,0,0,0,1.0,0.5,1.0,0.068
+CAR,HTZ,Car rental / equipment,0,0,10,0,0,0,0,1.0,0.67,1.0,0.022
+SIVB,SIVB,Mid-cap commercial bank,1,1,5,0,0,0,0,0.75,0.75,0.75,0.051
+SI,SI,Small-cap regional bank,1,1,5,0,0,0,0,0.75,0.62,0.5,0.043
+LMT,BA,Aerospace/Defense,0,0,5,0,0,0,0,0.75,0.75,0.75,0.092
+ULCC,SAVE,ULCC airline,0,0,5,0,0,0,0,0.75,0.75,0.75,0.053
+IRM,WE,Commercial real estate,0,0,5,0,0,0,0,0.75,0.62,0.75,0.042
+CHPT,NKLA,EV / cleantech,0,0,5,0,0,0,0,0.75,0.75,0.75,0.022
+PFE,MNK,Specialty pharma,0,0,5,0,0,0,0,0.75,0.75,0.75,0.076
+BA,BA,Aerospace/Defense,1,1,3,0,0,0,0,0.67,0.42,0.25,0.032
+FITB,SIVB,Mid-cap commercial bank,0,0,3,0,0,0,0,0.67,0.54,0.5,0.031
+KSS,JCP,Dept store retail,0,1,3,0,0,0,0,0.67,0.54,0.67,0.096
+KSS,PIR,Home goods specialty,0,1,3,0,0,0,0,0.67,0.5,0.5,0.096
+KSS,ASNA,Specialty retail,0,1,3,0,0,0,0,0.67,0.5,0.5,0.096
+WBA,RAD,Drugstore,0,1,3,0,0,0,0,0.67,0.58,0.67,0.086
+RIVN,NKLA,EV / cleantech,0,0,3,0,0,0,0,0.67,0.58,0.5,0.033
+RIVN,RIDE,EV / cleantech,0,0,3,0,0,0,0,0.67,0.67,0.67,0.033
+LCID,FSR,EV / cleantech,0,1,3,0,0,0,0,0.67,0.67,0.67,0.012
+HSIC,SDC,Dental / consumer health,0,0,3,0,0,0,0,0.67,0.67,0.67,0.18
+URI,HTZ,Car rental / equipment,0,0,3,0,0,0,0,0.67,0.5,0.33,0.025
+LUV,SAVE,ULCC airline,0,0,0,0,0,0,0,0.5,0.44,0.5,0.039
+M,SHLD,Dept store retail,0,1,0,0,0,0,0,0.5,0.39,0.5,0.04
+NMRK,WE,Commercial real estate,0,0,0,0,0,0,0,0.5,0.38,0.5,0.038
+CL,TUP,Household consumer,0,0,0,0,0,0,0,0.5,0.38,0.5,0.03
+WSM,EXPR,Specialty apparel retail,0,0,0,0,0,0,0,0.5,0.38,0.5,0.078
+DVN,CHK,Energy E&P,0,0,0,0,0,0,0,0.5,0.5,0.5,0.129
+DVN,WLL,Energy E&P,0,0,0,0,0,0,0,0.5,0.5,0.5,0.129
+MRK,MNK,Specialty pharma,0,0,0,0,0,0,0,0.5,0.38,0.5,0.052
+PTON,PTON,D2C consumer subscription,1,1,0,0,0,0,0,0.33,0.33,0.33,0.028
+LCID,NKLA,EV / cleantech,0,1,0,0,0,0,0,0.33,0.29,0.25,0.012

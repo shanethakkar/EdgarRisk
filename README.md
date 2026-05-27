@@ -53,7 +53,8 @@ The underlying metric is TF-IDF cosine similarity between consecutive years of a
 
 ## Key findings
 
-1. **Novelty + under-disclosure together catch 79% of slow-burn failures (19/24).** The 5 misses each fall into one of 7 named structurally-undetectable subclasses.
+1. **A continuous Distress Score (0-100) ranks companies for tool/lookup use.** See [outputs/phase6_distress_score/](outputs/phase6_distress_score/). Top of the ranking: 4 of 6 score-70 observations are real distress (3 Ch.11 + 1 subsequent take-private attempt). PPV at score ≥ 60 is 67% under extended-horizon labels. The score is a transparent rule-based weighted sum of the three binary signals plus a small percentile-rank tiebreaker — not ML — because at N=102 a logistic regression produced worse-than-random rankings (OOF AUC=0.35). Honest framing: it's a ranking affordance, not an independent classifier.
+2. **Novelty + under-disclosure together catch 79% of slow-burn failures (19/24).** The 5 misses each fall into one of 7 named structurally-undetectable subclasses.
 2. **Absolute sentiment is anti-predictive in retail.** Every retail failure (5/5) had *less* negative language than its healthy peers because established retailers carry structural disclosure burden (store closures, leases) that loads up Loughran-McDonald Negative vocabulary even when healthy.
 3. **Opioid-litigation pharmaceuticals (Endo, Mallinckrodt) both fired the under-disclosure signal**, consistent with the well-known asymmetric incentive: defense counsel routinely advises reducing risk-factor updates during active litigation to avoid plaintiff-friendly admissions.
 4. **Methodology stress test:** Spirit Airlines tested out-of-sample after methodology lockdown (Phase 1D) — missed by novelty-spike, caught by the under-disclosure signal that was added in Phase 2C.
@@ -128,6 +129,7 @@ EdgarRisk/
     ├── phase3_scale/              # Phase 3: scale to 24 failures across 15 sectors
     ├── phase4_chronic_and_fp/     # Phase 4: chronic-UD + false-positive validation
     ├── phase5_longitudinal/       # Phase 5: longitudinal follow-up (hero finding)
+    ├── phase6_distress_score/     # Phase 6: rule-based 0-100 score for ranking
     └── legacy/                    # Original Boeing pilot memo
 ```
 
